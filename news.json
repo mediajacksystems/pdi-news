@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-16T19:52:20Z",
+  "updatedAt": "2026-10-16T20:25:39Z",
   "stories": [
     {
       "id": "2026-10-16-1500-fmcsa-split-sleeper-pilot",
@@ -18,7 +18,7 @@
         {
           "title": "Agency Information Collection Activities; New Information Collection: Hours of Service of Drivers; Pilot Program To Allow Commercial Drivers To Split Sleeper Berth Time",
           "publisher": "Federal Register (FMCSA)",
-          "url": "https://thefederalregister.org/documents/2026-20524/agency-information-collection-activities-new-information-collection-hours-of-service-of-drivers-pilot-program-to-allow-c",
+          "url": "https://www.federalregister.gov/documents/2026/10/07/2026-20524/agency-information-collection-activities-new-information-collection-hours-of-service-of-drivers",
           "date": "2026-10-07"
         },
         {
@@ -84,7 +84,7 @@
         "regulation",
         "rates"
       ],
-      "featured": false,
+      "featured": true,
       "sources": [
         {
           "title": "Gasoline and Diesel Fuel Update",
