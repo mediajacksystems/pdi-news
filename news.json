@@ -1,7 +1,39 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-16T16:52:10Z",
+  "updatedAt": "2026-10-16T19:52:20Z",
   "stories": [
+    {
+      "id": "2026-10-16-1500-fmcsa-split-sleeper-pilot",
+      "publishedAt": "2026-10-16T19:52:20Z",
+      "title": "FMCSA moves split sleeper pilot forward: 5/5 and 6/4 splits, 256 drivers",
+      "dek": "A Federal Register notice opens comment until Dec. 7 on a 16-week study of shorter sleeper berth splits. It is research, not a rule, and current 7/3 and 8/2 splits still apply.",
+      "body": "FMCSA took another step toward a pilot that would let some drivers split their required sleeper berth time more flexibly than current hours-of-service rules allow. The agency published a Paperwork Reduction Act notice in the Federal Register on Oct. 7, 2026 (91 FR 64214), and comments are due Dec. 7, 2026.\n\nNothing changes on the road yet. This is a research study, not a rule.\n\n## What the pilot would test\n\nToday a driver can split the 10-hour off-duty requirement into 7/3 or 8/2 periods. The pilot would let participating drivers shorten the longer sleeper berth period to as little as five hours, which opens up 5/5 and 6/4 splits, according to the notice.\n\nFMCSA says about 256 drivers would take part, each for 16 weeks. The study uses a within-subjects design, so the same drivers are compared under current rules and under the exemption. Data would come from surveys, psychomotor vigilance tests, sleepiness ratings, wrist actigraphy, records of duty status and telematics, with the Virginia Tech Transportation Institute collecting the duty status records, per the notice.\n\nFMCSA's stated test is whether the flexibility delivers \"an equivalent or greater level of safety\" than the current rules.\n\nAccording to FreightWaves, which reported on the notice Oct. 8, 2026, drivers with an unsatisfactory FMCSA rating, an out-of-service rate above the national average, or enforcement actions in the past three years would be ineligible. FreightWaves also reported a DOT press release from late August put participant pay at $1,600. The same outlet said the full program was described in September 2025 as taking 34 to 36 months.\n\n## What it means for carriers\n\nIf the data support shorter splits, drivers could fit rest around detention, traffic and delivery windows with less lost clock time. That matters most for drivers who sit at docks for hours and then lose a shift to the 14-hour clock.\n\nCarriers with a clean safety record may want to look at the eligibility rules now. Those with weaker numbers would be left out of the study, and any rule that follows would likely come years later.\n\nThe Owner-Operator Independent Drivers Association's Lewie Pugh told FreightWaves the group is \"always in favor of more hours of service flexibility.\" The group also wants drivers, not carriers or shippers, to decide how any added hours are used.\n\n## What shippers and brokers should watch\n\nFlexible splits could change how drivers plan stops and appointment times, but only if a rule is eventually adopted. For now, keep scheduling around the current 7/3 and 8/2 options. Tight, inflexible appointment windows are the pressure point reformers say the pilot is meant to ease.\n\nThe comment docket is FMCSA-2026-2080. Fleets and shipper groups that want to weigh in on the study design have until Dec. 7.",
+      "tags": [
+        "regulation",
+        "safety",
+        "labor"
+      ],
+      "featured": false,
+      "sources": [
+        {
+          "title": "Agency Information Collection Activities; New Information Collection: Hours of Service of Drivers; Pilot Program To Allow Commercial Drivers To Split Sleeper Berth Time",
+          "publisher": "Federal Register (FMCSA)",
+          "url": "https://thefederalregister.org/documents/2026-20524/agency-information-collection-activities-new-information-collection-hours-of-service-of-drivers-pilot-program-to-allow-c",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "FMCSA split sleeper berth pilot program moves closer to launch",
+          "publisher": "FreightWaves",
+          "url": "https://www.freightwaves.com/news/fmcsa-split-sleeper-berth-pilot-program-moves-closer-to-launch",
+          "date": "2026-10-08"
+        }
+      ],
+      "es": {
+        "title": "FMCSA avanza el piloto de litera dividida: cortes 5/5 y 6/4, 256 conductores",
+        "dek": "Un aviso del Federal Register abre comentarios hasta el 7 de dic. para un estudio de 16 semanas. Es investigación, no una regla; siguen vigentes las divisiones 7/3 y 8/2.",
+        "body": "La FMCSA dio otro paso hacia un programa piloto que permitiría a algunos conductores dividir el tiempo obligatorio en la litera con más flexibilidad que las reglas actuales de horas de servicio. La agencia publicó el 7 de octubre de 2026 en el Federal Register un aviso bajo la Ley de Reducción de Trámites Burocráticos (91 FR 64214), y los comentarios se aceptan hasta el 7 de diciembre de 2026.\n\nPor ahora nada cambia en la carretera. Se trata de un estudio de investigación, no de una regla.\n\n## Qué probaría el piloto\n\nHoy un conductor puede dividir las 10 horas de descanso en periodos de 7/3 u 8/2. Según el aviso, el piloto permitiría a los participantes reducir el periodo más largo en la litera a un mínimo de cinco horas, lo que abre divisiones de 5/5 y 6/4.\n\nLa FMCSA indica que participarían unos 256 conductores, cada uno durante 16 semanas. El estudio compara a los mismos conductores bajo las reglas actuales y bajo la exención. Los datos vendrían de encuestas, pruebas de vigilancia psicomotora, escalas de somnolencia, actigrafía de muñeca, registros de estado de servicio y telemática, y el Instituto de Transporte de Virginia Tech reuniría los registros de servicio, según el aviso.\n\nLa prueba de la FMCSA es si la flexibilidad ofrece \"un nivel de seguridad equivalente o mayor\" que las reglas actuales.\n\nSegún FreightWaves, que informó sobre el aviso el 8 de octubre de 2026, quedarían fuera los conductores con calificación insatisfactoria de la FMCSA, con una tasa de fuera de servicio superior al promedio nacional o con acciones de cumplimiento en los últimos tres años. FreightWaves también reportó que un comunicado del DOT de finales de agosto fijó el pago a los participantes en $1,600. El mismo medio señaló que en septiembre de 2025 se describió el programa completo como de 34 a 36 meses.\n\n## Qué significa para los transportistas\n\nSi los datos respaldan divisiones más cortas, los conductores podrían acomodar el descanso según las esperas, el tráfico y las ventanas de entrega, con menos tiempo perdido en el reloj. Eso importa sobre todo a quienes pasan horas detenidos en el muelle y luego pierden un turno por el reloj de 14 horas.\n\nLas empresas con buen historial de seguridad deberían revisar ya los requisitos de elegibilidad. Las de peores números quedarían fuera del estudio, y cualquier regla posterior probablemente tardaría años.\n\nLewie Pugh, de la Owner-Operator Independent Drivers Association, dijo a FreightWaves que el grupo está \"siempre a favor de más flexibilidad en las horas de servicio\". La asociación también quiere que los conductores, y no los transportistas ni los cargadores, decidan cómo usar las horas adicionales.\n\n## Qué deben vigilar cargadores y corredores de carga\n\nLas divisiones flexibles podrían cambiar la forma en que los conductores planean paradas y citas, pero solo si algún día se adopta una regla. Por ahora, sigan programando con las opciones actuales de 7/3 y 8/2. Las ventanas de cita rígidas son el punto de presión que, según quienes impulsan la reforma, el piloto busca aliviar.\n\nEl expediente de comentarios es FMCSA-2026-2080. Las flotas y los grupos de cargadores que quieran opinar sobre el diseño del estudio tienen hasta el 7 de diciembre."
+      }
+    },
     {
       "id": "2026-10-16-1200-truckload-rates-capacity-q4",
       "publishedAt": "2026-10-16T16:52:10Z",
