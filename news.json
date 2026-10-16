@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-16T16:16:39Z",
+  "stories": [
+    {
+      "id": "2026-10-16-0900-diesel-eases-dyed-diesel-relief",
+      "publishedAt": "2026-10-16T16:16:39Z",
+      "title": "Diesel eases to $6.18, but dyed-diesel relief is thin and carriers are told to wait",
+      "dek": "EIA's weekly average slipped for a third week to $6.179, still $2.514 above last year. An Oct. 5 order offers penalty relief on dyed diesel, not a tax repeal.",
+      "body": "Diesel is easing from its September record, but not by much, and the federal relief announced this month is unlikely to change a carrier's fuel bill. The U.S. Energy Information Administration put the national on-highway average at $6.179 a gallon for the week of Oct. 12, down 2 cents from the prior week and $2.514 above a year earlier.\n\nThat is the third straight weekly decline. EIA's weekly table shows the average peaked at $6.529 the week of Sept. 21, then slid to $6.382 on Sept. 28 and $6.199 on Oct. 5. Regional moves were mixed in the latest week: the Gulf Coast was lowest at $5.809, while the West Coast averaged $7.240 and California $8.091, both up slightly. EIA's next release is scheduled for Oct. 20.\n\n## The dyed-diesel order is narrower than it sounds\n\nAn Oct. 5 executive order directs Treasury and the IRS to provide penalty relief for highway use of dyed diesel through the end of 2026, and to study whether certain diesel tax payments can be deferred. Heavy Duty Trucking's Deborah Lockridge reported on Oct. 14 that this is not a tax repeal. Deferral means paying later, and the federal tax is 24.4 cents a gallon.\n\nThe American Trucking Associations' Henry Hanscom described it as a directive for temporary penalty relief, \"not a blanket repeal.\" ATA advises carriers to wait for Treasury guidance before running dyed fuel on the road, and warns that dye can linger in fuel systems and raise warranty questions. Federal relief also does not override state fuel taxes or IFTA reporting.\n\nOwner-operator group OOIDA expects minimal relief, and CEO Todd Spencer said every $1 a gallon costs its members about $400 more per week, according to the same report.\n\n## What it means for carriers\n\nCrude is still the swing factor. FleetOwner reported on Sept. 30 that Brent was back above $106 a barrel as talks over the Iran war and the Strait of Hormuz stalled. Tom Kloza of Gulf Oil told Heavy Duty Trucking the $6.53 record could be topped by the midterms, and U.S. diesel futures rose about 5% by midday on Oct. 13, per NBC News as cited there.\n\nOn the rate side, DAT estimated that the fuel component of spot rates hit records in September: 84 cents a mile for vans, 92 cents for reefers and $1.01 for flatbeds. DAT's Dean Croke said rates typically take three to four weeks to catch up with diesel moves, so carriers who priced loads in the spike weeks may still be under water.\n\n## What shippers and brokers should watch\n\nFuel surcharge schedules keyed to EIA's weekly number will step down only slightly on the next reset. Check how often your schedule updates and what mileage band it uses, because a small weekly change can still shift cost on long lanes. Watch Treasury's guidance on dyed diesel before assuming any carrier cost relief will show up in quotes.\n\nTrack the weekly numbers on PDI's diesel prices page at /diesel.",
+      "tags": [
+        "diesel",
+        "fuel",
+        "regulation",
+        "rates"
+      ],
+      "featured": false,
+      "sources": [
+        {
+          "title": "Gasoline and Diesel Fuel Update",
+          "publisher": "U.S. Energy Information Administration",
+          "url": "https://www.eia.gov/petroleum/gasdiesel/",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "Diesel Price Relief May Be Short-Lived",
+          "publisher": "Heavy Duty Trucking / Truckinginfo",
+          "url": "https://www.truckinginfo.com/news/why-diesel-price-relief-efforts-may-fall-short",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "U.S. diesel prices fall to $6.38 but Iran oil volatility rages on",
+          "publisher": "FleetOwner",
+          "url": "https://www.fleetowner.com/emissions-efficiency/news/55408459/us-diesel-prices-fall-to-638-but-iran-oil-volatility-rages-on",
+          "date": "2026-09-30"
+        }
+      ],
+      "es": {
+        "title": "El diésel baja a $6.18, pero el alivio del diésel teñido es limitado",
+        "dek": "El promedio semanal de la EIA bajó por tercera semana a $6.179, aún $2.514 sobre el año pasado. La orden del 5 de octubre da alivio de multas, no elimina el impuesto.",
+        "body": "El diésel baja desde su récord de septiembre, pero poco, y el alivio federal anunciado este mes difícilmente cambiará la factura de combustible de un transportista. La Administración de Información de Energía (EIA) ubicó el promedio nacional en carretera en $6.179 por galón para la semana del 12 de octubre, 2 centavos menos que la semana anterior y $2.514 más que hace un año.\n\nEs la tercera baja semanal seguida. La tabla semanal de la EIA muestra que el promedio tocó $6.529 en la semana del 21 de septiembre y luego bajó a $6.382 el 28 de septiembre y a $6.199 el 5 de octubre. Por región, la Costa del Golfo fue la más barata con $5.809, mientras que la Costa Oeste promedió $7.240 y California $8.091, ambas con un leve aumento. La próxima publicación de la EIA está programada para el 20 de octubre.\n\n## La orden sobre diésel teñido es más limitada de lo que parece\n\nUna orden ejecutiva del 5 de octubre instruye al Tesoro y al IRS a ofrecer alivio de multas por el uso de diésel teñido en carretera hasta fin de 2026, y a estudiar si se pueden diferir ciertos pagos del impuesto al diésel. Deborah Lockridge, de Heavy Duty Trucking, informó el 14 de octubre que no se trata de eliminar el impuesto. Diferir significa pagar después, y el impuesto federal es de 24.4 centavos por galón.\n\nHenry Hanscom, de la Asociación Estadounidense de Transportistas (ATA), la describió como una directiva de alivio temporal de multas, \"no una derogación total\". ATA recomienda a los transportistas esperar las guías del Tesoro antes de circular con combustible teñido, y advierte que el tinte puede quedar en el sistema de combustible y generar dudas de garantía. El alivio federal tampoco anula los impuestos estatales ni los reportes IFTA.\n\nEl grupo de dueños-operadores OOIDA espera un alivio mínimo, y su director, Todd Spencer, dijo que cada $1 por galón cuesta a sus miembros unos $400 más por semana, según el mismo reporte.\n\n## Qué significa para los transportistas\n\nEl crudo sigue siendo el factor clave. FleetOwner informó el 30 de septiembre que el Brent volvió a superar los $106 por barril mientras se estancaban las conversaciones sobre la guerra con Irán y el Estrecho de Ormuz. Tom Kloza, de Gulf Oil, dijo a Heavy Duty Trucking que el récord de $6.53 podría superarse antes de las elecciones de medio periodo, y los futuros del diésel subieron cerca de 5% a media jornada del 13 de octubre, según NBC News citada en ese reporte.\n\nEn tarifas, DAT estimó que el componente de combustible en las tarifas spot alcanzó récords en septiembre: 84 centavos por milla en van, 92 centavos en refrigerado y $1.01 en plataforma. Dean Croke, de DAT, dijo que las tarifas suelen tardar de tres a cuatro semanas en alcanzar los movimientos del diésel, así que quienes cotizaron cargas en las semanas de alza podrían seguir en desventaja.\n\n## Qué deben vigilar cargadores y corredores de carga\n\nLos recargos por combustible basados en el número semanal de la EIA bajarán solo un poco en el próximo ajuste. Revisen con qué frecuencia se actualiza su tabla y qué banda de millas usa, porque un cambio semanal pequeño aún puede mover el costo en rutas largas. Esperen las guías del Tesoro sobre el diésel teñido antes de suponer que habrá alivio en las cotizaciones.\n\nSiga los precios semanales en la página de precios del diésel de PDI, en /diesel."
+      }
+    }
+  ]
+}
