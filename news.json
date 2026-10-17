@@ -1,7 +1,39 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-16T20:25:39Z",
+  "updatedAt": "2026-10-17T13:52:20Z",
   "stories": [
+    {
+      "id": "2026-10-17-0900-chrobinson-verdict-upheld",
+      "publishedAt": "2026-10-17T13:52:20Z",
+      "title": "Judge upholds $604 million verdict against C.H. Robinson, putting broker control clauses in focus",
+      "dek": "A Dallas County judge affirmed the July verdict on Oct. 16. The case turns on whether the broker controlled the driver, not on how it picked the carrier.",
+      "body": "A Dallas County judge on Friday, Oct. 16, affirmed a July jury verdict of $604,025,000 against C.H. Robinson over a fatal 2021 truck crash, FreightWaves reported. The ruling is the first step after the jury verdict.\n\n## What happened\n\nThe March 2021 crash in Jackson, Mississippi, killed three people. The driver worked for Lupus Superior, a carrier C.H. Robinson hired to haul a load for Arizona Beverages. FreightWaves reports that about $107 million in pre-judgment interest at 6.75% pushes the total past $700 million, citing TD Cowen analyst Jason Seidl.\n\nThe case centers on control. Per FreightWaves, the judge's ruling rests on a finding that the driver was subject to control by the broker \"as to the details of the mission.\" That is a different theory from the one most brokers have worried about since the Supreme Court's May decision in *Montgomery v. Caribe Transport II*, which let negligent-selection claims against brokers proceed. Husch Blackwell, a law firm, wrote on Sept. 16 that the jury rejected a negligent-selection theory here and instead found the driver was the broker's \"borrowed employee.\" The firm pointed to contract terms such as GPS tracking and mandatory check-ins as evidence of control.\n\nC.H. Robinson's chief legal officer, Dorothy Capers, said the company did not cause or contribute to the accident, and noted that Lupus Superior held a Satisfactory FMCSA rating and had delivered nearly 270 loads for the broker without incident. She called for a national safety standard for carriers instead of rules set after the fact, state by state. Seidl told FreightWaves he assumes an appeal, with the vicarious liability finding the likeliest target.\n\n## What it means for brokers and shippers\n\nTracking, check-in calls and detailed delivery instructions are standard practice, and shippers often demand them. Husch Blackwell's warning is that the same terms can be read as operational control, and the firm advises reviewing contracts for both vetting language and control language.\n\nThe Transportation Intermediaries Association asked FMCSA in June for guidance on what brokers can rely on when picking carriers, according to FreightWaves. No guidance had been reported as of this writing.\n\n## What it means for carriers\n\nCarriers may see more broker contract language that shifts risk back to them, including indemnity and insurance minimums. Carriers should read tracking and check-in clauses closely, since they now carry legal weight beyond the load.\n\n## What to watch\n\nAn appeal could take a long time, and the judgment is not final. Watch for any FMCSA response to the TIA request, broker contract revisions, and insurer pricing for contingent auto liability coverage.",
+      "tags": [
+        "insurance",
+        "regulation",
+        "safety"
+      ],
+      "featured": true,
+      "sources": [
+        {
+          "title": "BREAKING: Texas judge upholds nuclear verdict against C.H. Robinson",
+          "publisher": "FreightWaves",
+          "url": "https://www.freightwaves.com/news/breaking-texas-judge-upholds-nuclear-verdict-against-c-h-robinson",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "$604 Million Verdict Against C.H. Robinson: Why This Is a Retained-Control Case, Not a Post-Montgomery Broker-Vetting Case",
+          "publisher": "Husch Blackwell",
+          "url": "https://www.huschblackwell.com/newsandinsights/604-million-verdict-against-ch-robinson-why-this-is-a-retained-control-case-not-a-post-montgomery-broker-vetting-case",
+          "date": "2026-09-16"
+        }
+      ],
+      "es": {
+        "title": "Juez confirma veredicto de $604 millones contra C.H. Robinson y pone el foco en cláusulas de control",
+        "dek": "Un juez del condado de Dallas confirmó el veredicto de julio el 16 de octubre. El caso gira en torno al control del conductor, no a cómo se eligió al transportista.",
+        "body": "Un juez del condado de Dallas confirmó el viernes 16 de octubre un veredicto de jurado de julio por $604,025,000 contra C.H. Robinson por un accidente de camión fatal en 2021, informó FreightWaves. Es el primer paso tras el veredicto del jurado.\n\n## Qué pasó\n\nEl accidente de marzo de 2021 en Jackson, Misisipi, dejó tres muertos. El conductor trabajaba para Lupus Superior, un transportista que C.H. Robinson contrató para mover una carga de Arizona Beverages. Según FreightWaves, unos $107 millones en intereses previos a la sentencia, al 6.75%, llevan el total a más de $700 millones, cifra que atribuye al analista de TD Cowen Jason Seidl.\n\nEl caso se centra en el control. Según FreightWaves, la decisión del juez se apoya en que el conductor estaba sujeto al control del corredor \"en los detalles de la misión\". Es una teoría distinta de la que más preocupa a los corredores desde la decisión de la Corte Suprema en mayo, *Montgomery v. Caribe Transport II*, que permitió reclamos por selección negligente de transportistas. El bufete Husch Blackwell escribió el 16 de septiembre que el jurado descartó la selección negligente y halló que el conductor era \"empleado prestado\" del corredor. El bufete señaló como evidencia de control cláusulas como el rastreo por GPS y los reportes obligatorios.\n\nLa directora jurídica de C.H. Robinson, Dorothy Capers, dijo que la empresa no causó ni contribuyó al accidente y que Lupus Superior tenía calificación Satisfactoria de FMCSA y casi 270 cargas entregadas sin incidentes. Pidió un estándar nacional de seguridad para transportistas, en lugar de reglas fijadas después de los hechos, estado por estado. Seidl dijo a FreightWaves que da por hecha una apelación, con la responsabilidad vicaria como blanco probable.\n\n## Qué significa para corredores y cargadores\n\nEl rastreo, las llamadas de verificación y las instrucciones detalladas de entrega son práctica común, y los cargadores suelen exigirlas. La advertencia de Husch Blackwell es que esas mismas cláusulas pueden leerse como control operativo, y recomienda revisar los contratos tanto en el lenguaje de selección como en el de control.\n\nLa Asociación de Intermediarios de Transporte (TIA) pidió en junio a FMCSA orientación sobre en qué pueden basarse los corredores al elegir transportistas, según FreightWaves. Hasta ahora no se ha reportado respuesta.\n\n## Qué significa para los transportistas\n\nEs posible que veamos más cláusulas que devuelvan el riesgo al transportista, como indemnizaciones y mínimos de seguro. Conviene leer con cuidado las cláusulas de rastreo y reportes, que ahora pesan legalmente más allá de la carga.\n\n## Qué vigilar\n\nUna apelación puede tardar y el fallo no es definitivo. Vigile cualquier respuesta de FMCSA a la solicitud de TIA, cambios en contratos de corredores y los precios de seguros de responsabilidad contingente."
+      }
+    },
     {
       "id": "2026-10-16-1500-fmcsa-split-sleeper-pilot",
       "publishedAt": "2026-10-16T19:52:20Z",
