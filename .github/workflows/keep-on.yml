@@ -1,0 +1,16 @@
+name: Keep pdi-industries.com loading
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions: {}
+
+jobs:
+  tick:
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    steps:
+      - run: |
+          curl -sS -o /dev/null -w "tick %{http_code}\n" -m 60 -X POST https://pdi-industries.com/api/intelligence/national/tick || true
