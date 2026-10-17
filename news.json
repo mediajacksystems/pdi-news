@@ -1,7 +1,45 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-17T13:52:20Z",
+  "updatedAt": "2026-10-17T16:52:37Z",
   "stories": [
+    {
+      "id": "2026-10-17-1200-truck-parking-infra-awards",
+      "publishedAt": "2026-10-17T16:52:37Z",
+      "title": "DOT awards $200 million for truck parking: 14 projects, 12 states, 2,400+ spaces",
+      "dek": "The INFRA awards put new spaces at ports and along I-40, I-80 and I-75, but construction is ahead and the sources give no opening dates.",
+      "body": "The U.S. Department of Transportation is putting $200 million into truck parking, its largest single push on the problem so far. Secretary Sean Duffy announced the awards on Oct. 14 during a stop in Savannah, Georgia, according to WTOC, and Trucking Dive reported on Oct. 15 that the money comes from the Infrastructure for Rebuilding America (INFRA) program.\n\nLand Line reported on Oct. 16 that the money covers 14 projects in 12 states: Arkansas, California, Connecticut, Georgia, Illinois, Iowa, Minnesota, Nebraska, North Carolina, Tennessee, Texas and Wisconsin. Its tally of the project list comes to more than 2,400 new spaces.\n\n## Where the spaces are going\n\nThe biggest single award by space count is in Tennessee. Trucking Dive says the project adds about 500 spaces at five Pilot Travel Center locations near Nashville and Knoxville, open around the clock at no charge. Land Line lists the cost at $23.95 million.\n\nSeveral awards sit at ports, where trucks queue for gates and have few places to wait:\n\n- Georgia Ports Authority: $11.95 million for a lot in Garden City near the Port of Savannah, per WTOC.\n- Port of Wilmington, North Carolina: $6 million for 140 spaces, per Land Line's project list.\n- Los Indios, Texas: $9.18 million for 305 spaces, per Land Line's list.\n\nOthers are along interstate corridors. Land Line lists 260 spaces in Enfield, Connecticut, 150 spaces on I-80 in Iowa, and 106 spaces at I-41 rest areas in Wisconsin.\n\nDuffy said drivers \"shouldn't have to spend over an hour looking for a safe place,\" as quoted by Land Line. He also said the funding will cut freight costs, according to Trucking Dive. The American Trucking Associations called parking a critical safety and supply chain issue, per the same report.\n\n## What it means for carriers\n\nDon't expect a quick change on the road. Most of these are construction projects, and the sources give no opening dates. At roughly 2,400 spaces across 12 states, the awards are small against a national network of interstates. Still, the port and Interstate 40 and 75 corridor sites matter for drivers who run those lanes, because hours-of-service clocks make a missed parking spot a real cost.\n\nLand Line also noted that the Owner-Operator Independent Drivers Association worked with Rep. Mike Bost (R-Ill.) on the Truck Parking Safety Improvement Act, which would dedicate $755 million over five years to new spaces. Land Line reports it has 54 co-sponsors and is folded into the House highway bill. The $200 million is a first step by comparison.\n\n## What shippers and brokers should watch\n\nPort-adjacent parking is the piece most likely to touch your dwell times. More staging room near Savannah and Wilmington could ease gate congestion over time, but only once the lots are built. In the meantime, build realistic appointment windows into plans on lanes where drivers routinely run short of safe parking, since a driver who can't find a space may shut down early.",
+      "tags": [
+        "safety",
+        "capacity",
+        "labor"
+      ],
+      "featured": false,
+      "sources": [
+        {
+          "title": "Thousands of truck parking spots coming to 12 states",
+          "publisher": "Land Line",
+          "url": "https://landline.media/thousands-of-truck-parking-spots-coming-to-12-states/",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "$200M in federal funds to aid truck parking in 12 states",
+          "publisher": "Trucking Dive",
+          "url": "https://www.truckingdive.com/news/200m-in-federal-funds-to-aid-truck-parking-in-12-states/833091/",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "Transportation secretary announces $11.95M for truck parking in Garden City",
+          "publisher": "WTOC",
+          "url": "https://www.wtoc.com/2026/10/15/transportation-secretary-announces-1195m-truck-parking-garden-city/",
+          "date": "2026-10-14"
+        }
+      ],
+      "es": {
+        "title": "El DOT otorga $200 millones para estacionamientos de camiones: 14 proyectos en 12 estados",
+        "dek": "Los fondos INFRA crean espacios en puertos y en las interestatales I-40, I-80 e I-75, pero falta construir y las fuentes no dan fechas de apertura.",
+        "body": "El Departamento de Transporte de EE. UU. destinará $200 millones a estacionamientos para camiones, su mayor inversión en este problema hasta ahora. El secretario Sean Duffy anunció los fondos el 14 de octubre durante una visita a Savannah, Georgia, según WTOC, y Trucking Dive informó el 15 de octubre que el dinero proviene del programa INFRA (Infrastructure for Rebuilding America).\n\nLand Line informó el 16 de octubre que los recursos cubren 14 proyectos en 12 estados: Arkansas, California, Connecticut, Georgia, Illinois, Iowa, Minnesota, Nebraska, Carolina del Norte, Tennessee, Texas y Wisconsin. Según su suma de la lista de proyectos, se crearían más de 2,400 espacios nuevos.\n\n## Dónde irán los espacios\n\nEl mayor proyecto por número de espacios está en Tennessee. Trucking Dive dice que añade unos 500 espacios en cinco centros Pilot Travel Center cerca de Nashville y Knoxville, abiertos las 24 horas y sin costo. Land Line indica un costo de $23.95 millones.\n\nVarios proyectos están en puertos, donde los camiones hacen fila en las puertas y tienen pocos lugares donde esperar:\n\n- Autoridad Portuaria de Georgia: $11.95 millones para un estacionamiento en Garden City, cerca del Puerto de Savannah, según WTOC.\n- Puerto de Wilmington, Carolina del Norte: $6 millones para 140 espacios, según la lista de Land Line.\n- Los Indios, Texas: $9.18 millones para 305 espacios, según la lista de Land Line.\n\nOtros están en corredores interestatales. Land Line menciona 260 espacios en Enfield, Connecticut, 150 espacios en la I-80 en Iowa y 106 espacios en áreas de descanso de la I-41 en Wisconsin.\n\nDuffy dijo que los conductores \"shouldn't have to spend over an hour looking for a safe place\", según cita Land Line. También afirmó que la inversión reducirá los costos de flete, según Trucking Dive. La Asociación Americana de Transportistas (ATA) calificó el estacionamiento como un tema crítico de seguridad y de la cadena de suministro, según el mismo reporte.\n\n## Qué significa para los transportistas\n\nNo espere un cambio rápido en la carretera. La mayoría son obras de construcción y las fuentes no dan fechas de apertura. Con unos 2,400 espacios repartidos en 12 estados, los fondos son pequeños frente a la red nacional de carreteras interestatales. Aun así, los sitios en puertos y en los corredores de las interestatales 40 y 75 importan a los conductores que cubren esas rutas, porque con las horas de servicio, no encontrar estacionamiento tiene un costo real.\n\nLand Line también señaló que OOIDA trabajó con el representante Mike Bost (R-Ill.) en la Truck Parking Safety Improvement Act, que dedicaría $755 millones en cinco años a nuevos espacios. Según Land Line, tiene 54 copatrocinadores y forma parte del proyecto de ley de carreteras de la Cámara. Frente a eso, los $200 millones son un primer paso.\n\n## Qué deben vigilar cargadores y corredores de carga\n\nEl estacionamiento cerca de puertos es lo que más puede afectar los tiempos de espera. Más espacio de espera cerca de Savannah y Wilmington podría aliviar la congestión en las puertas con el tiempo, pero solo cuando se construyan los estacionamientos. Mientras tanto, programe citas con ventanas realistas en rutas donde los conductores suelen quedarse sin estacionamiento seguro, ya que un conductor que no encuentra espacio puede detener su jornada antes de tiempo."
+      }
+    },
     {
       "id": "2026-10-17-0900-chrobinson-verdict-upheld",
       "publishedAt": "2026-10-17T13:52:20Z",
