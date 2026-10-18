@@ -1,7 +1,46 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-17T19:53:03Z",
+  "updatedAt": "2026-10-18T13:52:04Z",
   "stories": [
+    {
+      "id": "2026-10-18-0900-cdl-school-vetting",
+      "publishedAt": "2026-10-18T13:52:04Z",
+      "title": "FMCSA seeks emergency vetting of CDL schools after banned ones return under new names",
+      "dek": "The agency wants documents reviewed before a driver training school is listed on the federal registry. The request is pending at OMB, and a permanent rule is planned.",
+      "body": "FMCSA has asked the White House budget office for emergency approval to vet commercial driver training schools before they appear on the federal Training Provider Registry, according to Transport Topics on Oct. 16. The agency says schools thrown off the registry for fraud have been signing back up under new names.\n\nThe registry matters because a CDL applicant's entry-level driver training must come from a listed provider. Since 2022, providers have listed themselves by self-certifying, the Commercial Vehicle Training Association said in its summary of the filing. FMCSA says that gap lets a school that received an emergency removal notice log in, enter new details such as a fresh email address, and be relisted.\n\n## What FMCSA wants\n\nThe request is a new information collection titled \"Strengthening the Standards for Initial Listing on the Training Provider Registry.\" As of Oct. 14, it was still under review at the Office of Information and Regulatory Affairs, per the CVTA. If approved, FMCSA would review documents before listing a provider, and again whenever a listed provider adds a location:\n\n- Lesson plans for theory and behind-the-wheel training, on the range and on public roads\n- Proof that training vehicles match the class used for CDL skills tests\n- Instructor qualifications, including driving or teaching experience and CDLs and endorsements\n- Proof of state authorization to train\n- Documentation that in-person facilities meet federal rules\n\nTransport Topics reports FMCSA said it cannot wait for normal rulemaking because public harm is reasonably likely. The agency is also starting a separate rulemaking, RIN 2126-AD00, to make the standards permanent. The CVTA says that if the emergency request is approved, a 60-day public comment notice would follow in the Federal Register within 90 days.\n\n## The crackdown behind it\n\nOn Aug. 31, FreightWaves reported that Transportation Secretary Sean Duffy announced the removal of more than 110 schools from the registry, with more than 160 others facing proposed removal. DOT said the schools had certified drivers later cited for English-language proficiency violations, and that more than 28,000 commercial drivers had been placed out of service for such violations since June 2025. Transport Topics now puts the total of closed school sites near 10,000, with about 800 schools still under regulatory review.\n\n## What it means for carriers\n\nCarriers that hire new drivers should check where an applicant trained, not just whether a certificate exists. A listed school is no longer a guarantee of quality, and a driver from a school removed later may face questions about the license. Fleets that run their own training programs should expect to document curricula, equipment and instructors more closely.\n\n## What shippers and brokers should watch\n\nA tighter registry could slow the flow of new entrants into a market where capacity is already a concern. How large that effect would be is not yet known. The first signal will be whether OMB approves the request and how long the comment period runs.",
+      "tags": [
+        "regulation",
+        "safety",
+        "labor",
+        "fraud"
+      ],
+      "featured": false,
+      "sources": [
+        {
+          "title": "FMCSA seeks emergency review of chameleon CDL schools",
+          "publisher": "Transport Topics",
+          "url": "https://www.ttnews.com/articles/fmcsa-cdl-school-review",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "FMCSA Takes Emergency Action on Key CVTA Priority",
+          "publisher": "Commercial Vehicle Training Association",
+          "url": "https://www.cvta.org/post/fmcsa-takes-emergency-action-on-key-cvta-priority",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "DOT shuts down 110 truck driving schools in CDL fraud crackdown",
+          "publisher": "FreightWaves",
+          "url": "https://www.freightwaves.com/news/dot-shuts-down-110-truck-driving-schools-in-cdl-fraud-crackdown",
+          "date": "2026-08-31"
+        }
+      ],
+      "es": {
+        "title": "La FMCSA busca revisar de emergencia las escuelas de CDL tras el regreso de las expulsadas con otros nombres",
+        "dek": "La agencia quiere revisar documentos antes de listar una escuela de capacitación en el registro federal. La solicitud está pendiente en la OMB y se planea una regla permanente.",
+        "body": "La FMCSA pidió a la oficina de presupuesto de la Casa Blanca una aprobación de emergencia para revisar a las escuelas de capacitación de conductores comerciales antes de incluirlas en el Registro de Proveedores de Capacitación (TPR), según Transport Topics el 16 de octubre. La agencia dice que escuelas expulsadas del registro por fraude se han vuelto a inscribir con otros nombres.\n\nEl registro importa porque quien solicita una CDL debe tomar su capacitación inicial con un proveedor incluido en la lista. Desde 2022, los proveedores se han inscrito por autocertificación, según el resumen de la Commercial Vehicle Training Association (CVTA). La FMCSA indica que ese vacío permite que una escuela con aviso de remoción de emergencia entre al sistema, cambie sus datos, por ejemplo con un correo nuevo, y vuelva a aparecer en la lista.\n\n## Qué pide la FMCSA\n\nLa solicitud es una nueva recolección de información titulada \"Strengthening the Standards for Initial Listing on the Training Provider Registry\". Al 14 de octubre seguía en revisión en la Oficina de Asuntos de Información y Regulación (OIRA), según la CVTA. Si se aprueba, la FMCSA revisaría documentos antes de listar a un proveedor, y de nuevo cada vez que agregue una sede:\n\n- Planes de lecciones teóricas y de manejo, en pista y en vías públicas\n- Prueba de que los vehículos de práctica corresponden a la clase usada en el examen de manejo de la CDL\n- Calificaciones de los instructores, incluida su experiencia y sus CDL y endosos\n- Prueba de autorización estatal para capacitar\n- Documentos que acrediten que las instalaciones presenciales cumplen la norma federal\n\nTransport Topics informa que la FMCSA dijo que no puede esperar al proceso normal de reglamentación porque es probable que haya daño público. La agencia también inicia una regla aparte, RIN 2126-AD00, para hacer permanentes los estándares. Según la CVTA, si se aprueba la solicitud de emergencia, el Federal Register publicaría un aviso de comentarios de 60 días en un plazo de 90 días.\n\n## La ofensiva que la originó\n\nEl 31 de agosto, FreightWaves informó que el secretario de Transporte, Sean Duffy, anunció la remoción de más de 110 escuelas del registro, y que más de 160 enfrentan una propuesta de remoción. El DOT dijo que esas escuelas certificaron a conductores que luego recibieron citaciones por falta de dominio del inglés, y que más de 28,000 conductores comerciales han sido sacados de servicio por esas infracciones desde junio de 2025. Transport Topics calcula ahora cerca de 10,000 sedes de escuelas cerradas y unas 800 escuelas todavía bajo revisión.\n\n## Qué significa para los transportistas\n\nLos transportistas que contratan conductores nuevos deben verificar dónde se capacitó el solicitante, no solo si tiene un certificado. Estar en la lista ya no garantiza calidad, y un conductor de una escuela removida después podría enfrentar preguntas sobre su licencia. Las flotas con programas propios deben esperar que se les exija documentar con más detalle planes, equipos e instructores.\n\n## Qué deben vigilar cargadores y corredores de carga\n\nUn registro más estricto podría frenar la entrada de nuevos conductores en un mercado donde la capacidad ya es una preocupación. Todavía no se sabe qué tan grande sería ese efecto. La primera señal será si la OMB aprueba la solicitud y cuánto dura el periodo de comentarios."
+      }
+    },
     {
       "id": "2026-10-17-1500-jb-hunt-q3-driver-costs",
       "publishedAt": "2026-10-17T19:53:03Z",
