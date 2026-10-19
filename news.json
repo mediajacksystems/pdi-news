@@ -1,7 +1,51 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-19T16:52:37Z",
+  "updatedAt": "2026-10-19T19:53:44Z",
   "stories": [
+    {
+      "id": "2026-10-19-1500-diesel-turns-up-brent-110",
+      "publishedAt": "2026-10-19T19:53:44Z",
+      "title": "Diesel turns up again as Brent touches $110, ending a 17-day slide in AAA's average",
+      "dek": "AAA's national diesel average is back above $6.31 after Friday's crude jump. EIA's weekly number, due Oct. 20, still reflects the lower prices of early October.",
+      "body": "Retail diesel stopped falling last week, and the crude market is giving carriers little reason to expect a quick return to the downtrend.\n\nThe AAA national average for diesel was $6.3187 a gallon on Oct. 19, according to AAA's price page. That is below AAA's record of $6.5276, set Sept. 22, but above the $6.2785 low it reached on Oct. 9, a figure reported by FreightWaves on Oct. 14. AAA's average had fallen for 17 straight days before that turn.\n\n## What changed\n\nCrude jumped on Friday. Discovery Alert reported on Oct. 17 that Brent settled at $109.86 a barrel on Oct. 16, up 3.7% on the day and its first touch of $110 since May 19. It cited U.S. Central Command saying an Iranian Revolutionary Guard projectile hit the container ship GFS Pride in the Strait of Hormuz, and that the ship sank under tow with all 21 crew evacuated.\n\nThe same report cited Goldman Sachs, which puts its base case for Brent near $80 in the fourth quarter but above $120 if Hormuz attacks continue. It also cited S&P Global putting the diesel premium over crude at about $38 a barrel.\n\nThe government's weekly number still looks backward. The U.S. Energy Information Administration put the on-highway average at $6.179 for the week of Oct. 12, down 2 cents from the prior week and up $2.514 from a year earlier. EIA's next release is due Oct. 20, and it will show how much of last week's wholesale move has reached the pump.\n\n## What it means for carriers\n\nFuel is already a large share of the per-mile bill. Heavy Duty Trucking reported on Oct. 14 that DAT's fuel component hit records in September at 84 cents a mile for van, 92 cents for reefer and $1.01 for flatbed. DAT's Dean Croke told the publication that freight rates typically take three to four weeks to catch up with rising diesel.\n\nThat lag matters for anyone running on spot freight or on a fuel surcharge tied to a weekly index. Check which index your surcharge schedule uses and when it resets, because an EIA-based schedule will still reflect the lower early-October prices for a few more days.\n\n## What shippers and brokers should watch\n\nFuel surcharge tables that reference EIA will move later than pump prices do. If crude holds near $110, expect carriers to ask about interim adjustments, and expect the dyed-diesel relief announced Oct. 5 to do little for most fleets. The American Trucking Associations told carriers to wait for Treasury guidance before running dyed fuel on the road, per Heavy Duty Trucking.\n\nTrack the daily AAA reading against the weekly EIA print. When the two diverge for more than a few days, the weekly number usually catches up.\n\nYou can follow the national average on PDI's diesel prices page at /diesel.",
+      "tags": [
+        "diesel",
+        "fuel",
+        "rates"
+      ],
+      "featured": true,
+      "sources": [
+        {
+          "title": "AAA Gas Prices: national averages",
+          "publisher": "AAA",
+          "url": "https://gasprices.aaa.com/",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "Gasoline and Diesel Fuel Update",
+          "publisher": "U.S. Energy Information Administration",
+          "url": "https://www.eia.gov/petroleum/gasdiesel/",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "Brent oil price hits $110 as Hormuz, Saudi and Russia risks stack up",
+          "publisher": "Discovery Alert",
+          "url": "https://discoveryalert.com/news/brent-oil-price-110-hormuz-saudi-russia-october-2026/",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "Why diesel price relief efforts may fall short",
+          "publisher": "Heavy Duty Trucking / Truckinginfo",
+          "url": "https://www.truckinginfo.com/news/why-diesel-price-relief-efforts-may-fall-short",
+          "date": "2026-10-14"
+        }
+      ],
+      "es": {
+        "title": "El diésel vuelve a subir con el Brent en $110 y corta 17 días de baja en el promedio de AAA",
+        "dek": "El promedio nacional de diésel de AAA supera otra vez los $6.31 tras el salto del crudo del viernes. La cifra semanal de la EIA, que sale el 20 de octubre, aún refleja los precios más bajos de principios de mes.",
+        "body": "El diésel minorista dejó de bajar la semana pasada, y el mercado del crudo da pocas razones para esperar un regreso rápido a la tendencia a la baja.\n\nEl promedio nacional de AAA para el diésel fue de $6.3187 por galón el 19 de octubre, según la página de precios de AAA. Está por debajo del récord de AAA, $6.5276, registrado el 22 de septiembre, pero por encima del mínimo de $6.2785 del 9 de octubre, cifra que FreightWaves publicó el 14 de octubre. El promedio de AAA había bajado durante 17 días seguidos antes de ese giro.\n\n## Qué cambió\n\nEl crudo saltó el viernes. Discovery Alert informó el 17 de octubre que el Brent cerró en $109.86 por barril el 16 de octubre, 3.7% más en el día y su primer toque de $110 desde el 19 de mayo. Citó al Comando Central de EE. UU., que dijo que un proyectil de la Guardia Revolucionaria de Irán alcanzó al buque portacontenedores GFS Pride en el Estrecho de Ormuz; el barco se hundió bajo remolque y sus 21 tripulantes fueron evacuados.\n\nEl mismo informe citó a Goldman Sachs, cuyo escenario base ubica el Brent cerca de $80 en el cuarto trimestre, pero por encima de $120 si continúan los ataques en Ormuz. También citó a S&P Global, que calcula el diferencial del diésel frente al crudo en unos $38 por barril.\n\nLa cifra semanal del gobierno todavía mira hacia atrás. La Administración de Información de Energía (EIA) fijó el promedio de diésel en carretera en $6.179 para la semana del 12 de octubre, 2 centavos menos que la semana anterior y $2.514 más que un año antes. La próxima publicación de la EIA es el 20 de octubre y mostrará cuánto del salto mayorista de la semana pasada llegó a la bomba.\n\n## Qué significa para los transportistas\n\nEl combustible ya pesa mucho en el costo por milla. Heavy Duty Trucking informó el 14 de octubre que el componente de combustible de DAT llegó a récords en septiembre: 84 centavos por milla en caja seca, 92 centavos en refrigerado y $1.01 en plataforma. Dean Croke, de DAT, dijo a la publicación que las tarifas suelen tardar de tres a cuatro semanas en alcanzar las subidas del diésel.\n\nEse rezago importa para quien trabaja con carga spot o con un recargo por combustible atado a un índice semanal. Revise qué índice usa su tabla de recargos y cuándo se actualiza, porque una tabla basada en la EIA seguirá reflejando los precios más bajos de principios de octubre por unos días más.\n\n## Qué deben vigilar cargadores y corredores de carga\n\nLas tablas de recargo que usan la EIA se mueven más tarde que los precios en la bomba. Si el crudo se mantiene cerca de $110, es de esperar que los transportistas pidan ajustes provisionales, y que el alivio del diésel teñido anunciado el 5 de octubre aporte poco a la mayoría de las flotas. La Asociación Americana de Transportistas (ATA) pidió a los transportistas esperar la guía del Tesoro antes de usar combustible teñido en carretera, según Heavy Duty Trucking.\n\nCompare la lectura diaria de AAA con la cifra semanal de la EIA. Cuando las dos se separan por más de unos días, la semanal suele alcanzar a la diaria.\n\nPuede seguir el promedio nacional en la página de precios del diésel de PDI, en /diesel."
+      }
+    },
     {
       "id": "2026-10-19-1200-class-8-sales-september",
       "publishedAt": "2026-10-19T16:52:37Z",
