@@ -1,7 +1,52 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-18T19:51:49Z",
+  "updatedAt": "2026-10-19T13:52:28Z",
   "stories": [
+    {
+      "id": "2026-10-19-0900-atri-fuel-top-concern",
+      "publishedAt": "2026-10-19T13:52:28Z",
+      "title": "Fuel jumps 17 spots to trucking's top concern in ATRI's 2026 survey",
+      "dek": "ATRI's annual survey puts fuel prices first for the fourth time ever, and first among drivers for the first time, while the economy falls from No. 1 to No. 6.",
+      "body": "The American Transportation Research Institute (ATRI) released its 22nd annual Top Industry Issues survey on Oct. 18 at the ATA Management Conference in Charlotte, and the headline is fuel. Diesel jumped 17 spots to become the industry's top concern, according to Transport Topics' report on the survey. It is the fourth time fuel has led the list, after 2005, 2008 and 2022.\n\nThe economy, which ranked first for three years, fell to sixth. ATRI drew nearly 3,100 responses, with about 48% from motor carrier executives and personnel and 26% from drivers.\n\n## Drivers and carriers rank it differently\n\nDrivers put fuel first for the first time, followed by truck parking and driver compensation, FleetOwner reported. Motor carriers ranked lawsuit abuse reform first and fuel second, with the driver shortage third. The overall list runs fuel, lawsuit abuse reform, CSA, insurance cost and availability, driver shortage, economy, artificial intelligence, diesel emissions rules, driver compensation and driver retention.\n\nATRI also said operating costs excluding fuel reached $1.85 per mile, which ATRI president Rebecca Brewster called the highest in the institute's 18 years of research, according to Transport Topics. That matters because rates have improved since late 2025 as for-hire capacity shrank, but FleetOwner noted it is still unclear whether the gains will outrun 2026 operating costs.\n\n## Where diesel stands\n\nThe survey was fielded from Aug. 24 to Oct. 2, a period that included the September peak. The Energy Information Administration put the weekly U.S. on-highway average at $6.179 a gallon for Oct. 12, down about two cents from $6.199 the week before and up $2.514 from a year earlier. Ben Banks, president of carrier TCW, said in ATRI's release that diesel had topped $6.50 a gallon and that the spike is \"particularly painful for small- to mid-size fleets.\" That figure is above the EIA's latest weekly average, so it likely reflects the September high or higher-priced regions rather than today's national price.\n\n## What it means for carriers\n\nSmall and mid-size fleets feel a fuel spike first because they have less room to wait out a lag in fuel surcharge recovery. Check that your surcharge schedules reset weekly off the EIA index and that spot quotes carry the fuel component explicitly. Transport Topics also reported that the EIA does not expect diesel to return to 2025 levels until at least 2028, even if tanker traffic near the Strait of Hormuz normalizes.\n\n## What shippers and brokers should watch\n\nFuel at the top of the list for drivers is a retention signal. Expect more small carriers to push for firm surcharge language or to walk away from contract lanes priced on stale fuel assumptions. Brokers quoting spot freight should refresh fuel inputs weekly, and shippers with long contracts should confirm which index and which day of the week their surcharge uses.\n\nFor current numbers, see PDI's diesel prices page at /diesel.",
+      "tags": [
+        "diesel",
+        "fuel",
+        "economy",
+        "rates"
+      ],
+      "featured": true,
+      "sources": [
+        {
+          "title": "Fuel prices rank as trucking's most pressing concern",
+          "publisher": "Transport Topics",
+          "url": "https://www.ttnews.com/articles/atri-top-issues-2026",
+          "date": "2026-10-18"
+        },
+        {
+          "title": "Fuel Prices Emerge as the Trucking Industry's Top Concern",
+          "publisher": "American Transportation Research Institute",
+          "url": "https://truckingresearch.org/2026/10/fuel-prices-emerge-as-the-trucking-industrys-top-concern/",
+          "date": "2026-10-18"
+        },
+        {
+          "title": "Fuel is trucking's top concern in ATRI's Top Industry Issues report",
+          "publisher": "FleetOwner",
+          "url": "https://fleetowner.com/news/news/55412487/fuel-is-truckings-top-concern-in-atris-top-industry-issues-report",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "Gasoline and Diesel Fuel Update",
+          "publisher": "U.S. Energy Information Administration",
+          "url": "https://www.eia.gov/petroleum/gasdiesel/",
+          "date": "2026-10-12"
+        }
+      ],
+      "es": {
+        "title": "El combustible salta 17 lugares y es la mayor preocupación del transporte, según ATRI",
+        "dek": "La encuesta anual de ATRI pone el combustible primero por cuarta vez en su historia, y primero entre conductores por primera vez; la economía baja del 1.º al 6.º lugar.",
+        "body": "El Instituto de Investigación del Transporte de EE. UU. (ATRI) publicó el 18 de octubre, durante la conferencia de gestión de la ATA en Charlotte, su 22.ª encuesta anual de los principales problemas del sector, y el titular es el combustible. Según Transport Topics, el diésel subió 17 posiciones hasta ser la mayor preocupación de la industria. Es la cuarta vez que el combustible encabeza la lista, tras 2005, 2008 y 2022.\n\nLa economía, que ocupó el primer lugar durante tres años, cayó al sexto. ATRI recibió cerca de 3,100 respuestas: alrededor del 48% de ejecutivos y personal de empresas transportistas y el 26% de conductores.\n\n## Conductores y empresas ven el problema distinto\n\nSegún FleetOwner, los conductores pusieron el combustible en primer lugar por primera vez, seguido del estacionamiento para camiones y la paga de los conductores. Las empresas transportistas colocaron primero la reforma contra el abuso de demandas, luego el combustible y después la escasez de conductores. La lista general es: combustible, reforma de demandas, CSA, costo y disponibilidad de seguros, escasez de conductores, economía, inteligencia artificial, normas de emisiones diésel, paga y retención de conductores.\n\nATRI también indicó que los costos operativos sin contar el combustible llegaron a $1.85 por milla, el nivel más alto en 18 años de investigación según Rebecca Brewster, presidenta de ATRI, citada por Transport Topics. Esto importa porque las tarifas han mejorado desde fines de 2025 con la reducción de capacidad, pero FleetOwner señaló que no está claro si esas alzas superarán los costos de 2026.\n\n## Dónde está el diésel\n\nLa encuesta se levantó del 24 de agosto al 2 de octubre, un periodo que incluyó el pico de septiembre. La Administración de Información de Energía (EIA) puso el promedio semanal nacional en carretera en $6.179 por galón para el 12 de octubre, unos dos centavos menos que los $6.199 de la semana anterior y $2.514 más que un año antes. Ben Banks, presidente de la transportista TCW, dijo en el comunicado de ATRI que el diésel superó los $6.50 por galón y que el alza es \"particularly painful for small- to mid-size fleets\". Esa cifra supera el promedio semanal más reciente de la EIA, así que probablemente refleja el pico de septiembre o regiones más caras, no el precio nacional de hoy.\n\n## Qué significa para los transportistas\n\nLas flotas pequeñas y medianas sienten primero el golpe porque tienen menos margen para esperar el rezago del recargo por combustible. Verifique que su tabla de recargos se actualice cada semana con el índice de la EIA y que las cotizaciones spot muestren el combustible por separado. Transport Topics también informó que la EIA no espera que el diésel regrese a los niveles de 2025 hasta 2028 como mínimo, aun si el tráfico de buques cisterna cerca del Estrecho de Ormuz se normaliza.\n\n## Qué deben vigilar cargadores y corredores de carga\n\nQue el combustible sea la prioridad de los conductores es una señal de retención. Es probable que más transportistas pequeños exijan cláusulas firmes de recargo o abandonen carriles con contratos basados en precios de combustible desactualizados. Los corredores que cotizan carga spot deben actualizar el combustible cada semana, y los cargadores con contratos largos deben confirmar qué índice y qué día usa su recargo.\n\nPara ver los precios actuales, visite la página de diésel de PDI en /diesel."
+      }
+    },
     {
       "id": "2026-10-18-1500-ata-conference-colson",
       "publishedAt": "2026-10-18T19:51:49Z",
