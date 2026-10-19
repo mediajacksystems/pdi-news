@@ -1,7 +1,45 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-19T13:52:28Z",
+  "updatedAt": "2026-10-19T16:52:37Z",
   "stories": [
+    {
+      "id": "2026-10-19-1200-class-8-sales-september",
+      "publishedAt": "2026-10-19T16:52:37Z",
+      "title": "Class 8 truck sales jump 30% in September, but orders and 2027 engine costs urge caution",
+      "dek": "Omdia counted 21,095 new heavy trucks sold in September, yet year-to-date sales still trail 2025. FTR says orders may stall until EPA's 2027 rule is settled.",
+      "body": "Fleets bought more new heavy trucks in September than they did a year earlier, even as the year as a whole still trails. That is a useful read on how carriers see the market after months of firmer rates.\n\nAccording to [Omdia data reported by Transport Topics on Oct. 18](https://www.ttnews.com/articles/class-8-sales-0926), U.S. Class 8 retail sales reached 21,095 units in September, up 30% from 16,228 a year earlier and up 13.6% from 18,575 in August. Year to date, sales are 152,960 units, down 5% from 160,981 at this point in 2025.\n\nSix of the seven major manufacturers grew. Freightliner led with 7,888 units, up 45.7%, followed by Peterbilt at 3,097 and Kenworth at 3,055. Volvo rose 45% and International rose 38.8%. Western Star was the only decline, down 25.5%.\n\n## Why fleets are buying\n\nACT Research's Steve Tam told Transport Topics that for-hire carrier profitability is a main driver of 2026 retail sales, and he pointed to depreciation rules and Section 179 tax planning as year-end approaches. Mack's Jonathan Randall and Volvo's Magnus Koeck both cited firmer freight rates, and Volvo said carriers with aging fleets are replacing equipment.\n\nThe rate backdrop fits. [DAT's report for Oct. 4 to 10](https://www.ajot.com/news/dat-spot-truckload-freight-market-report-oct-4-10-2026), published Oct. 13, put the van spot rate at $3.12 per mile including fuel, with van linehaul up 35% from a year ago. DAT said truck posts were more than 20% below a year ago, and its van load-to-truck ratio was 10.5 against 6.3 last year.\n\n## What it means for carriers\n\nOrders tell a more cautious story than sales. [FTR's preliminary September count](https://www.freightwaves.com/news/class-8-truck-orders-rise-18-in-september-as-fleets-turn-to-2027-models), reported by FreightWaves on Oct. 5, was 21,300 net orders, up 18% from August and 3% from September 2025. FTR said surcharge-free model-year 2026 engine slots are essentially sold out and expects orders to hold near year-ago levels for a month or two until fleets know more about costs.\n\nThe open question is the EPA's 2027 NOx rule, which had not been finalized when FTR wrote. FTR estimated that nonconformance penalties could add $6,000 to $7,000 per truck, against $8,000 to $12,000 for a fully compliant engine. Carriers planning a purchase should ask dealers what is quoted, and when the price can change.\n\n## What shippers and brokers should watch\n\nStrong buying can add capacity, but new trucks take months to arrive and tighter conditions are still showing up in the numbers. Retail sales are deliveries that have already happened, so they do not by themselves signal a flood of new capacity. Watch DAT's truck posts and load-to-truck ratios in the coming weeks. If truck posts recover while loads hold steady, contract rate pressure could ease. If they stay low, expect carriers to keep pricing selectively.\n",
+      "tags": [
+        "capacity",
+        "rates",
+        "regulation"
+      ],
+      "featured": false,
+      "sources": [
+        {
+          "title": "U.S. Class 8 sales jump 30% in September",
+          "publisher": "Transport Topics",
+          "url": "https://www.ttnews.com/articles/class-8-sales-0926",
+          "date": "2026-10-18"
+        },
+        {
+          "title": "Class 8 truck orders rise 18% in September as fleets turn to 2027 models",
+          "publisher": "FreightWaves",
+          "url": "https://www.freightwaves.com/news/class-8-truck-orders-rise-18-in-september-as-fleets-turn-to-2027-models",
+          "date": "2026-10-05"
+        },
+        {
+          "title": "DAT Spot Truckload Freight Market Report: Oct. 4-10, 2026",
+          "publisher": "AJOT (DAT Freight & Analytics)",
+          "url": "https://www.ajot.com/news/dat-spot-truckload-freight-market-report-oct-4-10-2026",
+          "date": "2026-10-13"
+        }
+      ],
+      "es": {
+        "title": "Las ventas de camiones Clase 8 suben 30% en septiembre, pero los pedidos y los costos de motor 2027 piden cautela",
+        "dek": "Omdia contó 21,095 camiones pesados nuevos vendidos en septiembre, aunque el acumulado del año sigue por debajo de 2025. FTR advierte que los pedidos podrían frenarse hasta que se defina la norma 2027 de la EPA.",
+        "body": "Las flotas compraron más camiones pesados nuevos en septiembre que un año antes, aunque el acumulado del año sigue por debajo. Es una buena señal de cómo ven el mercado los transportistas después de meses de tarifas más firmes.\n\nSegún [datos de Omdia publicados por Transport Topics el 18 de octubre](https://www.ttnews.com/articles/class-8-sales-0926), las ventas al detalle de camiones Clase 8 en EE. UU. llegaron a 21,095 unidades en septiembre, 30% más que las 16,228 de un año antes y 13.6% más que las 18,575 de agosto. En lo que va del año suman 152,960 unidades, 5% menos que las 160,981 del mismo periodo de 2025.\n\nSeis de los siete fabricantes principales crecieron. Freightliner lideró con 7,888 unidades, 45.7% más, seguido de Peterbilt con 3,097 y Kenworth con 3,055. Volvo subió 45% e International 38.8%. Western Star fue la única con caída, de 25.5%.\n\n## Por qué compran las flotas\n\nSteve Tam, de ACT Research, dijo a Transport Topics que la rentabilidad de los transportistas es un motor principal de las ventas de 2026, y señaló las reglas de depreciación y la planeación fiscal bajo la Sección 179 con el cierre del año. Jonathan Randall, de Mack, y Magnus Koeck, de Volvo, citaron tarifas de flete más firmes, y Volvo mencionó que los transportistas con flotas envejecidas están reemplazando equipo.\n\nEl panorama de tarifas lo respalda. [El reporte de DAT del 4 al 10 de octubre](https://www.ajot.com/news/dat-spot-truckload-freight-market-report-oct-4-10-2026), publicado el 13 de octubre, puso la tarifa spot de caja seca en $3.12 por milla con combustible incluido, y el linehaul de caja seca subió 35% frente a hace un año. DAT indicó que las publicaciones de camiones disponibles están más de 20% por debajo de las de un año antes, y que su relación carga-camión de caja seca fue de 10.5, contra 6.3 el año pasado.\n\n## Qué significa para los transportistas\n\nLos pedidos cuentan una historia más cautelosa que las ventas. [El conteo preliminar de FTR para septiembre](https://www.freightwaves.com/news/class-8-truck-orders-rise-18-in-september-as-fleets-turn-to-2027-models), reportado por FreightWaves el 5 de octubre, fue de 21,300 pedidos netos, 18% más que en agosto y 3% más que en septiembre de 2025. FTR dijo que los cupos de motor modelo 2026 sin recargo están prácticamente agotados y espera que los pedidos se mantengan cerca de los niveles del año pasado durante uno o dos meses, hasta que las flotas conozcan mejor los costos.\n\nLa incógnita es la norma de NOx 2027 de la EPA, que no estaba finalizada cuando FTR escribió su análisis. FTR estimó que las multas por incumplimiento (NCP) podrían sumar entre $6,000 y $7,000 por camión, frente a entre $8,000 y $12,000 por un motor totalmente conforme. Quien planee comprar debe preguntar al distribuidor qué precio le cotizan y cuándo puede cambiar.\n\n## Qué deben vigilar cargadores y corredores de carga\n\nUna compra fuerte puede sumar capacidad, pero los camiones nuevos tardan meses en llegar y el mercado sigue ajustado en las cifras. Las ventas al detalle son entregas que ya ocurrieron, así que no anuncian por sí solas una avalancha de capacidad. Conviene seguir las publicaciones de camiones y la relación carga-camión de DAT en las próximas semanas. Si los camiones disponibles se recuperan mientras las cargas se mantienen, la presión sobre las tarifas por contrato podría aliviarse. Si siguen bajos, es de esperar que los transportistas sigan cotizando con selectividad.\n"
+      }
+    },
     {
       "id": "2026-10-19-0900-atri-fuel-top-concern",
       "publishedAt": "2026-10-19T13:52:28Z",
