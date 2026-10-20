@@ -1,7 +1,46 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T16:53:05Z",
+  "updatedAt": "2026-10-20T19:52:04Z",
   "stories": [
+    {
+      "id": "2026-10-20-1500-intermodal-surge-tight-trucks",
+      "publishedAt": "2026-10-20T19:52:04Z",
+      "title": "Intermodal climbs 10.4% in AAR's latest week as tight truck supply pushes freight to rail",
+      "dek": "U.S. railroads moved 302,252 intermodal units in the week ending Oct. 10, while ATA's chief economist says the trucking recovery is driven by lost capacity, not stronger demand.",
+      "body": "Railroads are taking a bigger share of long-haul freight, and the trucking market they are taking it from is short on capacity, not on demand. Two sets of numbers released this week show both sides of that shift.\n\nThe Association of American Railroads (AAR) reported on October 14 that U.S. intermodal volume for the week ending October 10 was 302,252 containers and trailers, up 10.4 percent from the same week in 2025. Total U.S. rail traffic that week was 534,256 carloads and intermodal units, up 7.2 percent. Through the first 40 weeks of 2026, AAR counts 11,379,949 intermodal units, up 4.4 percent.\n\nA market update from Port X Logistics dated October 15 says AAR called the third quarter the strongest ever recorded for U.S. intermodal. The same update credits the shift to high diesel prices, tighter trucking capacity and better rail service. That last part is the blog's reading of the market, not an AAR finding.\n\n## Why trucks are tight\n\nOn October 19, ATA chief economist Bob Costello told the group's management conference in Charlotte that the freight recovery is supply driven, according to Transport Topics. He said truckload revenue per mile fell 8.4 percent from 2022 through 2025 while nonfuel operating costs rose more than 13 percent, and that enforcement this year is removing what he called shadow capacity. Costello pointed to scrutiny of driver training, English-language proficiency, non-domiciled CDLs, B-1 visa rules and ELD compliance.\n\nHe also said he does not expect fleets to rebuild capacity quickly, and that projected Class 8 sales growth of 14 percent this year mostly reflects deferred replacement buying. On fuel, he said distillate stocks are historically low for this time of year, which could push diesel higher into the fall freight season.\n\n## What it means for carriers\n\nIntermodal is now a real competitor on the lanes where rail service is dependable. Carriers running long hauls into and out of rail ramps should expect shippers to test rail pricing in bids, and should know what their own cost per mile looks like at current diesel prices before they answer.\n\nThe upside is that the same tight supply that pushes freight to rail also supports truckload rates. The risk is a bid season where rail looks cheaper on paper than a truck that is burning expensive diesel.\n\n## What shippers and brokers should watch\n\nShippers shifting boxes to intermodal should plan for the drayage leg, which still moves by truck and is exposed to the same capacity squeeze. Brokers should watch the weekly AAR figures each Wednesday. A second or third week of double-digit intermodal growth would suggest the shift is more than a seasonal bump.\n\nFor the latest pump prices, see PDI's [diesel prices page](/diesel).",
+      "tags": [
+        "rail",
+        "capacity",
+        "rates",
+        "diesel"
+      ],
+      "featured": false,
+      "sources": [
+        {
+          "title": "AAR Reports Weekly Rail Traffic for the Week Ending October 10, 2026",
+          "publisher": "Association of American Railroads",
+          "url": "https://www.aar.org/news/aar-reports-weekly-rail-traffic-for-the-week-ending-october-10-2026/",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "ATA's Costello says freight recovery has legs despite headwinds",
+          "publisher": "Transport Topics",
+          "url": "https://ttnews.com/articles/ata-costello-freight-recovery",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "Freight Market Update: Record Intermodal & Hormuz Risks",
+          "publisher": "Port X Logistics",
+          "url": "https://www.portxlogistics.com/2026/10/15/freight-market-update-record-intermodal-trucking-capacity-hormuz/",
+          "date": "2026-10-15"
+        }
+      ],
+      "es": {
+        "title": "El intermodal sube 10.4% en la última semana de la AAR mientras la falta de camiones empuja la carga al tren",
+        "dek": "Los ferrocarriles de EE. UU. movieron 302,252 unidades intermodales en la semana al 10 de octubre, y el economista jefe de la ATA dice que la recuperación del transporte viene de la capacidad perdida, no de más demanda.",
+        "body": "Los ferrocarriles se están quedando con una parte mayor de la carga de larga distancia, y el mercado de camiones del que la toman tiene poca capacidad, no poca demanda. Dos conjuntos de cifras de esta semana muestran los dos lados del cambio.\n\nLa Asociación de Ferrocarriles de Estados Unidos (AAR) informó el 14 de octubre que el volumen intermodal de la semana que terminó el 10 de octubre fue de 302,252 contenedores y remolques, un 10.4 por ciento más que en la misma semana de 2025. El tráfico ferroviario total de EE. UU. esa semana fue de 534,256 carros y unidades intermodales, un 7.2 por ciento más. En las primeras 40 semanas de 2026, la AAR cuenta 11,379,949 unidades intermodales, un 4.4 por ciento más.\n\nUna actualización de mercado de Port X Logistics fechada el 15 de octubre dice que la AAR calificó el tercer trimestre como el más fuerte jamás registrado para el intermodal en EE. UU. La misma nota atribuye el cambio al diésel caro, a la capacidad ajustada de los camiones y al mejor servicio ferroviario. Esa última parte es la lectura del blog, no un hallazgo de la AAR.\n\n## Por qué hay pocos camiones\n\nEl 19 de octubre, el economista jefe de la ATA, Bob Costello, dijo en la conferencia de gestión del grupo en Charlotte que la recuperación del transporte de carga viene por el lado de la oferta, según Transport Topics. Señaló que el ingreso por milla del camión completo cayó 8.4 por ciento de 2022 a 2025, mientras que los costos operativos sin combustible subieron más de 13 por ciento, y que la aplicación de normas este año está sacando lo que llamó capacidad en las sombras. Costello mencionó el escrutinio de la capacitación de conductores, el dominio del inglés, las CDL de personas no domiciliadas, las reglas de visa B-1 y el cumplimiento de ELD.\n\nTambién dijo que no espera que las flotas reconstruyan la capacidad pronto, y que el crecimiento proyectado de 14 por ciento en ventas de Clase 8 este año refleja sobre todo compras de reemplazo que se habían pospuesto. Sobre el combustible, dijo que los inventarios de destilados están en niveles históricamente bajos para esta época, lo que podría subir el diésel en la temporada alta de otoño.\n\n## Qué significa para los transportistas\n\nEl intermodal ya es un competidor real en los corredores donde el servicio ferroviario es confiable. Los transportistas de larga distancia que operan cerca de rampas ferroviarias deben esperar que los cargadores comparen precios de tren en las licitaciones, y deben conocer su costo por milla con el diésel actual antes de responder.\n\nLa ventaja es que la misma oferta limitada que empuja la carga al tren también respalda las tarifas del camión completo. El riesgo es una temporada de licitaciones en la que el tren parezca más barato en papel que un camión que quema diésel caro.\n\n## Qué deben vigilar cargadores y corredores de carga\n\nLos cargadores que pasen contenedores a intermodal deben planear el tramo de acarreo, que sigue moviéndose en camión y sufre la misma presión de capacidad. Los corredores deben seguir las cifras semanales de la AAR cada miércoles. Una segunda o tercera semana de crecimiento intermodal de dos dígitos sugeriría que el cambio es más que un repunte de temporada.\n\nPara ver los precios más recientes en la bomba, visite la [página de precios del diésel](/diesel) de PDI."
+      }
+    },
     {
       "id": "2026-10-20-1200-werner-q3-preannouncement",
       "publishedAt": "2026-10-20T16:53:05Z",
