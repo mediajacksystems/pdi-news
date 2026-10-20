@@ -1,7 +1,46 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T13:52:27Z",
+  "updatedAt": "2026-10-20T16:53:05Z",
   "stories": [
+    {
+      "id": "2026-10-20-1200-werner-q3-preannouncement",
+      "publishedAt": "2026-10-20T16:53:05Z",
+      "title": "Werner warns Q3 profit falls short as fuel, driver pay and insurance bite",
+      "dek": "The truckload giant pre-announced adjusted earnings of $0.15 to $0.16 per share for the third quarter, down from $0.22 in the second, citing about $0.18 per share in new costs.",
+      "body": "Werner Enterprises, one of the largest U.S. truckload carriers, told investors on Monday that third-quarter profit will come in well below the prior quarter, blaming fuel, driver pay and an insurance adjustment. The company released preliminary, unaudited numbers on October 19 and will report in full on October 27.\n\n## What Werner said\n\nIn its [October 19 release filed with the SEC](https://www.sec.gov/Archives/edgar/data/0000793074/000079307426000162/wern-8xk101926exhibit.htm), Werner guided to third-quarter revenue of roughly $946 million to $951 million. It expects GAAP diluted earnings of about $0.10 to $0.11 per share and adjusted earnings of about $0.15 to $0.16 per share.\n\nFor comparison, Werner's [second-quarter release of July 28](https://www.sec.gov/Archives/edgar/data/0000793074/000079307426000129/wern-2026x630xex991.htm) showed revenue of $933.9 million and adjusted earnings of $0.22 per share. Revenue is holding up. Earnings per share are not.\n\nWerner put the hit at about $0.18 per share in cumulative cost headwinds versus the second quarter. It named three causes: \"rapidly rising fuel prices,\" spending on driver recruitment and retention, and a late-quarter insurance reserve adjustment tied to past claims. It did not give a dollar figure for any of them, and it did not offer a fourth-quarter outlook.\n\nRTTNews reported that Werner shares were down about 4.3% in premarket trading on Monday, at $31.40.\n\n## Why fuel and insurance matter here\n\nFuel was already a big line for Werner. In the second quarter it spent $119.9 million on fuel, or 12.8% of revenue, against 8.0% a year earlier, according to the July release. Fuel surcharges recover part of that, but only with a lag and only on freight that carries a surcharge. A fast climb late in a quarter lands on the income statement before it shows up in billings.\n\nThe insurance item is the other warning sign. In July, Werner said insurance and claims costs had trended favorably for two straight quarters. A reserve adjustment on older claims reverses that story for this quarter.\n\n## What it means for carriers\n\nWerner's miss is a reminder that higher spot and contract rates do not automatically reach the bottom line. Fleets that price loads on stale fuel assumptions, or that lean on weekly surcharge tables that trail the pump, absorb the gap in a rising market. Check how often your surcharge schedule resets.\n\n## What shippers and brokers should watch\n\nLarge carriers that miss on costs tend to push harder in bid season. Expect more requests for shorter surcharge lag, higher accessorial charges and rate floors. The October 27 report should show whether Werner is seeing contract rate gains large enough to cover the cost increases it has flagged.\n\nFor current pump prices, see PDI's diesel page at /diesel.\n",
+      "tags": [
+        "fuel",
+        "rates",
+        "insurance",
+        "labor"
+      ],
+      "featured": false,
+      "sources": [
+        {
+          "title": "Werner Enterprises Reports Preliminary Third Quarter 2026 Financial Results",
+          "publisher": "Werner Enterprises (SEC Form 8-K)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000793074/000079307426000162/wern-8xk101926exhibit.htm",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "Werner Enterprises Reports Second Quarter 2026 Results",
+          "publisher": "Werner Enterprises (SEC Form 8-K)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000793074/000079307426000129/wern-2026x630xex991.htm",
+          "date": "2026-07-28"
+        },
+        {
+          "title": "Werner Enterprises Announces Q3 Prelim. Report, Stock Down In Pre-Market",
+          "publisher": "RTTNews",
+          "url": "https://www.rttnews.com/story.aspx?Id=3700179",
+          "date": "2026-10-19"
+        }
+      ],
+      "es": {
+        "title": "Werner advierte que sus ganancias del tercer trimestre se quedan cortas por combustible, pagos a conductores y seguros",
+        "dek": "La empresa de carga completa adelantó ganancias ajustadas de $0.15 a $0.16 por acción en el tercer trimestre, frente a $0.22 en el segundo, por unos $0.18 por acción en costos nuevos.",
+        "body": "Werner Enterprises, una de las mayores empresas de carga completa de Estados Unidos, informó el lunes que sus ganancias del tercer trimestre serán mucho menores que las del trimestre anterior. La empresa culpa al combustible, a los pagos a conductores y a un ajuste de seguros. Publicó cifras preliminares y sin auditar el 19 de octubre, y presentará los resultados completos el 27 de octubre.\n\n## Lo que dijo Werner\n\nEn su [comunicado del 19 de octubre presentado ante la SEC](https://www.sec.gov/Archives/edgar/data/0000793074/000079307426000162/wern-8xk101926exhibit.htm), Werner estimó ingresos del tercer trimestre de entre $946 millones y $951 millones. Espera una ganancia GAAP diluida de unos $0.10 a $0.11 por acción y una ganancia ajustada de unos $0.15 a $0.16 por acción.\n\nComo referencia, el [comunicado del segundo trimestre, del 28 de julio](https://www.sec.gov/Archives/edgar/data/0000793074/000079307426000129/wern-2026x630xex991.htm), mostró ingresos de $933.9 millones y una ganancia ajustada de $0.22 por acción. Los ingresos se mantienen. La ganancia por acción, no.\n\nWerner calculó el golpe en unos $0.18 por acción en costos acumulados frente al segundo trimestre. Citó tres causas: los precios del combustible que suben \"rápidamente\", la inversión en reclutar y retener conductores, y un ajuste de reservas de seguros al final del trimestre por reclamos anteriores. No dio una cifra en dólares para ninguna de las tres ni ofreció una perspectiva para el cuarto trimestre.\n\nRTTNews informó que las acciones de Werner caían cerca de 4.3% antes de la apertura el lunes, a $31.40.\n\n## Por qué importan el combustible y los seguros\n\nEl combustible ya pesaba mucho en Werner. En el segundo trimestre gastó $119.9 millones en combustible, es decir 12.8% de los ingresos, frente a 8.0% un año antes, según el comunicado de julio. Los recargos por combustible recuperan parte de ese gasto, pero con retraso y solo en la carga que los incluye. Un alza rápida a fines del trimestre llega al estado de resultados antes de reflejarse en la facturación.\n\nEl tema de los seguros es la otra señal de alerta. En julio, Werner dijo que los costos de seguros y reclamos habían mejorado dos trimestres seguidos. Un ajuste de reservas sobre reclamos antiguos revierte esa tendencia este trimestre.\n\n## Qué significa para los transportistas\n\nEl resultado de Werner recuerda que tarifas más altas, al contado o por contrato, no llegan automáticamente a la utilidad. Las flotas que cotizan con supuestos viejos de combustible, o que dependen de tablas semanales de recargo que van detrás de la bomba, absorben la diferencia cuando los precios suben. Revise cada cuánto se actualiza su tabla de recargos.\n\n## Qué deben vigilar cargadores y corredores de carga\n\nLos grandes transportistas que fallan en costos suelen presionar más en la temporada de licitaciones. Espere más solicitudes de menor rezago en los recargos, cargos accesorios más altos y tarifas mínimas. El informe del 27 de octubre debería mostrar si Werner ve alzas de tarifas por contrato suficientes para cubrir los aumentos de costos que anunció.\n\nPara precios actuales en la bomba, vea la página de diésel de PDI en /diesel.\n"
+      }
+    },
     {
       "id": "2026-10-20-0900-spot-rates-week-42",
       "publishedAt": "2026-10-20T13:52:27Z",
