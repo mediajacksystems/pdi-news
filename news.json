@@ -1,7 +1,51 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-19T19:53:44Z",
+  "updatedAt": "2026-10-20T13:52:27Z",
   "stories": [
+    {
+      "id": "2026-10-20-0900-spot-rates-week-42",
+      "publishedAt": "2026-10-20T13:52:27Z",
+      "title": "Spot rates slip on cheaper fuel, but linehaul holds as truck capacity stays thin",
+      "dek": "DAT's all-in spot rates fell 2 to 4 cents a mile for Oct. 10 to 16, nearly all from lower fuel surcharges. Linehaul held, and DAT says truck postings are 21% to 27% below a year ago.",
+      "body": "Spot truckload rates barely moved last week, and the small dip that did show up came from fuel, not from the freight market. DAT Freight & Analytics reported that its national average all-in rates (linehaul plus fuel) for Oct. 10 to 16 slipped for all three main equipment types, while the rate carriers get before fuel held steady.\n\nDAT put dry van at $3.09 per mile, down 3 cents, reefer at $3.66, down 2 cents, and flatbed at $3.64, down 4 cents. It said cheaper diesel trimmed average fuel surcharges by 3 to 4 cents per mile and explained nearly all of the decline. For context, the U.S. Energy Information Administration's most recent weekly on-highway diesel average on its site was $6.179 per gallon for Oct. 12, down 2 cents from the week before.\n\n## Linehaul is flat, volume is cooling\n\nStrip out fuel and the picture is steadier. DAT's dry van linehaul rate stayed at $2.26 per mile, reefer rose 1 cent to $2.76, and flatbed was essentially unchanged at $2.65. DAT said dry van linehaul is up about 35% from a year ago, reefer is up 33% and flatbed is up 29%.\n\nLoad postings are softer. DAT One load posts totaled 2.6 million, down 3% from the prior week, and dry van load posts fell 6% to about 1.21 million. The dry van load-to-truck ratio eased to 9.7 from 10.3, and reefer slipped to 15.8 from 16.2. Flatbed went the other way, rising to 36.5 from 35.7.\n\nTruckstop, in data for the week ended Oct. 16 reported by Truck News on Oct. 20, saw the same pattern. Its overall market rate fell 0.3 cents per mile, load activity dropped 1.2%, and truck postings fell 1.8%. It put total spot rates about 42% above the same week last year.\n\n## What it means for carriers\n\nCapacity is still the story. DAT said truck postings are running 21% to 27% below a year ago while load postings are 12% to 23% higher. DAT analyst Dean Croke described capacity as \"the key factor in pricing.\" Carriers holding out for better spot loads are not being forced to cut, even with volume cooling.\n\nDAT's 35-day RateCast forecast calls for dry van linehaul to ease to $2.23 per mile by late November, reefer to rise to $2.78 and flatbed to slip to $2.59. Those are DAT's projections, not guarantees.\n\n## What shippers and brokers should watch\n\nShippers should not read a one-week all-in dip as relief. When the fuel component falls, the linehaul portion is what reflects the supply and demand balance, and it has not softened. Brokers quoting spot freight should separate the two lines on a quote so a fuel move is not mistaken for a market move.\n\nTruckstop said seasonal patterns usually point to lower dry van and flatbed rates this week, with reefer typically firming. Watch next week's DAT numbers to see whether load posts keep sliding while truck counts stay thin.\n\nTrack current fuel numbers on our [diesel prices page](/diesel).",
+      "tags": [
+        "rates",
+        "capacity",
+        "diesel"
+      ],
+      "featured": false,
+      "sources": [
+        {
+          "title": "DAT spot truckload pricing and load-to-truck ratios for Oct. 10-16, 2026 (Week 42)",
+          "publisher": "AJOT (DAT Freight & Analytics data)",
+          "url": "https://www.ajot.com/news/dat-spot-truckload-pricing-and-load-to-truck-ratios-for-oct-1016-2026-week-42",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "Dry Van Report: Rates hold as load posts cool and capacity stays thin",
+          "publisher": "DAT Freight & Analytics",
+          "url": "https://www.dat.com/blog/dry-van-report-rates-hold-as-load-posts-cool-and-capacity-stays-thin",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "Spot freight rates hold steady despite softer load volumes: DAT, Truckstop",
+          "publisher": "Truck News",
+          "url": "https://www.trucknews.com/business-management/spot-freight-rates-hold-steady-despite-softer-load-volumes-dat-truckstop/1003223662/",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "Gasoline and Diesel Fuel Update",
+          "publisher": "U.S. Energy Information Administration",
+          "url": "https://www.eia.gov/petroleum/gasdiesel/",
+          "date": "2026-10-19"
+        }
+      ],
+      "es": {
+        "title": "Tarifas spot bajan por el diésel, pero el flete se sostiene con poca capacidad de camiones",
+        "dek": "Las tarifas spot totales de DAT cayeron de 2 a 4 centavos por milla del 10 al 16 de octubre, casi todo por menores recargos de combustible. El flete se mantuvo y los camiones publicados están 21% a 27% abajo frente al año pasado.",
+        "body": "Las tarifas spot de carga completa casi no se movieron la semana pasada, y la pequeña baja que se vio vino del combustible, no del mercado de carga. DAT Freight & Analytics informó que sus promedios nacionales con todo incluido (flete más combustible) del 10 al 16 de octubre bajaron en los tres tipos principales de equipo, mientras que la tarifa que reciben los transportistas antes del combustible se mantuvo estable.\n\nDAT ubicó la caja seca en $3.09 por milla, 3 centavos menos; el refrigerado en $3.66, 2 centavos menos; y la plataforma en $3.64, 4 centavos menos. Según DAT, el diésel más barato recortó el recargo promedio por combustible entre 3 y 4 centavos por milla, lo que explica casi toda la baja. Como referencia, el promedio semanal más reciente del diésel en carretera publicado por la Administración de Información de Energía (EIA) en su sitio fue de $6.179 por galón al 12 de octubre, 2 centavos menos que la semana anterior.\n\n## El flete se mantiene; el volumen se enfría\n\nSin el combustible, el panorama es más estable. El flete de caja seca de DAT siguió en $2.26 por milla, el refrigerado subió 1 centavo a $2.76 y la plataforma quedó casi igual en $2.65. DAT indicó que el flete de caja seca está cerca de 35% arriba frente a hace un año, el refrigerado 33% y la plataforma 29%.\n\nLas cargas publicadas están más flojas. DAT One registró 2.6 millones de cargas, 3% menos que la semana previa, y las de caja seca cayeron 6% a unos 1.21 millones. La relación carga-camión de caja seca bajó a 9.7 desde 10.3, y la de refrigerado a 15.8 desde 16.2. La plataforma fue en sentido contrario: subió a 36.5 desde 35.7.\n\nTruckstop, con datos de la semana al 16 de octubre que Truck News publicó el 20 de octubre, vio el mismo patrón. Su tarifa general del mercado cayó 0.3 centavos por milla, la actividad de cargas bajó 1.2% y los camiones publicados bajaron 1.8%. Calculó que las tarifas spot totales están cerca de 42% por encima de la misma semana del año pasado.\n\n## Qué significa para los transportistas\n\nLa capacidad sigue siendo el tema central. DAT dijo que los camiones publicados están entre 21% y 27% por debajo de hace un año, mientras que las cargas publicadas están entre 12% y 23% por encima. El analista de DAT Dean Croke describió la capacidad como \"el factor clave en los precios\". Los transportistas que esperan mejores cargas spot no se ven obligados a bajar tarifas, aun con el volumen enfriándose.\n\nEl pronóstico RateCast de DAT a 35 días indica que el flete de caja seca bajaría a $2.23 por milla a fines de noviembre, el refrigerado subiría a $2.78 y la plataforma bajaría a $2.59. Son proyecciones de DAT, no garantías.\n\n## Qué deben vigilar cargadores y corredores de carga\n\nLos cargadores no deben tomar una baja semanal en la tarifa total como alivio. Cuando baja el componente de combustible, el flete es lo que refleja el equilibrio entre oferta y demanda, y no se ha suavizado. Los corredores que cotizan carga spot deben separar las dos líneas para que un movimiento del combustible no se confunda con uno del mercado.\n\nTruckstop dijo que, por estacionalidad, esta semana suelen bajar las tarifas de caja seca y plataforma, y subir las de refrigerado. Habrá que ver si en los datos de DAT de la próxima semana las cargas siguen bajando mientras los camiones siguen escasos.\n\nConsulte los precios actuales en nuestra [página de precios del diésel](/diesel)."
+      }
+    },
     {
       "id": "2026-10-19-1500-diesel-turns-up-brent-110",
       "publishedAt": "2026-10-19T19:53:44Z",
