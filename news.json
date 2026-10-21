@@ -1,7 +1,45 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T19:52:04Z",
+  "updatedAt": "2026-10-21T13:51:46Z",
   "stories": [
+    {
+      "id": "2026-10-21-0900-eia-diesel-turns-up",
+      "publishedAt": "2026-10-21T13:51:46Z",
+      "title": "EIA confirms diesel's turn: $6.276 for Oct. 19, with the West Coast up 15 cents",
+      "dek": "The government's weekly average rose 9.7 cents after a slide into early October, while gasoline fell. EIA's own outlook shows little reason to expect a quick drop.",
+      "body": "EIA's weekly survey has caught up with the pump. The U.S. Energy Information Administration put the national on-highway diesel average at $6.276 a gallon for the week of Oct. 19, up 9.7 cents from $6.179 on Oct. 12 and $2.656 above a year earlier. EIA published the figure on Oct. 20.\n\n## What changed\n\nThe weekly number had been drifting lower into early October, and last week's print was down 2 cents. This is the first increase in the series since the early-October slide, and it confirms what daily retail trackers showed last week.\n\nThe gain was not even. According to EIA's regional table, the Gulf Coast average was $5.903, up 9.4 cents, and the Midwest was $6.352, up 9.3 cents. The West Coast rose faster, up 15.4 cents to $7.394, and California reached $8.242, up 15.1 cents. Regular gasoline moved the other way: IndexBox, summarizing the same EIA release, reported the national average at $4.284, down 4.7 cents.\n\n## Why the outlook is not softer\n\nEIA's October Short-Term Energy Outlook, released Oct. 6, shows why relief may be slow. EIA forecast Brent crude averaging $105 a barrel in the fourth quarter, $14 above its September forecast, and said East Coast distillate inventories were 32% below their five-year seasonal average in September. It expects them to stay about 20% below the 2021 to 2025 average through the coming winter.\n\nEIA's forecast was completed Oct. 1, so it does not reflect later moves in crude. It also assumes Middle East oil flows stay constrained through the fourth quarter. EIA put the September diesel average at $6.29 and its 2026 average at $5.19, with 2027 at $4.49.\n\n## What it means for carriers\n\nAnyone billing a fuel surcharge off the EIA index will see this week's increase flow into the next schedule. If your surcharge resets on a lag, the early-October dip is now behind you. Owner-operators and small fleets buying in the West should expect the biggest hit, since that region rose the most this week.\n\nCheck whether your contracts use the national average or a regional one. With California at $8.242 and the Gulf Coast at $5.903 in the same EIA table, the choice of index matters.\n\n## What shippers and brokers should watch\n\nEIA's next diesel update is Oct. 27. Another increase would make a second straight weekly gain and set up requests for interim surcharge adjustments. Shippers with fixed all-in rates on West Coast lanes are the most exposed to carrier pushback, and brokers quoting those lanes should confirm how fuel is handled before booking.\n\nGasoline falling while diesel rises is a reminder that the two fuels are not moving together. Tracking only pump prices for cars will understate the pressure on freight.\n\nYou can follow current prices on PDI's diesel prices page at /diesel.",
+      "tags": [
+        "diesel",
+        "fuel",
+        "rates"
+      ],
+      "featured": true,
+      "sources": [
+        {
+          "title": "Gasoline and Diesel Fuel Update",
+          "publisher": "U.S. Energy Information Administration",
+          "url": "https://www.eia.gov/petroleum/gasdiesel/",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "Short-Term Energy Outlook, October 2026",
+          "publisher": "U.S. Energy Information Administration",
+          "url": "https://www.eia.gov/outlooks/steo/",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "EIA Weekly Fuel Update: Gasoline Falls, Diesel Rises as of October 20, 2026",
+          "publisher": "IndexBox",
+          "url": "https://www.indexbox.io/blog/eia-weekly-fuel-update-gasoline-falls-diesel-rises-as-of-october-20-2026/",
+          "date": "2026-10-20"
+        }
+      ],
+      "es": {
+        "title": "La EIA confirma el repunte del diésel: $6.276 al 19 de oct., con la Costa Oeste 15 centavos arriba",
+        "dek": "El promedio semanal del gobierno subió 9.7 centavos tras bajar a inicios de octubre, mientras la gasolina cayó. La propia perspectiva de la EIA no anticipa una baja rápida.",
+        "body": "La encuesta semanal de la EIA ya refleja lo que se veía en las estaciones. La Administración de Información de Energía de EE. UU. (EIA) ubicó el promedio nacional del diésel de carretera en $6.276 por galón en la semana del 19 de octubre, 9.7 centavos más que los $6.179 del 12 de octubre y $2.656 por encima del año anterior. La EIA publicó la cifra el 20 de octubre.\n\n## Qué cambió\n\nEl dato semanal venía bajando a principios de octubre, y la lectura de la semana pasada fue 2 centavos menor. Este es el primer aumento de la serie desde esa baja, y confirma lo que mostraban los rastreadores diarios de precios al público.\n\nEl alza no fue pareja. Según la tabla regional de la EIA, el promedio de la Costa del Golfo fue de $5.903, con un aumento de 9.4 centavos, y el del Medio Oeste fue de $6.352, 9.3 centavos más. La Costa Oeste subió más rápido: 15.4 centavos, hasta $7.394, y California llegó a $8.242, con un aumento de 15.1 centavos. La gasolina regular se movió en sentido contrario: IndexBox, resumiendo el mismo informe de la EIA, reportó el promedio nacional en $4.284, 4.7 centavos menos.\n\n## Por qué el panorama no se alivia\n\nLa Perspectiva de Energía a Corto Plazo de octubre de la EIA, publicada el 6 de octubre, muestra por qué el alivio puede tardar. La EIA proyectó un promedio de $105 por barril para el Brent en el cuarto trimestre, $14 más que en su pronóstico de septiembre, y señaló que los inventarios de destilados en la Costa Este estaban 32% por debajo de su promedio estacional de cinco años en septiembre. Espera que sigan cerca de 20% por debajo del promedio 2021 a 2025 durante el invierno.\n\nEl pronóstico de la EIA se cerró el 1 de octubre, así que no incluye movimientos posteriores del crudo. También supone que los flujos de petróleo del Medio Oriente seguirán limitados durante el cuarto trimestre. La EIA puso el promedio de septiembre del diésel en $6.29 y el de 2026 en $5.19, con $4.49 para 2027.\n\n## Qué significa para los transportistas\n\nQuien cobre un recargo por combustible basado en el índice de la EIA verá este aumento reflejado en su próxima tabla. Si su recargo se actualiza con retraso, la baja de principios de octubre ya quedó atrás. Los dueños-operadores y las flotas pequeñas que cargan combustible en el Oeste serán los más golpeados, porque esa región subió más esta semana.\n\nRevise si sus contratos usan el promedio nacional o uno regional. Con California en $8.242 y la Costa del Golfo en $5.903 en la misma tabla de la EIA, el índice elegido importa.\n\n## Qué deben vigilar cargadores y corredores de carga\n\nLa próxima actualización del diésel de la EIA es el 27 de octubre. Otro aumento sería la segunda alza semanal seguida y traería solicitudes de ajustes de recargo a mitad de contrato. Los cargadores con tarifas fijas todo incluido en rutas de la Costa Oeste son los más expuestos a la presión de los transportistas, y los corredores que cotizan esas rutas deben confirmar cómo se maneja el combustible antes de reservar.\n\nQue la gasolina baje mientras el diésel sube recuerda que los dos combustibles no se mueven juntos. Mirar solo el precio de la gasolina para autos subestima la presión sobre el transporte de carga.\n\nPuede seguir los precios actuales en la página de precios del diésel de PDI, en /diesel."
+      }
+    },
     {
       "id": "2026-10-20-1500-intermodal-surge-tight-trucks",
       "publishedAt": "2026-10-20T19:52:04Z",
