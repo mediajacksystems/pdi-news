@@ -1,7 +1,45 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T13:51:46Z",
+  "updatedAt": "2026-10-21T16:54:10Z",
   "stories": [
+    {
+      "id": "2026-10-21-1200-ata-tonnage-september",
+      "publishedAt": "2026-10-21T16:54:10Z",
+      "title": "Truck tonnage rises 0.8% in September, but volume is flat on last year while capacity keeps shrinking",
+      "dek": "ATA's September index is back to September 2025 levels after a weak July and August. Its economist says shrinking capacity, not stronger freight, is what is helping carriers.",
+      "body": "Freight moved a little more in September, but not enough to say demand has turned. The American Trucking Associations (ATA) reported on October 20 that its seasonally adjusted For-Hire Truck Tonnage Index rose 0.8 percent in September to 114, up from 113.1 in August. Compared with September 2025, the index was unchanged. August had been down 1.3 percent from a year earlier.\n\nThe unadjusted number tells a more seasonal story. ATA put the not seasonally adjusted index at 114.8 in September, down 1.4 percent from 116.4 in August. For the year so far, tonnage is up 0.9 percent from the same nine months of 2025, a gain ATA attributes to strong comparisons from February through April.\n\n## A weak quarter with a better ending\n\nATA chief economist Bob Costello said weak July and August readings left the third quarter below both the prior quarter and the prior year, even though September ended on a better note. The ATA release gives no exact third-quarter percentage, so treat that as his characterization rather than a measured figure.\n\nCostello's read on the market is the part carriers will care about. He said tonnage is soft but \"capacity is still contracting, which is leading to a better market for motor carriers,\" according to the ATA release. In other words, trucks are leaving faster than freight is arriving, and that is what holds up pricing.\n\nOne caution on the data: ATA says both its tonnage indexes lean toward contract freight rather than spot freight, and that the September figure is preliminary. The final report, issued around the fifth of each month, can revise it. August has already been revised up from the number ATA first published on September 22.\n\n## What it means for carriers\n\nFlat volume with shrinking capacity is a narrow kind of strength. It supports rates, but it does not add loads, so a carrier's margin depends on its own cost per mile more than on the market lifting everyone. The Energy Information Administration (EIA) put the national average diesel price at $6.276 a gallon on October 19, up 9.7 cents on the week and $2.656 above a year earlier. Any rate gain has to be measured against a fuel bill that large.\n\nCarriers should look at whether their contract freight is keeping pace with that fuel bill, since contract freight is what the ATA index mostly measures.\n\n## What shippers and brokers should watch\n\nShippers should not read flat tonnage as a sign of slack. Costello's comment points to a market where the shortage is on the truck side, which is why bid-season rate requests may not come back lower. Brokers covering contract lanes should watch the final September revision in early November and the October reading in late November. Two more months of small gains alongside continued capacity exits would suggest the balance is shifting toward carriers, as ATA argues. A reversal in tonnage with no change in capacity would point the other way.\n",
+      "tags": [
+        "capacity",
+        "rates",
+        "economy"
+      ],
+      "featured": false,
+      "sources": [
+        {
+          "title": "ATA Truck Tonnage Index Rose 0.8% in September",
+          "publisher": "American Trucking Associations",
+          "url": "https://www.trucking.org/news-insights/ata-truck-tonnage-index-rose-08-september",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "Truck tonnage edges higher in September, ATA reports",
+          "publisher": "Transport Topics",
+          "url": "https://www.ttnews.com/articles/ata-tonnage-september-2026",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "Gasoline and Diesel Fuel Update",
+          "publisher": "U.S. Energy Information Administration",
+          "url": "https://www.eia.gov/petroleum/gasdiesel/",
+          "date": "2026-10-19"
+        }
+      ],
+      "es": {
+        "title": "El tonelaje de camiones sube 0.8% en septiembre, pero el volumen sigue igual que hace un año y la capacidad se reduce",
+        "dek": "El índice de ATA de septiembre vuelve al nivel de septiembre de 2025 tras un julio y agosto débiles. Su economista dice que la capacidad en descenso, y no más carga, es lo que ayuda a los transportistas.",
+        "body": "El transporte de carga se movió un poco más en septiembre, pero no lo suficiente para decir que la demanda cambió de rumbo. La Asociación Americana de Transportistas (ATA) informó el 20 de octubre que su Índice de Tonelaje de Camiones de Alquiler, ajustado por temporada, subió 0.8 por ciento en septiembre hasta 114, frente a 113.1 en agosto. Comparado con septiembre de 2025, el índice quedó sin cambio. En agosto había caído 1.3 por ciento frente al año anterior.\n\nLa cifra sin ajuste estacional cuenta una historia más estacional. ATA ubicó ese índice en 114.8 en septiembre, 1.4 por ciento por debajo de los 116.4 de agosto. En lo que va del año, el tonelaje sube 0.9 por ciento frente a los mismos nueve meses de 2025, un avance que ATA atribuye a las fuertes comparaciones de febrero a abril.\n\n## Un trimestre débil con mejor cierre\n\nEl economista jefe de ATA, Bob Costello, dijo que julio y agosto, débiles, dejaron el tercer trimestre por debajo del trimestre anterior y del mismo periodo del año pasado, aunque septiembre cerró mejor. El comunicado de ATA no da un porcentaje exacto del tercer trimestre, así que es su descripción y no una cifra medida.\n\nLa lectura de Costello sobre el mercado es lo que más importa a los transportistas. Dijo que el tonelaje es flojo, pero que \"capacity is still contracting, which is leading to a better market for motor carriers\", según el comunicado de ATA. Es decir, los camiones salen más rápido de lo que llega la carga, y eso sostiene los precios.\n\nUna advertencia sobre los datos: ATA señala que ambos índices de tonelaje se basan más en carga por contrato que en carga spot, y que la cifra de septiembre es preliminar. El informe final, que sale cerca del día 5 de cada mes, puede revisarla. Agosto ya fue revisado al alza respecto a la cifra que ATA publicó el 22 de septiembre.\n\n## Qué significa para los transportistas\n\nVolumen estable con menos capacidad es una fortaleza limitada. Apoya las tarifas, pero no agrega cargas, así que el margen depende más del costo por milla de cada empresa que de que el mercado levante a todos. La Administración de Información de Energía (EIA) puso el promedio nacional del diésel en $6.276 por galón el 19 de octubre, 9.7 centavos más que la semana anterior y $2.656 más que un año antes. Cualquier alza de tarifa hay que medirla contra una factura de combustible de ese tamaño.\n\nLos transportistas deben revisar si su carga por contrato va al ritmo de esa factura, porque la carga por contrato es lo que mide sobre todo el índice de ATA.\n\n## Qué deben vigilar cargadores y corredores de carga\n\nLos cargadores no deben leer un tonelaje estable como señal de holgura. El comentario de Costello apunta a un mercado donde la escasez está del lado de los camiones, por lo que las solicitudes de tarifa en la temporada de licitaciones quizá no regresen a la baja. Los corredores con carriles por contrato deben seguir la revisión final de septiembre a principios de noviembre y la lectura de octubre a finales de noviembre. Dos meses más de pequeños avances junto con más salidas de capacidad sugerirían que el equilibrio se inclina hacia los transportistas, como sostiene ATA. Una caída del tonelaje sin cambio en la capacidad apuntaría en sentido contrario.\n"
+      }
+    },
     {
       "id": "2026-10-21-0900-eia-diesel-turns-up",
       "publishedAt": "2026-10-21T13:51:46Z",
