@@ -1,7 +1,40 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T16:52:27Z",
+  "updatedAt": "2026-10-23T19:54:15Z",
   "stories": [
+    {
+      "id": "2026-10-23-1500-trucking-bankruptcies-16",
+      "publishedAt": "2026-10-23T19:54:15Z",
+      "title": "At least 16 carriers filed for bankruptcy in five weeks as diesel stays above $6",
+      "dek": "FreightWaves counted 16 filings from Sept. 18 to Oct. 21, mostly small fleets. The count alone does not prove an industry trend, but it shows how thin margins are.",
+      "body": "FreightWaves counted at least 16 trucking companies that filed for bankruptcy protection between Sept. 18 and Oct. 21, according to its Oct. 21 review of federal court records. The list is a reminder of how thin the margin is for small fleets while diesel sits above $6.\n\n## What the filings show\n\nPer FreightWaves, nine of the cases are Chapter 11 reorganizations and five are Chapter 7 liquidations. Two did not specify a chapter. The carriers hauled general freight, petroleum and logs, and they ranged from one-truck operators to fleets with dozens of power units.\n\nThe largest filing details came from Chicago-based Midwest Expedited, which filed for Chapter 11 on Oct. 6. FreightWaves reported its schedules show about $2.31 million in liabilities against $108,351 in assets. Xoco Transport of Hidalgo, Texas also entered Chapter 11, and El Paso-based Site2Site Transport filed under Chapter 7 on Sept. 29 with eight leased trucks.\n\nFreightWaves was careful about what the list proves. It said the filings alone do not establish an industrywide increase in bankruptcies, and it did not name a single cause. Newsweek, reviewing the same count, noted that the companies did not directly blame fuel costs.\n\n## The fuel backdrop\n\nThe pressure is easy to see in the pump price. Newsweek, citing AAA, reported diesel at $6.31 a gallon on Thursday, up more than 70% from $3.63 a year earlier, and above $6 since early September. AAA's record is $6.53, set on Sept. 21, Newsweek said.\n\nStephen Burks, an economics professor emeritus at the University of Minnesota Morris, told Newsweek \"the new challenge is fuel prices rising faster than freight rates can adjust upward.\" Newsweek also quoted consultant Jacquelyn Omotalade saying that when small carriers drop out, capacity tightens on the routes that depend on them.\n\n## What it means for carriers\n\nSmall and mid-size fleets without fuel surcharge language that tracks the weekly average are the most exposed. Check how your surcharge schedule is indexed and how often it resets, because a lag of even a week matters at these prices.\n\nCarriers also face counterparty risk. If a customer or a subcontracted carrier files, unpaid invoices can become claims in a bankruptcy case.\n\n## What shippers and brokers should watch\n\nBrokers should confirm that carriers on active loads still hold authority and insurance, and should be wary of a sudden gap in service from a regular small carrier. Shippers running bids this fall should expect fewer small bidders on some lanes, which can mean less choice and firmer rates in regional markets. Newsweek's reporting, citing Bank of America economist Taylor Bowley, ties tight capacity to constrained driver availability.\n\nFor current weekly averages by region, see PDI's diesel prices page at /diesel.\n",
+      "tags": [
+        "capacity",
+        "fuel",
+        "economy",
+        "rates"
+      ],
+      "featured": false,
+      "sources": [
+        {
+          "title": "New trucking bankruptcies expose mounting debt and shrinking fleets",
+          "publisher": "FreightWaves",
+          "url": "https://www.freightwaves.com/news/new-trucking-bankruptcies-expose-mounting-debt-and-shrinking-fleets",
+          "date": "2026-10-21"
+        },
+        {
+          "title": "Truckers Face Double Squeeze Ahead of Holiday Season",
+          "publisher": "Newsweek",
+          "url": "https://newsweek.com/truckers-face-double-squeeze-before-christmas-12606452",
+          "date": "2026-10-22"
+        }
+      ],
+      "es": {
+        "title": "Al menos 16 transportistas se declararon en bancarrota en cinco semanas con el diésel sobre $6",
+        "dek": "FreightWaves contó 16 casos del 18 de septiembre al 21 de octubre, casi todos flotas pequeñas. El conteo no prueba una tendencia en toda la industria, pero muestra lo estrechos que son los márgenes.",
+        "body": "FreightWaves contó al menos 16 empresas de transporte que se acogieron a la protección por bancarrota entre el 18 de septiembre y el 21 de octubre, según su revisión del 21 de octubre de los registros de los tribunales federales. La lista muestra lo estrecho que es el margen de las flotas pequeñas mientras el diésel se mantiene por encima de los $6.\n\n## Lo que muestran los casos\n\nSegún FreightWaves, nueve casos son reorganizaciones bajo el Capítulo 11 y cinco son liquidaciones bajo el Capítulo 7. Dos no especificaron el capítulo. Los transportistas movían carga general, petróleo y madera, y van desde operadores de un solo camión hasta flotas con decenas de unidades.\n\nEl caso con más detalle es Midwest Expedited, de Chicago, que se acogió al Capítulo 11 el 6 de octubre. FreightWaves informó que sus documentos muestran unos $2.31 millones en deudas frente a $108,351 en activos. Xoco Transport, de Hidalgo, Texas, también entró al Capítulo 11, y Site2Site Transport, de El Paso, se acogió al Capítulo 7 el 29 de septiembre con ocho camiones arrendados.\n\nFreightWaves fue cuidadoso con lo que prueba la lista. Dijo que los casos por sí solos no demuestran un aumento de bancarrotas en toda la industria, y no señaló una causa única. Newsweek, que revisó el mismo conteo, indicó que las empresas no culparon directamente al costo del combustible.\n\n## El contexto del combustible\n\nLa presión se ve en el precio de la bomba. Newsweek, citando a AAA, informó que el diésel estaba en $6.31 por galón el jueves, más de 70% por encima de los $3.63 de hace un año, y por encima de $6 desde principios de septiembre. El récord de AAA es $6.53, registrado el 21 de septiembre, según Newsweek.\n\nStephen Burks, profesor emérito de economía de la Universidad de Minnesota Morris, dijo a Newsweek que el nuevo reto es que los precios del combustible suben más rápido de lo que pueden ajustarse las tarifas de flete. La consultora Jacquelyn Omotalade señaló que cuando los transportistas pequeños salen del mercado, la capacidad se reduce en las rutas que dependen de ellos.\n\n## Qué significa para los transportistas\n\nLas flotas pequeñas y medianas cuyo recargo por combustible no sigue el promedio semanal son las más expuestas. Revise cómo está indexado su recargo y con qué frecuencia se actualiza, porque un rezago de una semana pesa a estos precios.\n\nTambién hay riesgo con la contraparte. Si un cliente o un transportista subcontratado se declara en bancarrota, las facturas sin pagar pueden convertirse en reclamaciones dentro del caso.\n\n## Qué deben vigilar cargadores y corredores de carga\n\nLos corredores deben confirmar que los transportistas en cargas activas sigan con autoridad y seguro vigentes, y desconfiar de una interrupción repentina del servicio de un transportista pequeño habitual. Los cargadores que hacen licitaciones este otoño deben esperar menos postores pequeños en algunos corredores, lo que puede significar menos opciones y tarifas más firmes en mercados regionales. Newsweek, citando al economista de Bank of America Taylor Bowley, vincula la capacidad ajustada con la limitada disponibilidad de conductores.\n\nPara los promedios semanales actuales por región, vea la página de precios del diésel de PDI en /diesel.\n"
+      }
+    },
     {
       "id": "2026-10-23-1200-union-pacific-intermodal-diesel",
       "publishedAt": "2026-10-23T16:52:27Z",
