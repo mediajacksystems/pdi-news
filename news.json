@@ -1,7 +1,45 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T19:54:15Z",
+  "updatedAt": "2026-10-24T13:52:18Z",
   "stories": [
+    {
+      "id": "2026-10-24-0900-traffix-2027-linehaul-scenarios",
+      "publishedAt": "2026-10-24T13:52:18Z",
+      "title": "Traffix tells shippers to budget 5% to 8% higher linehaul rates for 2027",
+      "dek": "The 3PL says carrier pricing power is the strongest since early 2022 and driven by thin capacity, not freight growth. Its base case is 5% to 8%, with a 12% or higher tight case.",
+      "body": "Shippers heading into 2027 bid season are being told to plan for higher linehaul rates, even though freight volume is not growing. Traffix, a third-party logistics provider, published its Q4 2026 market update this week, and Truck News carried it on Oct. 24. The core message is that carriers hold the most pricing power they have had since early 2022.\n\n## The scenarios\n\nTraffix gives three budget cases for U.S. truckload linehaul rates in 2027, all excluding fuel. Its base case is an increase of 5% to 8% for the full year. A softer market would mean 2% to 5%, and a tight market would mean 8% to 12% or more, with double-digit pressure on constrained lanes.\n\nThe firm says contract rates are about 10% above spring levels. It also says that simply holding late-2026 contract levels through 2027 would amount to an increase of 4% to 5% over the 2026 average, before any further hikes. Spot rates peaked on July 4, rebounded in late September and are again below contract linehaul rates, according to Traffix.\n\nAlex Fuller, Traffix's vice president of commercial intelligence, summed up the cause: \"shippers are paying for a lack of capacity, not a surge in freight.\" Traffix describes demand as roughly flat heading into the fourth quarter.\n\n## What it means for carriers\n\nThe leverage is real, but it comes from supply, not from a demand boom, so it can shift if volume swings. Traffix expects flatbed capacity to tighten quickly through peak and dry van to stay volatile through year-end. It sees no significant drop in temperature-controlled rates through the end of produce season, steady LTL pricing with carrier increases likely in December and January, and continued drayage disruption in the fourth quarter.\n\nFuel is the other moving part. The U.S. Energy Information Administration reported a weekly average on-highway diesel price of $6.276 per gallon for Oct. 19, up 9.7 cents from the prior week. Traffix says diesel hit record levels in September and eased in early October, and it tells shippers to budget fuel separately from linehaul.\n\n## What shippers and brokers should watch\n\nTraffix recommends budgeting linehaul, fuel and accessorial charges as separate lines, planning for peak-season disruption with extra safety stock or alternative modes, and keeping flexibility through shorter contract terms or indexed pricing. Fuller also warned that shippers who wait for relief before setting 2027 budgets risk starting the year underfunded.\n\nThese are one firm's scenarios, not a market consensus. Brokers pricing contract freight should watch whether spot rates close the gap with contract rates, since that would signal how much room carriers have to push in the next round of bids.\n\nTrack the latest weekly numbers on PDI's [diesel prices page](/diesel).\n",
+      "tags": [
+        "rates",
+        "capacity",
+        "diesel"
+      ],
+      "featured": false,
+      "sources": [
+        {
+          "title": "Traffix forecasts 5-8% increase in US truckload rates for 2027",
+          "publisher": "Truck News",
+          "url": "https://www.trucknews.com/business-management/traffix-forecasts-5-8-increase-in-us-truckload-rates-for-2027/1003223976/",
+          "date": "2026-10-24"
+        },
+        {
+          "title": "Budget for 5 to 8 higher truckload linehaul rates for 2027 as carrier pricing power nears its highest level since 2022",
+          "publisher": "AJOT",
+          "url": "https://www.ajot.com/news/budget-for-5-to-8-higher-truckload-linehaul-rates-for-2027-as-carrier-pricing-power-nears-its-highest-level-since-2022",
+          "date": "2026-10-21"
+        },
+        {
+          "title": "Weekly Retail Gasoline and Diesel Prices",
+          "publisher": "U.S. Energy Information Administration",
+          "url": "https://www.eia.gov/petroleum/gasdiesel/",
+          "date": "2026-10-20"
+        }
+      ],
+      "es": {
+        "title": "Traffix pide a los cargadores presupuestar tarifas de linehaul 5% a 8% más altas en 2027",
+        "dek": "El 3PL dice que el poder de precios de los transportistas es el mayor desde principios de 2022 y viene de la poca capacidad, no del crecimiento de la carga. Su caso base es de 5% a 8%.",
+        "body": "Los cargadores que se preparan para las licitaciones de 2027 reciben una advertencia: las tarifas de flete por tramo subirán, aunque el volumen de carga no crece. Traffix, un proveedor logístico externo (3PL), publicó su actualización de mercado del cuarto trimestre de 2026, y Truck News la difundió el 24 de octubre. El mensaje central es que los transportistas tienen el mayor poder de fijación de precios desde principios de 2022.\n\n## Los escenarios\n\nTraffix presenta tres casos de presupuesto para las tarifas de linehaul de carga completa en EE. UU. en 2027, todos sin incluir combustible. El caso base es un aumento de 5% a 8% en el año completo. Un mercado más blando implicaría 2% a 5%, y un mercado ajustado, 8% a 12% o más, con presión de dos dígitos en los corredores con poca capacidad.\n\nLa firma dice que las tarifas por contrato están cerca de 10% por encima de los niveles de primavera. También señala que mantener los niveles contractuales de fines de 2026 durante todo 2027 equivaldría a un aumento de 4% a 5% sobre el promedio de 2026, antes de cualquier alza adicional. Según Traffix, las tarifas spot tocaron su máximo el 4 de julio, repuntaron a fines de septiembre y de nuevo están por debajo de las tarifas contractuales.\n\nAlex Fuller, vicepresidente de inteligencia comercial de Traffix, resumió la causa: \"shippers are paying for a lack of capacity, not a surge in freight\" (los cargadores pagan por la falta de capacidad, no por un aumento de la carga). Traffix describe la demanda como estable de cara al cuarto trimestre.\n\n## Qué significa para los transportistas\n\nEl poder de negociación es real, pero viene de la oferta y no de un auge de la demanda, así que puede cambiar si el volumen se mueve. Traffix prevé que la capacidad de plataforma (flatbed) se ajuste rápido durante la temporada alta y que el dry van siga volátil hasta fin de año. No espera una baja significativa en las tarifas refrigeradas hasta el final de la temporada de productos frescos, y ve precios estables en LTL con alzas probables en diciembre y enero, además de interrupciones continuas en el acarreo portuario en el cuarto trimestre.\n\nEl combustible es la otra variable. La Administración de Información de Energía (EIA) reportó un promedio semanal del diésel de carretera de $6.276 por galón al 19 de octubre, 9.7 centavos más que la semana anterior. Traffix indica que el diésel llegó a niveles récord en septiembre y bajó a principios de octubre, y recomienda presupuestar el combustible por separado del linehaul.\n\n## Qué deben vigilar cargadores y corredores de carga\n\nTraffix recomienda presupuestar por separado linehaul, combustible y cargos accesorios, prepararse para la interrupción de la temporada alta con inventario adicional o modos alternos, y mantener flexibilidad con contratos más cortos o precios indexados. Fuller también advirtió que los cargadores que esperen un alivio antes de fijar su presupuesto de 2027 corren el riesgo de empezar el año con fondos insuficientes.\n\nEstos son escenarios de una sola firma, no un consenso del mercado. Los corredores que cotizan carga por contrato deben observar si las tarifas spot alcanzan a las contractuales, lo que indicaría cuánto margen tienen los transportistas en la próxima ronda de licitaciones.\n\nConsulte las cifras semanales más recientes en la [página de precios del diésel de PDI](/diesel).\n"
+      }
+    },
     {
       "id": "2026-10-23-1500-trucking-bankruptcies-16",
       "publishedAt": "2026-10-23T19:54:15Z",
