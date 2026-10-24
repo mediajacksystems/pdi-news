@@ -1,7 +1,45 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T16:53:22Z",
+  "updatedAt": "2026-10-24T19:53:43Z",
   "stories": [
+    {
+      "id": "2026-10-24-1500-russian-diesel-tanker-new-york",
+      "publishedAt": "2026-10-24T19:53:43Z",
+      "title": "First Russian diesel tanker sails for New York, but it covers about one day of U.S. demand",
+      "dek": "The 40,000-ton cargo is due Nov. 7 under the Trump-Putin deal. Fortune and the AP put it near 7% of daily U.S. diesel use, so don't expect relief at the pump.",
+      "body": "The first tanker of Russian diesel under the deal President Trump announced on Oct. 9 is at sea and bound for New York. For truckers paying more than $6 a gallon, the signal matters more than the barrels.\n\nThe Kremlin said on Friday, Oct. 23, that the first cargo had sailed, according to Fortune. The Malta-flagged *Agioi Fanendes* loaded 40,000 metric tons of ultra-low-sulfur diesel at the Baltic port of Primorsk on Oct. 22, according to LSEG shipping data cited by Reuters, and is expected to arrive on Nov. 7. Kpler, the marine intelligence firm, told the Associated Press it would be the first Russian diesel delivery to the U.S. since July 2023. The buyer and seller have not been named.\n\n## How big is it?\n\nSmall, by the numbers reported. The Associated Press put the cargo at roughly 300,000 barrels, about 7% of the 4 million barrels of diesel the U.S. uses in a day. That is one day of national demand, delivered once, to one port, in two weeks.\n\nThe deal itself is larger on paper. Trump's announcement described 300,000 metric tons at first, then 500,000 tons in November and 1 million tons \"immediately thereafter.\" A Treasury license issued Oct. 9, OFAC General License 135, temporarily allows the transactions that sanctions would otherwise bar. Energy policy experts quoted by the AP said the agreement is unlikely to make a real dent in pump prices.\n\nDiesel is still high. The U.S. Energy Information Administration put the national on-highway average at $6.276 a gallon for the week of Oct. 19, up 9.7 cents from $6.179 the week before.\n\n## What it means for carriers\n\nDon't budget on it. One cargo landing in New York on Nov. 7 does nothing for the Gulf Coast, the Midwest or the West Coast, where truckers fill up. Fuel surcharge tables that follow the EIA weekly number will move only if the national average moves, and that depends on crude, refinery output and exports far more than on one tanker.\n\nThe signal is worth watching. Washington is willing to loosen Russia sanctions to ease diesel prices, and Ukraine's president, Volodymyr Zelenskyy, called the decision \"a weak decision by strong partners,\" according to Fortune. Policy could change again after the Nov. 3 midterms, which would affect the later, larger volumes.\n\n## What shippers and brokers should watch\n\n- The EIA weekly diesel number on Monday, and whether the Oct. 19 uptick holds.\n- Whether the November tonnage in the deal actually ships, and where it lands.\n- Any change in sanctions policy once the election is over.\n\nUntil then, keep fuel surcharge language tied to a published index and review it against current prices. For daily fuel numbers, see PDI's diesel prices page at /diesel.\n",
+      "tags": [
+        "diesel",
+        "fuel",
+        "trade"
+      ],
+      "featured": true,
+      "sources": [
+        {
+          "title": "The first Russian diesel tanker under Trump's deal with Putin is headed to New York",
+          "publisher": "Fortune",
+          "url": "https://fortune.com/2026/10/23/russia-ukraine-trump-diesel-tanker/",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "Russian diesel tanker heads for U.S. following Trump-Putin deal",
+          "publisher": "FreightWaves",
+          "url": "https://www.freightwaves.com/news/russian-diesel-tanker-heads-for-u-s-following-trump-putin-deal",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "Gasoline and Diesel Fuel Update",
+          "publisher": "U.S. Energy Information Administration",
+          "url": "https://www.eia.gov/petroleum/gasdiesel/",
+          "date": "2026-10-19"
+        }
+      ],
+      "es": {
+        "title": "Zarpa el primer buque con diésel ruso hacia Nueva York, pero equivale a un día de demanda en EE. UU.",
+        "dek": "El cargamento de 40,000 toneladas llegaría el 7 de noviembre bajo el acuerdo Trump-Putin. Fortune y AP lo ubican cerca del 7% del consumo diario; no espere alivio en la bomba.",
+        "body": "El primer buque con diésel ruso bajo el acuerdo que el presidente Trump anunció el 9 de octubre ya está en el mar rumbo a Nueva York. Para los transportistas que pagan más de $6 por galón, la señal pesa más que los barriles.\n\nEl Kremlin dijo el viernes 23 de octubre que el primer cargamento había zarpado, según Fortune. El buque *Agioi Fanendes*, con bandera de Malta, cargó 40,000 toneladas métricas de diésel de ultra bajo azufre en el puerto báltico de Primorsk el 22 de octubre, según datos de LSEG citados por Reuters, y se espera que llegue el 7 de noviembre. Kpler, la firma de inteligencia marítima, dijo a The Associated Press que sería la primera entrega de diésel ruso a EE. UU. desde julio de 2023. No se ha identificado al comprador ni al vendedor.\n\n## ¿Qué tan grande es?\n\nPequeño, según las cifras reportadas. The Associated Press calculó el cargamento en unos 300,000 barriles, cerca del 7% de los 4 millones de barriles de diésel que EE. UU. consume en un día. Es un día de demanda nacional, entregado una sola vez, en un solo puerto, en dos semanas.\n\nEl acuerdo, en papel, es mayor. El anuncio de Trump habló de 300,000 toneladas métricas al inicio, luego 500,000 en noviembre y 1 millón \"inmediatamente después\". Una licencia del Tesoro emitida el 9 de octubre, la OFAC General License 135, permite de forma temporal las transacciones que las sanciones prohibirían. Expertos en política energética citados por AP dijeron que es poco probable que el acuerdo reduzca de forma real los precios en la bomba.\n\nEl diésel sigue caro. La Administración de Información de Energía de EE. UU. (EIA) ubicó el promedio nacional en carretera en $6.276 por galón en la semana del 19 de octubre, 9.7 centavos más que los $6.179 de la semana anterior.\n\n## Qué significa para los transportistas\n\nNo haga su presupuesto con esto. Un cargamento que llega a Nueva York el 7 de noviembre no ayuda a la Costa del Golfo, al Medio Oeste ni a la Costa Oeste, donde cargan combustible los camioneros. Las tablas de recargo por combustible que siguen el dato semanal de la EIA solo se moverán si se mueve el promedio nacional, y eso depende del crudo, la producción de las refinerías y las exportaciones mucho más que de un buque.\n\nLa señal sí merece atención. Washington está dispuesto a aflojar las sanciones a Rusia para aliviar el precio del diésel, y el presidente de Ucrania, Volodymyr Zelenskyy, calificó la decisión de \"una decisión débil de socios fuertes\", según Fortune. La política podría cambiar de nuevo después de las elecciones intermedias del 3 de noviembre, lo que afectaría los volúmenes posteriores, que son mayores.\n\n## Qué deben vigilar cargadores y corredores de carga\n\n- El dato semanal de la EIA del lunes, y si el aumento del 19 de octubre se mantiene.\n- Si las toneladas de noviembre realmente se embarcan y dónde llegan.\n- Cualquier cambio en la política de sanciones después de las elecciones.\n\nMientras tanto, mantenga el lenguaje del recargo por combustible atado a un índice publicado y revíselo frente a los precios actuales. Para los precios diarios, vea la página de precios del diésel de PDI en /diesel.\n"
+      }
+    },
     {
       "id": "2026-10-24-1200-ryder-epa-2027-truck-supply",
       "publishedAt": "2026-10-24T16:53:22Z",
