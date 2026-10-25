@@ -1,7 +1,39 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T13:53:23Z",
+  "updatedAt": "2026-10-25T16:54:00Z",
   "stories": [
+    {
+      "id": "2026-10-25-1200-four-corners-flooding-i40",
+      "publishedAt": "2026-10-25T16:54:00Z",
+      "title": "Four Corners flooding closes I-40 near Grants, N.M., with no detour and more rain ahead",
+      "dek": "Both directions are shut between mile markers 102 and 108, and U.S. 64 and U.S. 160 are also affected. Dispatchers on Southwest lanes should plan for delays.",
+      "body": "Flooding across the Four Corners region shut a section of Interstate 40 in New Mexico on Saturday evening, and more rain was still in the forecast for the weekend. Dispatchers running the Southwest corridor should plan for delays into Monday.\n\n## What closed\n\nKOB 4 in Albuquerque reported on Saturday evening that I-40 was closed in both directions between mile markers 102 and 108 near Exit 104, between Grants and Albuquerque. The state's NMROADS site listed no detour and no timeline for reopening, according to KOB. The old Route 66 alignment, which drivers sometimes use as a bypass, was also closed. Viewer photos sent to the station showed tractor-trailers stuck on flooded pavement with water above the wheels.\n\nFarther north, the Associated Press reported on Saturday that several days of heavy rain dropped more than 5 inches in some places. U.S. 64 was closed on a 2-mile stretch west of Shiprock, New Mexico, because of water on the road, and U.S. 160 northeast of Pagosa Springs, Colorado, stayed closed. U.S. 550, the Million Dollar Highway, reopened between Durango and Ouray after crews repaired water damage.\n\nThe AP said the San Juan River reached a level in Pagosa Springs not seen in more than a century, while the Animas River flooded Durango but stayed below its records. Around 2,000 people were affected in and around Farmington, New Mexico, and hundreds of homes were evacuated and without power. Colorado Gov. Jared Polis added Conejos County to the areas eligible for disaster aid.\n\n## What it means for carriers\n\nI-40 is a main east-west truck route, and the closure leaves little room to reroute locally. Drivers coming from the Southern California ports and Arizona toward Texas, Oklahoma and the Midwest may need to look at other long-haul routes, and any detour will add miles and hours. Check NMROADS (nmroads.com) before dispatching and again when drivers are on the road, because conditions are changing by the hour.\n\nExpect missed appointments. Drivers who run into a closure with no detour can burn hours of service waiting, so build in extra time and tell receivers early.\n\n## What shippers and brokers should watch\n\nLoads moving through northern and western New Mexico and southwest Colorado are the most exposed. Confirm delivery windows with customers now and ask carriers for their planned route instead of assuming a standard one. If a closure lasts, expect carriers to quote higher for affected lanes to cover extra miles.\n\nThe AP said additional storms were expected through the weekend and did not say where they would move next, so more closures are possible. Neither report gave a reopening time for I-40 as of Saturday night.",
+      "tags": [
+        "weather",
+        "capacity",
+        "safety"
+      ],
+      "featured": false,
+      "sources": [
+        {
+          "title": "Traffic jammed along I-40 near Cubero due to flooding",
+          "publisher": "KOB 4",
+          "url": "https://www.kob.com/new-mexico/traffic-jammed-along-i-40-near-cubero-due-to-flooding/",
+          "date": "2026-10-24"
+        },
+        {
+          "title": "Still more rain, evacuations remain in place from Four Corners region flooding",
+          "publisher": "The Associated Press (via KPRC Click2Houston)",
+          "url": "https://click2houston.com/news/national/2026/10/24/still-more-rain-evacuations-remain-in-place-from-four-corners-region-flooding",
+          "date": "2026-10-24"
+        }
+      ],
+      "es": {
+        "title": "Inundaciones en Four Corners cierran la I-40 cerca de Grants, N.M., sin desvío y con más lluvia en camino",
+        "dek": "Ambos sentidos están cerrados entre los marcadores de milla 102 y 108, y también hay cierres en la U.S. 64 y la U.S. 160. Los despachadores en carriles del suroeste deben prever retrasos.",
+        "body": "Las inundaciones en la región de Four Corners cerraron un tramo de la Interestatal 40 en Nuevo México el sábado por la noche, y se esperaba más lluvia durante el fin de semana. Los despachadores que operan en el corredor del suroeste deben prever retrasos hasta el lunes.\n\n## Qué se cerró\n\nKOB 4, de Albuquerque, informó el sábado por la noche que la I-40 estaba cerrada en ambos sentidos entre los marcadores de milla 102 y 108, cerca de la salida 104, entre Grants y Albuquerque. El sitio NMROADS del estado no indicaba desvío ni hora de reapertura, según KOB. La antigua ruta 66, que los conductores a veces usan como alternativa, también estaba cerrada. Fotos de televidentes mostraban tractocamiones atrapados en el pavimento inundado, con el agua por encima de las llantas.\n\nMás al norte, The Associated Press informó el sábado que varios días de lluvia intensa dejaron más de 5 pulgadas en algunos lugares. La U.S. 64 estuvo cerrada en un tramo de 2 millas al oeste de Shiprock, Nuevo México, por agua sobre la carretera, y la U.S. 160 al noreste de Pagosa Springs, Colorado, seguía cerrada. La U.S. 550, conocida como Million Dollar Highway, reabrió entre Durango y Ouray después de que las cuadrillas repararon daños por el agua.\n\nSegún la AP, el río San Juan alcanzó en Pagosa Springs un nivel que no se veía en más de un siglo, mientras que el río Animas inundó Durango pero se mantuvo por debajo de sus récords. Unas 2,000 personas fueron afectadas en Farmington, Nuevo México, y sus alrededores, y cientos de viviendas fueron evacuadas y quedaron sin electricidad. El gobernador de Colorado, Jared Polis, agregó el condado de Conejos a las zonas elegibles para ayuda por desastre.\n\n## Qué significa para los transportistas\n\nLa I-40 es una ruta principal de camiones de este a oeste, y el cierre deja poco margen para rutas locales alternas. Los conductores que salen de los puertos del sur de California y de Arizona hacia Texas, Oklahoma y el Medio Oeste quizá tengan que evaluar otras rutas de larga distancia, y cualquier desvío sumará millas y horas. Revisen NMROADS (nmroads.com) antes de despachar y de nuevo cuando el conductor ya esté en carretera, porque las condiciones cambian cada hora.\n\nPrevean citas perdidas. El conductor que se topa con un cierre sin desvío puede consumir horas de servicio esperando, así que conviene dar tiempo extra y avisar temprano a los receptores.\n\n## Qué deben vigilar cargadores y corredores de carga\n\nLas cargas que pasan por el norte y el oeste de Nuevo México y el suroeste de Colorado son las más expuestas. Confirmen ahora las ventanas de entrega con los clientes y pidan a los transportistas su ruta planeada en lugar de dar por hecha la habitual. Si el cierre se prolonga, es probable que los transportistas coticen más alto en los carriles afectados para cubrir las millas adicionales.\n\nLa AP indicó que se esperaban más tormentas durante el fin de semana y no dijo hacia dónde se moverían, por lo que podrían darse más cierres. Ninguno de los dos reportes dio una hora de reapertura de la I-40 al sábado por la noche."
+      }
+    },
     {
       "id": "2026-10-25-0900-brent-six-month-high-diesel",
       "publishedAt": "2026-10-25T13:53:23Z",
