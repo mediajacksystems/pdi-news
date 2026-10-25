@@ -1,7 +1,51 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T16:54:00Z",
+  "updatedAt": "2026-10-25T19:53:29Z",
   "stories": [
+    {
+      "id": "2026-10-25-1500-dpa-refining-diesel",
+      "publishedAt": "2026-10-25T19:53:29Z",
+      "title": "$150M refining push won't lower diesel soon: AAA average rises to $6.35 on Sunday",
+      "dek": "The Energy Department will spend up to $150 million in Defense Production Act funds on refineries, but analysts see little near-term price effect. AAA's diesel average ticked up to $6.3474.",
+      "body": "The White House put $150 million behind U.S. refining last week, and diesel buyers got no relief over the weekend. The AAA national diesel average was $6.3474 a gallon on Sunday, Oct. 25, up from $6.3224 a week earlier, according to [AAA](https://gasprices.aaa.com/). It was $3.6567 a year ago.\n\n## What was announced\n\nOn Thursday, Oct. 22, the Energy Department said it will use Defense Production Act Title III money to expand petroleum production, storage and logistics at refineries across the country. Up to $150 million would come from $1 billion Congress already appropriated for energy projects tied to national security, according to the [Energy Department](https://www.energy.gov/articles/energy-department-use-defense-production-act-funding-restart-american-refinery-and-expand). It has not named any recipients. Energy Secretary Chris Wright said the money will \"expand our nation's refining capacity and strengthen our energy security.\"\n\nThe department says the funding should raise refining output by millions of gallons a day. It gave no date for when any of that would show up.\n\n## Why the pump price may not move\n\nAnalysts quoted by [CBS News](https://www.cbsnews.com/news/trump-defense-production-act-gas-diesel-prices/) on Oct. 23 were doubtful. GasBuddy's Patrick De Haan said he does not expect much impact on prices. Tom Kloza of Gulf Oil said U.S. refineries have no spare capacity, so any benefit would take time. The refiners' trade group, AFPM, said the country's 128 operating refineries are already running at full capacity.\n\nThe bigger driver is crude. CBS reported Brent at about $116 a barrel on Friday, with West Texas Intermediate near $103. Distillate is also priced against the world market. CBS cited experts putting U.S. distillate output near 5.3 million barrels a day against domestic use near 3.6 million, and Kloza put exports at about 1.4 million barrels a day. Barrels that can leave the country are priced like barrels that can be sold abroad.\n\nThe Energy Information Administration's last weekly reading, for Oct. 19, was $6.276 a gallon, up 9.7 cents on the week, with the West Coast at $7.394 and California at $8.242, per [EIA](https://www.eia.gov/petroleum/gasdiesel/). The next EIA update is due Tuesday, Oct. 27.\n\n## What it means for carriers\n\nPlan around today's price, not a policy promise. Carriers on index-based fuel surcharges will see this week's EIA number flow through with the usual lag, and owner-operators buying at the pump are already paying the AAA figure. A refinery project funded now would take well beyond this quarter to add barrels.\n\n## What shippers and brokers should watch\n\nWatch which projects the Energy Department picks and how fast they can add output. Watch Tuesday's EIA print and Monday's crude open for the next move in surcharge tables. Bid-season fuel clauses written at $6 diesel carry real risk in either direction, so check how often your surcharge schedule resets.\n\nPDI tracks the weekly average on its [diesel prices page](/diesel).",
+      "tags": [
+        "diesel",
+        "fuel",
+        "regulation"
+      ],
+      "featured": true,
+      "sources": [
+        {
+          "title": "Energy Department to Use Defense Production Act Funding to Expand Refining Capacity",
+          "publisher": "U.S. Department of Energy",
+          "url": "https://www.energy.gov/articles/energy-department-use-defense-production-act-funding-restart-american-refinery-and-expand",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "Trump to use the Defense Production Act to boost U.S. gas and diesel production. Could it help?",
+          "publisher": "CBS News",
+          "url": "https://www.cbsnews.com/news/trump-defense-production-act-gas-diesel-prices/",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "AAA Gas Prices: national averages",
+          "publisher": "AAA",
+          "url": "https://gasprices.aaa.com/",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "Gasoline and Diesel Fuel Update",
+          "publisher": "U.S. Energy Information Administration",
+          "url": "https://www.eia.gov/petroleum/gasdiesel/",
+          "date": "2026-10-20"
+        }
+      ],
+      "es": {
+        "title": "Impulso de $150M a la refinación no bajará pronto el diésel: AAA sube a $6.35 el domingo",
+        "dek": "El Departamento de Energía gastará hasta 150 millones de dólares de la Ley de Producción de Defensa en refinerías, pero los analistas ven poco efecto a corto plazo. El diésel de AAA subió a $6.3474.",
+        "body": "La Casa Blanca destinó 150 millones de dólares a la refinación en EE. UU. la semana pasada, y los compradores de diésel no vieron alivio durante el fin de semana. El promedio nacional de diésel de AAA fue de $6.3474 por galón este domingo 25 de octubre, frente a $6.3224 hace una semana, según [AAA](https://gasprices.aaa.com/). Hace un año estaba en $3.6567.\n\n## Qué se anunció\n\nEl jueves 22 de octubre, el Departamento de Energía dijo que usará fondos del Título III de la Ley de Producción de Defensa para ampliar la producción, el almacenamiento y la logística de petróleo en refinerías de todo el país. Hasta 150 millones de dólares saldrían de los 1,000 millones que el Congreso ya asignó a proyectos de energía vinculados a la seguridad nacional, según el [Departamento de Energía](https://www.energy.gov/articles/energy-department-use-defense-production-act-funding-restart-american-refinery-and-expand). Todavía no ha nombrado beneficiarios. El secretario de Energía, Chris Wright, dijo que el dinero servirá para ampliar la capacidad de refinación y fortalecer la seguridad energética del país.\n\nEl departamento afirma que el financiamiento debería aumentar la producción de las refinerías en millones de galones por día, pero no dio fechas.\n\n## Por qué el precio en la bomba podría no moverse\n\nLos analistas citados por [CBS News](https://www.cbsnews.com/news/trump-defense-production-act-gas-diesel-prices/) el 23 de octubre se mostraron escépticos. Patrick De Haan, de GasBuddy, dijo que no espera mucho efecto en los precios. Tom Kloza, de Gulf Oil, señaló que las refinerías de EE. UU. no tienen capacidad ociosa, así que cualquier beneficio tardaría. La asociación de refinadores AFPM dijo que las 128 refinerías del país ya operan a plena capacidad.\n\nEl factor principal es el crudo. CBS informó que el Brent cerró cerca de $116 por barril el viernes, y el WTI cerca de $103. El destilado también se cotiza frente al mercado mundial. CBS citó a expertos que ubican la producción de destilados en EE. UU. cerca de 5.3 millones de barriles diarios, contra un consumo interno cercano a 3.6 millones, y Kloza calculó las exportaciones en unos 1.4 millones de barriles diarios.\n\nLa última lectura semanal de la Administración de Información de Energía (EIA), del 19 de octubre, fue de $6.276 por galón, 9.7 centavos más que la semana anterior, con la Costa Oeste en $7.394 y California en $8.242, según la [EIA](https://www.eia.gov/petroleum/gasdiesel/). La próxima actualización de la EIA está prevista para el martes 27 de octubre.\n\n## Qué significa para los transportistas\n\nConviene planear con el precio de hoy, no con una promesa de política pública. Los transportistas con recargos por combustible indexados verán el dato semanal de la EIA reflejado con el rezago habitual, y los dueños-operadores ya pagan la cifra de AAA en la bomba. Un proyecto de refinería financiado hoy tardaría mucho más que este trimestre en aportar barriles.\n\n## Qué deben vigilar cargadores y corredores de carga\n\nVigilen qué proyectos escoge el Departamento de Energía y qué tan rápido pueden aumentar la producción. Vigilen el dato de la EIA del martes y la apertura del crudo el lunes, que marcarán el siguiente movimiento en las tablas de recargo. Las cláusulas de combustible escritas con diésel a $6 implican riesgo en ambos sentidos, así que revisen con qué frecuencia se reajusta su tabla de recargos.\n\nPDI publica el promedio semanal en su [página de precios del diésel](/diesel)."
+      }
+    },
     {
       "id": "2026-10-25-1200-four-corners-flooding-i40",
       "publishedAt": "2026-10-25T16:54:00Z",
