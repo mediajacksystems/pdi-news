@@ -1,7 +1,45 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T19:53:29Z",
+  "updatedAt": "2026-10-26T13:53:53Z",
   "stories": [
+    {
+      "id": "2026-10-26-0900-oil-dips-iran-talks",
+      "publishedAt": "2026-10-26T13:53:53Z",
+      "title": "Oil slips on Iran talks, but diesel isn't getting relief yet: EIA's next reading is Tuesday",
+      "dek": "Brent fell about 2% Monday on U.S.-Iran diplomacy after a 6% weekly gain, while Houthi attacks on Saudi oil sites continue. EIA last had diesel at $6.276 a gallon.",
+      "body": "Crude oil slipped on Monday as hopes grew for U.S.-Iran de-escalation, the first pullback after a week that pushed Brent to its highest level since May. For trucking, the dip is a pause, not a fix: diesel at the pump still reflects crude prices that are far above where they were before the war.\n\n## What changed\n\nAccording to Grafa, citing market data as of 0426 GMT on Monday, Oct. 26, Brent crude fell $2.21, or 1.89%, to $114.51 a barrel, and U.S. WTI fell $2.23 to $101.04. Arbiterz reported Brent near $115.3 and WTI near $101.5 later in the session. Both outlets say Brent gained about 6% last week and WTI about 2.3%.\n\nGrafa attributes the drop to reports that Qatari mediators traveled to Tehran on Sunday to help ease tensions. Arbiterz adds that President Trump said he was weighing options on Iran and that some traders were simply taking profits after the rally.\n\nThe supply picture has not improved. Both reports say Houthi attacks on Saudi Arabian oil facilities and infrastructure continued over the weekend. Grafa quotes analyst Vandana Hari saying the reprieve \"may prove temporary.\" It also reports that the IEA's Fatih Birol warned energy markets may not return to prewar conditions in 2027 because of disruptions around the Strait of Hormuz and Bab el-Mandeb.\n\n## What it means for carriers\n\nThe latest government diesel number predates this move. The U.S. Energy Information Administration put the national on-highway average at $6.276 a gallon on Oct. 19, up 9.7 cents from the week before. EIA's next weekly reading is due Tuesday, Oct. 27, and it will reflect last week's crude rally rather than Monday's dip.\n\nRetail diesel typically lags crude, so a one-day decline in Brent is unlikely to show up at the pump this week. Carriers that buy on fuel cards or bulk contracts should not assume relief yet, and fleets with fuel surcharge tables tied to the EIA average should expect another weekly step before any easing.\n\n## What shippers and brokers should watch\n\nSurcharge schedules follow the EIA average, so a quote built on last week's number may already be low. Brokers booking spot freight should confirm whether a fuel component is included in the line-haul rate or billed separately, and shippers in bid season should ask carriers which index and update day they use.\n\nThree things will decide direction from here: whether the Qatari and Saudi diplomacy produces anything concrete, whether the Houthi strikes keep hitting Saudi infrastructure, and what EIA reports on Tuesday.\n\nCurrent regional and national pump prices are on PDI's diesel prices page at /diesel.",
+      "tags": [
+        "diesel",
+        "fuel",
+        "economy"
+      ],
+      "featured": true,
+      "sources": [
+        {
+          "title": "Oil prices fall on Iran diplomacy, Saudi supply risks",
+          "publisher": "Grafa",
+          "url": "https://grafa.com/en/news/united-states/oil-prices-fall-iran-diplomacy-saudi-supply-risks",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "Oil Prices Today: Brent Retreats to $115.3 Per Barrel as Traders Weigh Middle East De-escalation Hopes",
+          "publisher": "Arbiterz",
+          "url": "https://arbiterz.com/oil-prices-today-brent-retreats-to-115-3-per-barrel-as-traders-weigh-middle-east-conflict-de-escalation-hopes",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "Gasoline and Diesel Fuel Update",
+          "publisher": "U.S. Energy Information Administration",
+          "url": "https://www.eia.gov/petroleum/gasdiesel/",
+          "date": "2026-10-20"
+        }
+      ],
+      "es": {
+        "title": "El crudo baja por las conversaciones con Irán, pero el diésel aún no tiene alivio: la EIA reporta el martes",
+        "dek": "El Brent cayó cerca de 2% el lunes por la diplomacia entre EE. UU. e Irán tras subir 6% en la semana; los ataques hutíes a instalaciones saudíes siguen. La EIA tenía el diésel en $6.276 por galón.",
+        "body": "El petróleo bajó el lunes por la esperanza de una distensión entre Estados Unidos e Irán, el primer retroceso tras una semana que llevó el Brent a su nivel más alto desde mayo. Para el transporte de carga, la baja es una pausa y no una solución: el diésel en la bomba sigue reflejando un crudo muy por encima de lo que costaba antes de la guerra.\n\n## Qué cambió\n\nSegún Grafa, con datos de mercado a las 0426 GMT del lunes 26 de octubre, el Brent cayó $2.21, o 1.89%, a $114.51 el barril, y el WTI de EE. UU. cayó $2.23 a $101.04. Arbiterz reportó el Brent cerca de $115.3 y el WTI cerca de $101.5 más tarde en la sesión. Ambos medios indican que el Brent subió cerca de 6% la semana pasada y el WTI cerca de 2.3%.\n\nGrafa atribuye la baja a reportes de que mediadores de Catar viajaron a Teherán el domingo para ayudar a reducir las tensiones. Arbiterz añade que el presidente Trump dijo que estaba evaluando opciones sobre Irán y que algunos operadores solo estaban tomando ganancias tras el alza.\n\nEl panorama de suministro no ha mejorado. Ambos reportes dicen que los ataques hutíes contra instalaciones petroleras de Arabia Saudita continuaron durante el fin de semana. Grafa cita a la analista Vandana Hari, quien dijo que el respiro \"may prove temporary\" (podría ser temporal). También informa que Fatih Birol, de la AIE, advirtió que los mercados de energía quizás no vuelvan a las condiciones previas a la guerra en 2027, por las interrupciones en el estrecho de Ormuz y en Bab el-Mandeb.\n\n## Qué significa para los transportistas\n\nEl dato oficial más reciente del diésel es anterior a este movimiento. La Administración de Información de Energía (EIA) puso el promedio nacional en carretera en $6.276 por galón el 19 de octubre, 9.7 centavos más que la semana anterior. La próxima lectura semanal de la EIA llega el martes 27 de octubre y reflejará el alza del crudo de la semana pasada, no la baja del lunes.\n\nEl diésel al detalle suele ir rezagado respecto al crudo, así que es poco probable que la caída de un día en el Brent se note en la bomba esta semana. Los transportistas que compran con tarjeta de combustible o por contrato no deben contar con alivio todavía, y las flotas con tablas de recargo por combustible atadas al promedio de la EIA deben esperar otro ajuste semanal antes de ver una baja.\n\n## Qué deben vigilar cargadores y corredores de carga\n\nLos recargos siguen el promedio de la EIA, así que una cotización basada en la cifra de la semana pasada podría ya estar baja. Los corredores que contratan carga spot deben confirmar si el combustible va incluido en la tarifa por milla o se cobra aparte, y los cargadores en temporada de licitaciones deben preguntar qué índice y qué día de actualización usa cada transportista.\n\nTres cosas definirán el rumbo: si la diplomacia de Catar y Arabia Saudita logra algo concreto, si los ataques hutíes siguen golpeando la infraestructura saudí, y lo que reporte la EIA el martes.\n\nLos precios actuales están en la página de precios del diésel de PDI, en /diesel."
+      }
+    },
     {
       "id": "2026-10-25-1500-dpa-refining-diesel",
       "publishedAt": "2026-10-25T19:53:29Z",
