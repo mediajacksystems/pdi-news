@@ -1,7 +1,39 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26T13:53:53Z",
+  "updatedAt": "2026-10-26T16:55:11Z",
   "stories": [
+    {
+      "id": "2026-10-26-1200-eia-diesel-fuel-surcharge-math",
+      "publishedAt": "2026-10-26T16:55:11Z",
+      "title": "What EIA's $6.276 diesel average means for a per-mile fuel surcharge",
+      "dek": "Diesel rose 9.7 cents to $6.276 in EIA's Oct. 19 reading. Here is how the surcharge formula turns that into cents per mile, and what to check in a contract.",
+      "body": "The Energy Information Administration put the U.S. on-highway diesel average at $6.276 a gallon for the week of Oct. 19, up 9.7 cents from $6.179 the week before, according to [EIA's weekly diesel table](https://www.eia.gov/petroleum/gasdiesel/). The same table puts the price $2.656 above a year ago. EIA's next release is due Oct. 27.\n\nFor most truckload contracts, that number is the input to the fuel surcharge. Here is how the math works and how much one week of movement is worth.\n\n## The basic formula\n\nMost per-mile surcharges follow the same pattern, as laid out in [Dashdoc's fuel surcharge guide](https://www.dashdoc.com/en-US/blog/fuel-surcharge-trucking-complete-guide) (Aug. 15, 2025): current diesel price, minus a base price, divided by the truck's miles per gallon. Dashdoc says contracts pick the base in different ways. Some use a flat industry-standard figure of $1.25 to $1.50 a gallon, some use a rolling 12-month average, and some use the EIA price on the day the contract was signed.\n\nThe examples below use Dashdoc's 6.5 mpg worked-example figure and two sample bases. These are illustrations, not anyone's actual contract terms.\n\n- **$1.25 base:** ($6.276 - $1.25) / 6.5 gives about 77 cents a mile. A 500-mile load carries roughly $387 in surcharge.\n- **$2.50 base:** ($6.276 - $2.50) / 6.5 gives about 58 cents a mile, or roughly $291 over 500 miles.\n\n## What a week and a year are worth\n\nThe 9.7-cent weekly rise adds about 1.5 cents a mile at 6.5 mpg, or about $7 on a 500-mile load. That is small on one shipment and real across a fleet.\n\nThe year-over-year move matters more. EIA's table implies a diesel price of about $3.62 a year ago. On the $1.25 base, that works out to about 36 cents a mile then versus 77 cents now. A carrier or broker still quoting last year's surcharge assumption is short by roughly 41 cents a mile.\n\n## What carriers should check\n\nLook at which dataset the contract names. EIA publishes a national average and regional ones. For the week of Oct. 19, EIA shows the West Coast at $7.394 and California at $8.242. At 6.5 mpg, the West Coast figure alone is about 17 cents a mile above what the national average produces. A contract tied to the national number under-recovers in those markets.\n\nDashdoc also flags timing and mileage. Prices are weekly while pump prices move daily, and the contract should say which week's reading applies. It should also say whether the surcharge is paid on loaded miles only, since deadhead miles burn fuel too.\n\n## What shippers and brokers should watch\n\nCheck the base price first, because a lower base means a larger surcharge at the same pump price. Then confirm the mpg assumption and whether caps or floors exist. Dashdoc recommends using the fleet's actual average mpg instead of an industry estimate.\n\nTuesday's EIA reading sets the next surcharge step for many contracts. For current prices by state, see PDI's diesel page at /diesel.\n",
+      "tags": [
+        "diesel",
+        "fuel",
+        "rates"
+      ],
+      "featured": false,
+      "sources": [
+        {
+          "title": "Gasoline and Diesel Fuel Update",
+          "publisher": "U.S. Energy Information Administration",
+          "url": "https://www.eia.gov/petroleum/gasdiesel/",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "What is a Fuel Surcharge in Trucking?",
+          "publisher": "Dashdoc",
+          "url": "https://www.dashdoc.com/en-US/blog/fuel-surcharge-trucking-complete-guide",
+          "date": "2025-08-15"
+        }
+      ],
+      "es": {
+        "title": "Qué significa el diésel de $6.276 de la EIA para el recargo por combustible por milla",
+        "dek": "El diésel subió 9.7 centavos a $6.276 en la lectura de la EIA del 19 de octubre. Así convierte la fórmula del recargo ese precio en centavos por milla y qué revisar en el contrato.",
+        "body": "La Administración de Información de Energía (EIA) fijó el promedio nacional del diésel en carretera en $6.276 por galón para la semana del 19 de octubre, 9.7 centavos más que los $6.179 de la semana anterior, según la [tabla semanal de la EIA](https://www.eia.gov/petroleum/gasdiesel/). La misma tabla muestra un precio $2.656 más alto que hace un año. La próxima publicación de la EIA está prevista para el 27 de octubre.\n\nEn la mayoría de los contratos de carga completa, ese número alimenta el recargo por combustible. Así funciona el cálculo y cuánto vale un movimiento de una semana.\n\n## La fórmula básica\n\nLa mayoría de los recargos por milla siguen el mismo patrón, según la [guía de recargos de Dashdoc](https://www.dashdoc.com/en-US/blog/fuel-surcharge-trucking-complete-guide) (15 de agosto de 2025): precio actual del diésel, menos un precio base, dividido entre las millas por galón del camión. Dashdoc indica que los contratos fijan la base de distintas maneras. Algunos usan una cifra estándar de la industria de $1.25 a $1.50 por galón, otros el promedio móvil de 12 meses y otros el precio de la EIA el día de la firma.\n\nLos ejemplos usan las 6.5 millas por galón del ejemplo de Dashdoc y dos bases de muestra. Son ilustraciones, no condiciones de un contrato real.\n\n- **Base de $1.25:** ($6.276 - $1.25) / 6.5 da unos 77 centavos por milla. Una carga de 500 millas lleva unos $387 de recargo.\n- **Base de $2.50:** ($6.276 - $2.50) / 6.5 da unos 58 centavos por milla, o unos $291 en 500 millas.\n\n## Cuánto valen una semana y un año\n\nEl alza semanal de 9.7 centavos suma cerca de 1.5 centavos por milla con 6.5 mpg, unos $7 en una carga de 500 millas. Es poco en un viaje, pero se nota en toda una flota.\n\nEl cambio anual pesa más. La tabla de la EIA implica un diésel de unos $3.62 hace un año. Con la base de $1.25, eso daba unos 36 centavos por milla entonces contra 77 ahora. Quien siga cotizando con el recargo del año pasado se queda corto por unos 41 centavos por milla.\n\n## Qué deben revisar los transportistas\n\nRevise qué serie de datos nombra el contrato. La EIA publica un promedio nacional y promedios regionales. Para la semana del 19 de octubre, la EIA muestra la Costa Oeste en $7.394 y California en $8.242. Con 6.5 mpg, solo la cifra de la Costa Oeste está unos 17 centavos por milla por encima de lo que produce el promedio nacional. Un contrato atado al promedio nacional no recupera lo suficiente en esos mercados.\n\nDashdoc también señala el momento de la lectura y las millas pagadas. Los precios de la EIA son semanales y los de la bomba cambian a diario, así que el contrato debe decir qué semana aplica. También debe aclarar si el recargo se paga solo por millas cargadas, porque el regreso en vacío también gasta diésel.\n\n## Qué deben vigilar cargadores y corredores de carga\n\nPrimero revise la base: una base más baja produce un recargo mayor con el mismo precio en la bomba. Luego confirme el supuesto de millas por galón y si hay topes o pisos. Dashdoc recomienda usar el rendimiento real de la flota y no un estimado de la industria.\n\nLa lectura de la EIA del martes marca el siguiente paso del recargo en muchos contratos. Para precios actuales por estado, vea la página de diésel de PDI en /diesel.\n"
+      }
+    },
     {
       "id": "2026-10-26-0900-oil-dips-iran-talks",
       "publishedAt": "2026-10-26T13:53:53Z",
