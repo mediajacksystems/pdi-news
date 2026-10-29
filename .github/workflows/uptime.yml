@@ -1,0 +1,76 @@
+name: Uptime check
+
+# Every 10 minutes: check the home page and the API health endpoint. After 2 failed runs in a row
+# an issue titled "pdi-industries.com is down" is opened (or commented on, if already open), which
+# emails the repo owner. When the site answers again the issue is closed. Uses only the built-in
+# GITHUB_TOKEN; there are no secrets in this repo.
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+  actions: read
+
+concurrency: uptime
+
+env:
+  ISSUE_TITLE: pdi-industries.com is down
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      GH_TOKEN: ${{ github.token }}
+      GH_REPO: ${{ github.repository }}
+    steps:
+      - name: Check the site
+        id: check
+        run: |
+          problems=""
+          fetch() { curl -sS -o "$2" -w '%{http_code}' -m 20 --retry 2 --retry-delay 5 --retry-all-errors "$1" 2>/dev/null || echo 000; }
+          code="$(fetch https://pdi-industries.com/ home.html)"
+          [ "$code" = 200 ] || problems="${problems}- https://pdi-industries.com/ answered HTTP $code"$'\n'
+          code="$(fetch https://pdi-industries.com/api/healthz health.json)"
+          if [ "$code" != 200 ] || ! grep -q '"status"[[:space:]]*:[[:space:]]*"ok"' health.json; then
+            problems="${problems}- https://pdi-industries.com/api/healthz answered HTTP $code"$'\n'
+          fi
+          if [ -z "$problems" ]; then
+            echo "ok=true" >> "$GITHUB_OUTPUT"
+            echo "Site is up."
+          else
+            echo "ok=false" >> "$GITHUB_OUTPUT"
+            { echo 'problems<<EOF'; printf '%s' "$problems"; echo 'EOF'; } >> "$GITHUB_OUTPUT"
+            printf 'Check failed:\n%s' "$problems"
+          fi
+
+      - name: Open, update or close the issue
+        env:
+          OK: ${{ steps.check.outputs.ok }}
+          PROBLEMS: ${{ steps.check.outputs.problems }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          open_issue="$(gh issue list --state open --limit 50 --json number,title \
+            --jq "map(select(.title == \"$ISSUE_TITLE\")) | .[0].number // empty")"
+          if [ "$OK" = true ]; then
+            if [ -n "$open_issue" ]; then
+              gh issue comment "$open_issue" --body "The site is answering again, so this issue is closed automatically. Run: $RUN_URL"
+              gh issue close "$open_issue" --reason completed
+            fi
+            exit 0
+          fi
+          # Two failures in a row: this run and the previous finished run of this workflow.
+          previous="$(gh run list --workflow uptime.yml --status completed --limit 1 --json conclusion --jq '.[0].conclusion // empty')"
+          body="$(printf 'The uptime check failed at %s.\n\n%s\nRun: %s\n\n@mediajacksystems' "$(date -u +%Y-%m-%dT%H:%MZ)" "$PROBLEMS" "$RUN_URL")"
+          if [ "$previous" = failure ]; then
+            if [ -n "$open_issue" ]; then
+              gh issue comment "$open_issue" --body "Still down. $body"
+            else
+              gh issue create --title "$ISSUE_TITLE" --body "Two checks in a row failed (10 minutes apart). $body"
+            fi
+          fi
+          exit 1
