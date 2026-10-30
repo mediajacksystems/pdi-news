@@ -1,7 +1,45 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-29T16:52:34Z",
+  "updatedAt": "2026-10-30T14:43:53Z",
   "stories": [
+    {
+      "id": "2026-10-30-0900-q3-gdp-inventories-freight",
+      "publishedAt": "2026-10-30T14:43:53Z",
+      "title": "Q3 GDP grows 3.4%, driven by inventories and equipment, while diesel keeps climbing",
+      "dek": "BEA's advance estimate shows business investment and inventory building outpacing broad goods spending. For carriers, that is a narrower demand signal than the headline suggests.",
+      "body": "The U.S. economy grew faster than expected last quarter, and the mix of that growth matters to anyone moving freight. The Bureau of Economic Analysis said on Oct. 29 that real GDP rose at a 3.4% annual rate in the third quarter, up from 2.2% in the second quarter ([BEA advance estimate](https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026)).\n\n## What the report shows\n\nConsumer spending carried much of the load. The National Association of Home Builders, summarizing the BEA data on Oct. 29, put consumption growth at 3.8%, a pace similar to the second quarter, with gains in both services and goods ([NAHB Eye on Housing](https://eyeonhousing.org/2026/10/u-s-economy-accelerated-in-the-third-quarter-of-2026/)). BEA said goods spending was led by nondurables, mainly prescription drugs, while services were led by health care and restaurants and lodging.\n\nBusiness spending was strong. BEA said private inventories and equipment drove the increase in business investment, and that inventory building was led by wholesale trade and manufacturing. NAHB reported that equipment spending rose 20.9% and that nonresidential fixed investment rose 12.7%.\n\nTrade was a drag. BEA said exports fell, led by petroleum and related products, while imports rose, with capital goods other than autos the biggest contributor.\n\nInflation cooled. BEA's PCE price index rose 2.1% in the third quarter, down from 5.0% in the second, and the version excluding food and energy rose 2.5%, down from 3.3%.\n\n## What it means for carriers\n\nThe numbers do not point to a broad surge in consumer parcels or retail truckload. The goods gains were narrow, and BEA did not publish a percentage for overall goods spending in its release. The more useful signals for freight are the inventory build and the equipment and capital goods imports. Inventory rebuilding in wholesale and manufacturing tends to show up as demand for dry van and flatbed capacity, and capital goods imports feed drayage and heavier-haul moves from ports and rail ramps. That is an inference from the composition of the data, not a forecast from BEA.\n\nCosts are the other side of the ledger. EIA reported on Oct. 27 that the U.S. on-highway diesel average was $6.352 a gallon for the week of Oct. 26, up 7.6 cents from $6.276 a week earlier ([EIA](https://www.eia.gov/petroleum/gasdiesel/)). Strong demand does not help a fleet much if fuel costs rise faster than rates and surcharges.\n\n## What shippers and brokers should watch\n\nInventory gains can reverse. If companies built stock ahead of expected price or tariff changes, the freight boost may fade once shelves are full. BEA's second estimate is due Nov. 25, and revisions to inventories and trade could change the picture.\n\nShippers should also expect carriers to keep pushing for rates that cover fuel. Brokers should watch whether contract and spot rates move with the inventory-driven lanes first, and whether fuel surcharge tables are keeping up with EIA's weekly readings.\n\nDiesel prices by state and week are on PDI's diesel prices page at /diesel.",
+      "tags": [
+        "economy",
+        "rates",
+        "fuel"
+      ],
+      "featured": false,
+      "sources": [
+        {
+          "title": "GDP (Advance Estimate), 3rd Quarter 2026",
+          "publisher": "U.S. Bureau of Economic Analysis",
+          "url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "U.S. Economy Accelerated in the Third Quarter of 2026",
+          "publisher": "NAHB Eye on Housing",
+          "url": "https://eyeonhousing.org/2026/10/u-s-economy-accelerated-in-the-third-quarter-of-2026/",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "Gasoline and Diesel Fuel Update",
+          "publisher": "U.S. Energy Information Administration",
+          "url": "https://www.eia.gov/petroleum/gasdiesel/",
+          "date": "2026-10-27"
+        }
+      ],
+      "es": {
+        "title": "El PIB del tercer trimestre crece 3.4% por inventarios y equipo, mientras el diésel sigue subiendo",
+        "dek": "La estimación adelantada de BEA muestra inversión empresarial e inventarios por encima del gasto general en bienes. Para los transportistas, la señal de demanda es más estrecha de lo que sugiere el titular.",
+        "body": "La economía de Estados Unidos creció más de lo esperado el trimestre pasado, y la composición de ese crecimiento importa a quien mueve carga. La Oficina de Análisis Económico (BEA) informó el 29 de octubre que el PIB real subió a una tasa anual de 3.4% en el tercer trimestre, frente a 2.2% en el segundo ([estimación adelantada de BEA](https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026)).\n\n## Lo que muestra el informe\n\nEl consumo cargó con buena parte del peso. La Asociación Nacional de Constructores de Viviendas (NAHB), resumiendo los datos de BEA el 29 de octubre, ubicó el crecimiento del consumo en 3.8%, un ritmo similar al del segundo trimestre, con alzas en servicios y en bienes ([NAHB Eye on Housing](https://eyeonhousing.org/2026/10/u-s-economy-accelerated-in-the-third-quarter-of-2026/)). BEA indicó que el gasto en bienes lo lideraron los no duraderos, sobre todo medicamentos recetados.\n\nLa inversión empresarial fue fuerte. BEA señaló que los inventarios privados y el equipo impulsaron el alza, y que la acumulación de inventarios la lideraron el comercio mayorista y la manufactura. NAHB reportó que la inversión en equipo subió 20.9% y la inversión fija no residencial, 12.7%.\n\nEl comercio exterior restó. BEA dijo que las exportaciones cayeron, encabezadas por el petróleo y sus derivados, mientras que las importaciones subieron, con los bienes de capital (sin autos) como mayor contribuyente.\n\nLa inflación se enfrió. El índice de precios del gasto de consumo (PCE) de BEA subió 2.1% en el tercer trimestre, frente a 5.0% en el segundo.\n\n## Qué significa para los transportistas\n\nLas cifras no apuntan a un auge general de carga minorista. El aumento en bienes fue limitado, y BEA no publicó un porcentaje para el gasto total en bienes. Las señales más útiles para el transporte son la acumulación de inventarios y las importaciones de bienes de capital. Reponer inventarios en mayoreo y manufactura suele traducirse en demanda de caja seca y plataforma, y las importaciones de bienes de capital alimentan el acarreo desde puertos y rampas ferroviarias. Es una inferencia sobre la composición de los datos, no un pronóstico de BEA.\n\nLos costos son la otra cara. La EIA informó el 27 de octubre que el promedio nacional de diésel fue de $6.352 por galón en la semana del 26 de octubre, 7.6 centavos más que los $6.276 de la semana anterior ([EIA](https://www.eia.gov/petroleum/gasdiesel/)). Una demanda fuerte ayuda poco si el combustible sube más rápido que las tarifas y los recargos.\n\n## Qué deben vigilar cargadores y corredores de carga\n\nLos inventarios pueden revertirse. Si las empresas almacenaron antes de cambios en precios o aranceles, el impulso al transporte podría desaparecer cuando se llenen los almacenes. La segunda estimación de BEA sale el 25 de noviembre y las revisiones podrían cambiar el panorama.\n\nLos cargadores deben esperar que los transportistas sigan buscando tarifas que cubran el combustible, y los corredores deben vigilar si las tablas de recargo por combustible siguen el ritmo de las lecturas semanales de la EIA.\n\nLos precios del diésel por estado y semana están en la página de diésel de PDI, en /diesel."
+      }
+    },
     {
       "id": "2026-10-29-1200-old-dominion-ltl-tonnage-positive",
       "publishedAt": "2026-10-29T16:52:34Z",
