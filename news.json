@@ -1,7 +1,40 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-30T19:53:08Z",
+  "updatedAt": "2026-10-31T13:52:13Z",
   "stories": [
+    {
+      "id": "2026-10-31-0900-small-carrier-bankruptcies-broker-vetting",
+      "publishedAt": "2026-10-31T13:52:13Z",
+      "title": "221 trucking bankruptcies this year as brokers re-vet carriers after Supreme Court ruling",
+      "dek": "Bloomberg counts about 221 trucking bankruptcies in 2026, mostly small fleets, while brokers tighten carrier vetting after a unanimous Supreme Court decision on negligent selection.",
+      "body": "About 221 trucking companies have filed for bankruptcy so far in 2026, according to data Bloomberg compiled and published on Oct. 30 through Claims Journal. Bloomberg described it as an extension of a three-year spike at levels not seen in decades.\n\nThe pain is concentrated among small fleets. A survey of hundreds of carriers with roughly 20 or fewer tractors, run over two months by Truckstop and Bloomberg Intelligence, found about two-thirds reporting revenue flat or down from a year earlier. Almost 40% said they expected to be out of trucking within six months or were unsure where they would be.\n\nBloomberg pointed to a mix of causes: war-driven diesel spikes, rising insurance, equipment and labor costs, higher interest rates, and heavy use of variable-rate loans, merchant cash advances and factoring. Chip Lane, a Texas bankruptcy attorney quoted in the report, said his firm is fielding three or four restructuring inquiries a week from trucking companies.\n\n## Brokers are tightening vetting at the same time\n\nA separate Truck News report on Oct. 30 describes another squeeze. In *Montgomery v. Caribe Transport II*, the U.S. Supreme Court unanimously held that federal law does not block state-law negligent-selection claims against freight brokers. The ruling does not make brokers automatically liable for a crash, but it removes a preemption defense that let some of them seek early dismissal.\n\nTruck News reported that some brokers are clearing their carrier lists and re-vetting from scratch. Meredith Priestley, chief legal officer at Cargo Transporters, said at an Oct. 27 webinar that some had \"wiped their carrier lists clean.\" Brokers are moving toward continuous monitoring and looking harder at CSA scores and out-of-service rates. Shaun Carr of Marsh told Truck News that some excess liability insurers may raise prices, cut capacity or decline brokerage risk.\n\n## What it means for carriers\n\nSmall carriers with thin margins and weak safety data face the worst of both trends: less freight from cautious brokers and higher insurance quotes. Truck News quoted Dylan West of Keystops saying carriers with strong safety programs and good data are likely to gain business.\n\nPractical steps are to clean up DataQs disputes where warranted, document safety policies and exceptions, and keep insurance and authority records current so they pass automated checks.\n\n## What shippers and brokers should watch\n\nFewer small carriers can mean tighter capacity on regional lanes, and a stricter broker approval process can slow onboarding when freight needs to move. Expect more requests for documentation, and watch whether insurers change terms for brokerage operations at renewal.",
+      "tags": [
+        "capacity",
+        "insurance",
+        "safety",
+        "economy"
+      ],
+      "featured": false,
+      "sources": [
+        {
+          "title": "America's Truckers on the Brink With 221 Bankruptcies This Year",
+          "publisher": "Claims Journal (Bloomberg)",
+          "url": "https://claimsjournal.com/news/national/2026/10/30/340980.htm",
+          "date": "2026-10-30"
+        },
+        {
+          "title": "Poor safety records could cost carriers freight as brokers tighten vetting",
+          "publisher": "Truck News",
+          "url": "https://trucknews.com/transportation/poor-safety-records-could-cost-carriers-freight-as-brokers-tighten-vetting/1003224275",
+          "date": "2026-10-30"
+        }
+      ],
+      "es": {
+        "title": "221 quiebras de transportistas este año y los corredores revisan de nuevo a sus transportistas tras el fallo de la Corte Suprema",
+        "dek": "Bloomberg cuenta unas 221 quiebras en 2026, sobre todo de flotas pequeñas, mientras los corredores endurecen la selección de transportistas tras una decisión unánime de la Corte Suprema.",
+        "body": "Unas 221 empresas de transporte han solicitado la quiebra en lo que va de 2026, según datos que compiló Bloomberg y que Claims Journal publicó el 30 de octubre. Bloomberg lo describe como la continuación de un repunte de tres años a niveles que no se veían en décadas.\n\nEl golpe se concentra en las flotas pequeñas. Una encuesta de cientos de transportistas con unos 20 tractocamiones o menos, realizada durante dos meses por Truckstop y Bloomberg Intelligence, encontró que cerca de dos tercios reportan ingresos iguales o menores que hace un año. Casi 40% dijo que espera salir del negocio en seis meses o no sabe dónde estará.\n\nBloomberg señala varias causas: los picos de diésel por la guerra, el aumento en seguros, equipo y mano de obra, tasas de interés más altas y el uso intenso de préstamos de tasa variable, adelantos en efectivo a comerciantes y factoraje. Chip Lane, abogado de quiebras en Texas citado en el reportaje, dijo que su firma recibe tres o cuatro consultas por semana de empresas de transporte que buscan reestructurarse.\n\n## Los corredores de carga también endurecen la revisión\n\nUn reporte aparte de Truck News del 30 de octubre describe otra presión. En *Montgomery v. Caribe Transport II*, la Corte Suprema de EE. UU. resolvió por unanimidad que la ley federal no impide las demandas estatales por selección negligente contra los corredores de carga. El fallo no hace responsable automático al corredor en un choque, pero elimina una defensa de preeminencia federal que algunos usaban para pedir el desechamiento temprano de la demanda.\n\nTruck News informó que algunos corredores están borrando sus listas de transportistas y revisándolos desde cero. Meredith Priestley, directora legal de Cargo Transporters, dijo en un seminario web el 27 de octubre que algunos habían vaciado por completo sus listas. Los corredores avanzan hacia el monitoreo continuo y revisan con más atención los puntajes CSA y las tasas de fuera de servicio. Shaun Carr, de Marsh, dijo a Truck News que algunas aseguradoras de responsabilidad en exceso podrían subir precios, reducir capacidad o rechazar el riesgo de los corredores.\n\n## Qué significa para los transportistas\n\nLos transportistas pequeños con márgenes ajustados y datos de seguridad débiles enfrentan lo peor de ambas tendencias: menos carga de corredores cautelosos y cotizaciones de seguro más altas. Dylan West, de Keystops, dijo a Truck News que los transportistas con buenos programas de seguridad y buenos datos probablemente ganarán negocio.\n\nLos pasos prácticos son resolver las disputas en DataQs cuando proceda, documentar las políticas de seguridad y sus excepciones, y mantener al día el seguro y la autoridad para pasar las revisiones automáticas.\n\n## Qué deben vigilar cargadores y corredores\n\nMenos transportistas pequeños puede significar menos capacidad en rutas regionales, y un proceso de aprobación más estricto puede retrasar la incorporación cuando hay que mover carga. Esperen más solicitudes de documentación y estén atentos a si las aseguradoras cambian los términos para las operaciones de corretaje en las renovaciones."
+      }
+    },
     {
       "id": "2026-10-30-1500-canada-section-338-tariff-list-changes",
       "publishedAt": "2026-10-30T19:53:08Z",
