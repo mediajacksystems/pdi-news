@@ -1,7 +1,39 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T14:52:55Z",
+  "updatedAt": "2026-11-01T17:52:01Z",
   "stories": [
+    {
+      "id": "2026-11-01-1200-cabotage-enforcement-cross-border-capacity",
+      "publishedAt": "2026-11-01T17:52:01Z",
+      "title": "Knight-Swift CEO says cabotage enforcement could tighten cross-border trucking capacity",
+      "dek": "Adam Miller says Mexican drivers are losing U.S. visas over alleged violations at past employers. Estimates of the crackdown's size differ widely, and no rate impact has been measured.",
+      "body": "Cross-border trucking capacity could get tighter as U.S. enforcement of cabotage rules ramps up, Knight-Swift CEO Adam Miller told FreightWaves in a report published Nov. 1. Miller spoke at the WEX OTR Summit in Jacksonville, Florida.\n\nCabotage is the movement of domestic freight between two U.S. points by a foreign carrier or driver, which federal law restricts. A Mexican driver may deliver a load into the U.S. and return to Mexico, but may not pick up and deliver freight inside the country.\n\n## What Miller said\n\nMiller told FreightWaves that Knight-Swift is seeing drivers lose U.S. visas over alleged violations committed while working for other carriers. Knight-Swift runs its Mexican operation through its TransMex subsidiary, and FreightWaves reports that the carrier keeps strict compliance policies. Miller said the extra scrutiny could discourage some Mexican drivers from entering the U.S. at all.\n\n\"We're seeing the enforcement really ramp up on cabotage,\" Miller said, according to FreightWaves. He added that this kind of capacity is likely to \"get a little bit tighter,\" and he called tariffs \"a big unknown\" for customers who are adjusting their transportation plans.\n\n## How big the crackdown is\n\nThe numbers depend on who is counting. In a FreightWaves report dated June 23, Augusto Ramos Melo, president of Mexico's trucking chamber Canacar, said the U.S. revoked work visas for about 20,000 Mexican drivers between April 2025 and April 2026, a figure he attributed to the American Trucking Associations. In the same report, Transportation Secretary Sean Duffy said about 3,200 Mexican commercial drivers have lost visas since January for cabotage violations alone.\n\nThose figures cover different periods and different violations, so they should not be added or compared directly. FreightWaves also reported that Canacar says the driver losses are already tightening U.S. capacity and adding upward pressure on rates, though the chamber has not put a number on the effect.\n\n## What it means for carriers\n\nCarriers that run Mexican drivers should audit how those drivers are dispatched. A load that moves between two U.S. points can put a driver's visa at risk, even if the driver started in Mexico. Because Miller said revocations have followed alleged violations at previous employers, carriers should also ask about a new driver's history before putting them on a cross-border lane.\n\n## What shippers and brokers should watch\n\nBorder lanes that rely on drop-and-hook at the crossing, with a U.S. driver taking the trailer on, are less exposed than lanes where a Mexican driver runs deep into the U.S. Brokers booking the second kind of lane may see fewer bids and more fall-through. Ask carriers how they handle the U.S. leg before tendering, and build in extra time if the answer is unclear.\n\nNone of the sources quantify a rate impact yet, so treat the capacity warning as a risk to monitor, not a forecast.",
+      "tags": [
+        "cross-border",
+        "regulation",
+        "capacity"
+      ],
+      "featured": false,
+      "sources": [
+        {
+          "title": "Borderlands Mexico: Cabotage enforcements threatening cross-border trucking",
+          "publisher": "FreightWaves",
+          "url": "https://www.freightwaves.com/news/borderlands-mexico-cabotage-enforcements-threatening-cross-border-trucking",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "US revokes 20,000 visas for Mexican truckers as cabotage crackdown expands",
+          "publisher": "FreightWaves",
+          "url": "https://www.freightwaves.com/news/us-revokes-20000-visas-for-mexican-truckers-as-cabotage-crackdown-expands",
+          "date": "2026-06-23"
+        }
+      ],
+      "es": {
+        "title": "Director de Knight-Swift: el cabotaje podría apretar la capacidad transfronteriza",
+        "dek": "Adam Miller dice que conductores mexicanos pierden la visa de EE. UU. por presuntas violaciones en empleos anteriores. Las cifras de la ofensiva varían mucho y no se ha medido un efecto en tarifas.",
+        "body": "La capacidad del transporte transfronterizo podría apretarse más a medida que Estados Unidos intensifica la aplicación de las reglas de cabotaje, dijo el director ejecutivo de Knight-Swift, Adam Miller, a FreightWaves, en un reportaje publicado el 1 de noviembre. Miller habló en la cumbre WEX OTR en Jacksonville, Florida.\n\nEl cabotaje es el traslado de carga doméstica entre dos puntos de EE. UU. por un transportista o conductor extranjero, algo que la ley federal restringe. Un conductor mexicano puede entregar una carga en EE. UU. y regresar a México, pero no puede recoger y entregar carga dentro del país.\n\n## Lo que dijo Miller\n\nMiller dijo a FreightWaves que Knight-Swift ve a conductores perder la visa de EE. UU. por presuntas violaciones cometidas mientras trabajaban para otras empresas. Knight-Swift opera en México mediante su filial TransMex, y FreightWaves informa que la empresa mantiene políticas estrictas de cumplimiento. Miller señaló que el mayor escrutinio podría disuadir a algunos conductores mexicanos de entrar a EE. UU.\n\n\"We're seeing the enforcement really ramp up on cabotage\" (vemos que la aplicación sobre el cabotaje aumenta con fuerza), dijo Miller, según FreightWaves. Añadió que este tipo de capacidad probablemente se va a apretar un poco, y calificó los aranceles como \"una gran incógnita\" para clientes que ajustan sus planes de transporte.\n\n## Qué tan grande es la ofensiva\n\nLas cifras dependen de quién cuente. En un reportaje de FreightWaves del 23 de junio, Augusto Ramos Melo, presidente de la cámara mexicana Canacar, dijo que EE. UU. revocó visas de trabajo a unos 20,000 conductores mexicanos entre abril de 2025 y abril de 2026, cifra que atribuyó a la American Trucking Associations. En el mismo reportaje, el secretario de Transporte Sean Duffy dijo que unos 3,200 conductores comerciales mexicanos han perdido la visa desde enero solo por violaciones de cabotaje.\n\nLas cifras abarcan periodos e infracciones distintos, así que no deben sumarse ni compararse directamente. FreightWaves también informó que Canacar sostiene que la pérdida de conductores ya aprieta la capacidad en EE. UU. y presiona las tarifas al alza, aunque la cámara no ha cuantificado el efecto.\n\n## Qué significa para los transportistas\n\nLos transportistas que usan conductores mexicanos deben revisar cómo los despachan. Una carga entre dos puntos de EE. UU. puede poner en riesgo la visa del conductor, aunque haya salido de México. Como Miller dijo que las revocaciones siguieron a presuntas violaciones en empleadores anteriores, conviene preguntar por el historial de un conductor nuevo antes de asignarlo a una ruta transfronteriza.\n\n## Qué deben vigilar cargadores y corredores de carga\n\nLas rutas con intercambio de remolque en la frontera, donde un conductor estadounidense recibe el remolque, están menos expuestas que aquellas en que un conductor mexicano se interna en EE. UU. Los corredores que contratan el segundo tipo de ruta podrían ver menos ofertas y más cancelaciones. Pregunte a los transportistas cómo manejan el tramo en EE. UU. antes de asignar la carga y deje margen de tiempo si la respuesta no es clara.\n\nNinguna de las fuentes cuantifica aún un efecto en tarifas, así que la advertencia de capacidad debe tratarse como un riesgo por vigilar, no como un pronóstico."
+      }
+    },
     {
       "id": "2026-11-01-0900-csx-outage-interchange-truck-delivery",
       "publishedAt": "2026-11-01T14:52:55Z",
