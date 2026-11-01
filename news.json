@@ -1,7 +1,45 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T17:52:01Z",
+  "updatedAt": "2026-11-01T20:53:27Z",
   "stories": [
+    {
+      "id": "2026-11-01-1500-diesel-surcharge-math-eia-6352",
+      "publishedAt": "2026-11-01T20:53:27Z",
+      "title": "What EIA's $6.352 diesel average does to a per-mile fuel surcharge",
+      "dek": "The Oct. 26 EIA reading is 7.6 cents higher on the week and $2.634 above a year ago. Here is how that turns into cents per mile, with a worked example.",
+      "body": "The Energy Information Administration (EIA) put the U.S. average on-highway diesel price at $6.352 a gallon for the week of Oct. 26, up 7.6 cents from the prior week and $2.634 above the same week a year ago. The next weekly reading comes Tuesday, Nov. 3. For anyone who pays or bills a fuel surcharge, that one number sets the check, so it helps to know how the math runs.\n\n## How the weekly price becomes a per-mile charge\n\nMost truckload surcharge schedules work the same way. The contract names a base, or peg, price. Every dollar of diesel above the peg is divided by an assumed fuel economy, often 6 miles per gallon, to get cents per mile. The schedule then reads the latest [EIA weekly price](https://www.eia.gov/petroleum/gasdiesel/) and applies it to the next billing week. Peg, mpg and lag vary by contract, so check your own paperwork.\n\nHere is a worked example using a hypothetical contract with a $4.00 peg and 6 mpg. At EIA's $6.352, the surcharge is $2.352 divided by 6, or 39.2 cents a mile. Last week's 7.6-cent jump adds about 1.3 cents a mile under that schedule. The three weeks of gains in EIA's table ($6.179 on Oct. 12, $6.276 on Oct. 19, $6.352 on Oct. 26) add up to 17.3 cents a gallon, or roughly 2.9 cents a mile.\n\nThe year-over-year gap is larger. A $2.634 rise in the pump price works out to 43.9 cents a mile at 6 mpg. On a 500-mile load, that is about $220 more in surcharge than the same fuel schedule would have paid a year earlier.\n\n## What it means for carriers\n\nKnow your lag. EIA collects prices on Monday, [publishing them Tuesday](https://www.eia.gov/petroleum/gasdiesel/diesel_proc-methods.php) from a sample of 590 truck stops and service stations, and many contracts apply that price to loads picked up later in the week or the next one. When prices climb, a longer lag means you pay more at the pump than you recover. Compare your own cost per mile with the surcharge line, and check whether the mpg in your contract is close to what your trucks achieve.\n\n## What shippers and brokers should watch\n\nSurcharges are moving separately from linehaul, so keep them split on invoices and in quotes. EIA's October Short-Term Energy Outlook, released Oct. 6, said retail diesel averaged $6.29 in September and forecast prices to stay above $6 in October, then ease gradually and remain above $4 a gallon through 2027. EIA's next outlook is due Nov. 10. A drop in the pump price flows back to shippers through the same formula, so a good schedule works in both directions.\n\nCurrent diesel prices are on PDI's [diesel prices page](/diesel).",
+      "tags": [
+        "diesel",
+        "fuel",
+        "rates"
+      ],
+      "featured": false,
+      "sources": [
+        {
+          "title": "Gasoline and Diesel Fuel Update",
+          "publisher": "U.S. Energy Information Administration",
+          "url": "https://www.eia.gov/petroleum/gasdiesel/",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "Diesel price survey procedures and methodology",
+          "publisher": "U.S. Energy Information Administration",
+          "url": "https://www.eia.gov/petroleum/gasdiesel/diesel_proc-methods.php",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "Short-Term Energy Outlook, October 2026",
+          "publisher": "U.S. Energy Information Administration",
+          "url": "https://www.eia.gov/outlooks/steo/report/petro_prod.php",
+          "date": "2026-10-06"
+        }
+      ],
+      "es": {
+        "title": "Cómo los $6.352 de diésel de la EIA cambian el recargo por milla",
+        "dek": "La lectura del 26 de octubre subió 7.6 centavos en la semana y está $2.634 arriba del año pasado. Así se convierte en centavos por milla, con un ejemplo.",
+        "body": "La Administración de Información Energética (EIA) reportó que el precio promedio nacional del diésel en carretera fue de $6.352 por galón en la semana del 26 de octubre, 7.6 centavos más que la semana anterior y $2.634 por encima de la misma semana del año pasado. La próxima lectura semanal sale el martes 3 de noviembre. Para quien paga o cobra un recargo por combustible, ese número define el cobro, así que conviene entender cómo se calcula.\n\n## Cómo el precio semanal se vuelve un cargo por milla\n\nLa mayoría de las tablas de recargo en carga completa funcionan igual. El contrato fija un precio base. Cada dólar de diésel por encima de esa base se divide entre un rendimiento supuesto, a menudo 6 millas por galón, para obtener centavos por milla. La tabla toma el [precio semanal de la EIA](https://www.eia.gov/petroleum/gasdiesel/) y lo aplica a la siguiente semana de facturación. La base, las millas por galón y el desfase cambian según el contrato, así que revise el suyo.\n\nUn ejemplo con un contrato hipotético de base $4.00 y 6 mpg: con los $6.352 de la EIA, el recargo es $2.352 entre 6, o 39.2 centavos por milla. El aumento de 7.6 centavos de la semana pasada suma cerca de 1.3 centavos por milla. Las tres semanas de alzas en la tabla de la EIA ($6.179 el 12 de octubre, $6.276 el 19 y $6.352 el 26) suman 17.3 centavos por galón, unos 2.9 centavos por milla.\n\nLa diferencia contra el año pasado es mayor. Un aumento de $2.634 en el precio equivale a 43.9 centavos por milla con 6 mpg. En una carga de 500 millas, son unos $220 más de recargo que lo que habría pagado la misma tabla un año antes.\n\n## Qué significa para los transportistas\n\nConozca su desfase. La EIA recoge los precios los lunes y los [publica el martes](https://www.eia.gov/petroleum/gasdiesel/diesel_proc-methods.php), con una muestra de 590 paradas de camiones y estaciones de servicio. Muchos contratos aplican ese precio a cargas de la misma semana o de la siguiente. Cuando el precio sube, un desfase largo significa pagar más en la bomba de lo que se recupera. Compare su costo por milla con la línea del recargo y verifique si las millas por galón del contrato se parecen a lo que rinden sus camiones.\n\n## Qué deben vigilar cargadores y corredores de carga\n\nEl recargo se mueve aparte de la tarifa base, así que manténganlos separados en facturas y cotizaciones. La Perspectiva de Energía a Corto Plazo de octubre de la EIA, publicada el 6 de octubre, indicó que el diésel minorista promedió $6.29 en septiembre y proyectó que se mantendría arriba de $6 en octubre, para luego bajar poco a poco y seguir sobre $4 por galón hasta 2027. La próxima perspectiva sale el 10 de noviembre. Si el precio baja, la misma fórmula devuelve el ahorro al cargador, por lo que una buena tabla funciona en ambos sentidos.\n\nConsulte los precios del diésel en la [página de diésel de PDI](/diesel)."
+      }
+    },
     {
       "id": "2026-11-01-1200-cabotage-enforcement-cross-border-capacity",
       "publishedAt": "2026-11-01T17:52:01Z",
