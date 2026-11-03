@@ -1,7 +1,39 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T20:52:25Z",
+  "updatedAt": "2026-11-03T14:52:15Z",
   "stories": [
+    {
+      "id": "2026-11-03-0900-ism-october-factory-production-freight",
+      "publishedAt": "2026-11-03T14:52:15Z",
+      "title": "Factory output hits a five-year high in October ISM report, with freight demand in the balance",
+      "dek": "ISM's manufacturing PMI rose to 55.5, with production at its highest since November 2021 and customer inventories still low. Prices paid eased but supplier delays persist.",
+      "body": "Factory activity in the United States picked up again in October, and that matters to anyone hauling raw materials, parts or finished goods. The Institute for Supply Management said on Nov. 2 that its manufacturing PMI rose to 55.5 from 54.5 in September, according to TD Economics and the ABA Banking Journal. It is the tenth straight month of expansion.\n\n## What the report showed\n\nTD Economics, in its Nov. 2 write-up of the ISM data, said production rose 2.3 points to 59.0, the highest reading since November 2021. New orders edged up 0.2 points to 55.5, and customers' inventories stayed low at 41.6, which usually means buyers will need to restock.\n\nManufacturers' own inventories rose 2.8 points to 51.4 and returned to expansion, TD Economics reported. Imports rose 1.9 points to 52.9, and new export orders gained 0.3 points to 51.2. The ABA Banking Journal reported that 12 manufacturing industries grew in October and three contracted.\n\nNot everything is smooth. TD Economics said supplier deliveries were at 59.1, which points to longer delivery times, and that the prices-paid index fell 2.7 points to 75.2. That was the largest monthly drop in the series, but input costs are still rising widely.\n\n## What it means for carriers\n\nHigher production and rebuilding inventories mean more freight moving from plants to warehouses and customers. Carriers that serve industrial lanes, flatbed, and dedicated manufacturing accounts are the first to feel it. A low reading on customers' inventories also suggests orders could keep coming in the weeks ahead, though ISM's survey measures direction, not tonnage.\n\nSlow supplier deliveries are a reminder that the supply chain is still stretched. When parts arrive late, plants run short and then rush shipments, which tends to show up as short-notice tenders and more spot activity.\n\n## What shippers and brokers should watch\n\nShippers should read the imports gain alongside the production gain: more inbound containers and more outbound truckload demand can land in the same weeks, especially near ports and rail ramps.\n\nThe cooler prices reading is welcome for goods inflation, TD Economics said, but it is still elevated, and the firm noted the inflation challenge is not resolved. Brokers should not assume input costs, fuel included, will ease on any particular schedule.\n\nThe next ISM manufacturing report, for November, is due Dec. 1. Until then, weekly tender and spot data will show whether the factory rebound is turning into more truckload demand.",
+      "tags": [
+        "economy",
+        "rates",
+        "capacity"
+      ],
+      "featured": false,
+      "sources": [
+        {
+          "title": "U.S. ISM Manufacturing Index (October 2026)",
+          "publisher": "TD Economics",
+          "url": "https://economics.td.com/us-ism-manufacturing-index",
+          "date": "2026-11-02"
+        },
+        {
+          "title": "ISM: Manufacturing expanded in October",
+          "publisher": "ABA Banking Journal",
+          "url": "https://bankingjournal.aba.com/2026/11/ism-manufacturing-expanded-in-october/",
+          "date": "2026-11-02"
+        }
+      ],
+      "es": {
+        "title": "La producción fabril llega a su nivel más alto en cinco años en el informe ISM de octubre",
+        "dek": "El PMI manufacturero del ISM subió a 55.5, con la producción en su nivel más alto desde noviembre de 2021 y los inventarios de clientes aún bajos. Los precios pagados cedieron, pero persisten los retrasos de proveedores.",
+        "body": "La actividad fabril de Estados Unidos repuntó en octubre, y eso importa a quien mueve materias primas, piezas o productos terminados. El Institute for Supply Management (ISM) informó el 2 de noviembre que su índice PMI manufacturero subió a 55.5 desde 54.5 en septiembre, según TD Economics y el ABA Banking Journal. Es el décimo mes seguido de expansión.\n\n## Qué mostró el informe\n\nTD Economics, en su análisis del 2 de noviembre sobre los datos del ISM, indicó que la producción subió 2.3 puntos a 59.0, su nivel más alto desde noviembre de 2021. Los pedidos nuevos avanzaron 0.2 puntos a 55.5, y los inventarios de los clientes se mantuvieron bajos en 41.6, lo que suele significar que los compradores tendrán que reabastecerse.\n\nLos inventarios de los propios fabricantes subieron 2.8 puntos a 51.4 y volvieron a zona de expansión, según TD Economics. Las importaciones subieron 1.9 puntos a 52.9 y los pedidos de exportación ganaron 0.3 puntos a 51.2. El ABA Banking Journal reportó que 12 industrias manufactureras crecieron en octubre y tres se contrajeron.\n\nNo todo va fluido. TD Economics señaló que las entregas de proveedores marcaron 59.1, lo que apunta a tiempos de entrega más largos, y que el índice de precios pagados bajó 2.7 puntos a 75.2. Fue la mayor caída mensual de la serie, pero los costos de insumos siguen subiendo de forma generalizada.\n\n## Qué significa para los transportistas\n\nMás producción y reposición de inventarios significan más carga entre plantas, almacenes y clientes. Los transportistas que atienden rutas industriales, plataformas (flatbed) y cuentas dedicadas de manufactura serán los primeros en notarlo. Un nivel bajo de inventarios de los clientes también sugiere que los pedidos podrían seguir llegando en las próximas semanas, aunque la encuesta del ISM mide la dirección y no el tonelaje.\n\nLas entregas lentas de proveedores recuerdan que la cadena de suministro sigue tensa. Cuando las piezas llegan tarde, las plantas se quedan cortas y luego urgen los envíos, lo que suele traducirse en cargas de último minuto y más actividad en el mercado spot.\n\n## Qué deben vigilar cargadores y corredores de carga\n\nLos cargadores deben leer el aumento de importaciones junto con el de producción: más contenedores entrantes y más demanda de carga completa saliente pueden coincidir en las mismas semanas, sobre todo cerca de puertos y rampas ferroviarias.\n\nTD Economics dijo que el enfriamiento del índice de precios es una buena noticia para la inflación de bienes, pero que sigue elevado y que el reto inflacionario no está resuelto. Los corredores no deben dar por hecho que los costos de insumos, incluido el combustible, bajarán en un plazo determinado.\n\nEl próximo informe manufacturero del ISM, el de noviembre, está previsto para el 1 de diciembre. Hasta entonces, los datos semanales de tenders y del mercado spot mostrarán si el repunte fabril se convierte en más demanda de carga completa."
+      }
+    },
     {
       "id": "2026-11-02-1500-oil-falls-iran-hormuz-talks-diesel",
       "publishedAt": "2026-11-02T20:52:25Z",
