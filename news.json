@@ -1,7 +1,38 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T17:54:25Z",
+  "updatedAt": "2026-11-03T20:52:20Z",
   "stories": [
+    {
+      "id": "2026-11-03-1500-flatbed-load-to-truck-ratio",
+      "publishedAt": "2026-11-03T20:52:20Z",
+      "title": "Flatbed board tightens again: DAT ratio hits 41.73 as truck posts fall 10%",
+      "dek": "DAT's Nov. 2 report has flatbed spot rates at $2.61 a mile, 28.6% above last year, while van and reefer stay softer.",
+      "body": "Flatbed is the tightest part of the truckload market, and it got tighter last week. DAT's [flatbed report](https://www.dat.com/blog/flatbed-report-tightest-board-gets-tighter-as-truck-posts-fall-10), published Nov. 2, put the flatbed load-to-truck ratio at 41.73, up from 34.93 the week before and from 23.14 a year earlier.\n\nDAT said load posts rose 7.4% week over week while truck posts fell 10.1%. It described the board as 80.3% tighter than a year ago and said the ratio is 3.8 times dry van's.\n\n## The rate picture\n\nDAT reported that flatbed spot linehaul paid to carriers, excluding fuel, averaged $2.61 per mile in the latest week. That is up 0.5%, or one cent, on the prior week and up 28.6%, or 58 cents, from a year ago. DAT also said the rate sits 53 cents, or 25.6%, above its nine-year seasonal average of $2.08, which it called above the top of the historical range.\n\nVan and reefer look softer. In its Oct. 28 update, tracked by [Trucking Dive](https://www.truckingdive.com/news/truck-freight-rates-changes-tracker/715709/), DAT put the national van spot rate at $2.24 per mile for the week of Oct. 17, down 2 cents, and reefer at $2.73, down 3 cents. Dean Croke, DAT iQ principal analyst, said capacity \"continues to tighten\" while contract freight demand stays muted. He also flagged early November as a period to watch, when freight could keep cooling faster than capacity returns.\n\nThose numbers are from different weeks, so read the van and reefer comparison as a rough guide, not a same-week match.\n\n## What it means for carriers\n\n- A ratio this high means flatbed carriers have leverage on spot loads. Rates are already high against history, so the question is whether shippers push back or keep paying.\n- Falling truck posts can mean trucks are being booked or that fewer are looking for loads. DAT's data does not say which, so don't assume the tightness will last.\n- Van and reefer carriers should not expect flatbed's strength to carry over. The gap in ratios is large.\n\n## What shippers and brokers should watch\n\n- Flatbed spot quotes are well above seasonal norms. Brokers covering open-deck freight on short notice are likely to pay up, and shippers with contract rates well under spot may see more rejected tenders.\n- DAT's next weekly reports will show whether the 10% drop in truck posts reverses or deepens. A second week of falling posts would be a firmer signal than one.\n- Dry van buyers still have a softer market to work with, according to DAT's late October data.\n",
+      "tags": [
+        "rates",
+        "capacity"
+      ],
+      "featured": false,
+      "sources": [
+        {
+          "title": "Flatbed Report: Tightest board gets tighter as truck posts fall 10%",
+          "publisher": "DAT Freight & Analytics",
+          "url": "https://www.dat.com/blog/flatbed-report-tightest-board-gets-tighter-as-truck-posts-fall-10",
+          "date": "2026-11-02"
+        },
+        {
+          "title": "How truck spot rates are shifting",
+          "publisher": "Trucking Dive",
+          "url": "https://www.truckingdive.com/news/truck-freight-rates-changes-tracker/715709/",
+          "date": "2026-10-28"
+        }
+      ],
+      "es": {
+        "title": "El tablero de flatbed se aprieta otra vez: la relación de DAT llega a 41.73",
+        "dek": "El informe de DAT del 2 de noviembre ubica la tarifa spot de flatbed en $2.61 por milla, 28.6% sobre el año pasado, mientras caja seca y refrigerado siguen más suaves.",
+        "body": "El flatbed es el segmento más apretado del mercado de carga completa, y la semana pasada se apretó más. El [informe de flatbed](https://www.dat.com/blog/flatbed-report-tightest-board-gets-tighter-as-truck-posts-fall-10) de DAT, publicado el 2 de noviembre, ubicó la relación carga-camión de flatbed en 41.73, frente a 34.93 la semana anterior y 23.14 hace un año.\n\nDAT indicó que las publicaciones de cargas subieron 7.4% semana a semana, mientras que las de camiones bajaron 10.1%. Describió el tablero como 80.3% más apretado que hace un año y dijo que la relación es 3.8 veces la de caja seca.\n\n## Las tarifas\n\nDAT reportó que la tarifa spot de flatbed pagada a transportistas, sin combustible, promedió $2.61 por milla en la semana más reciente. Eso es 0.5% más, o un centavo, que la semana previa, y 28.6% más, o 58 centavos, que hace un año. DAT también señaló que la tarifa está 53 centavos, o 25.6%, por encima de su promedio estacional de nueve años de $2.08, y la calificó como superior al tope del rango histórico.\n\nCaja seca y refrigerado se ven más suaves. En su actualización del 28 de octubre, citada por [Trucking Dive](https://www.truckingdive.com/news/truck-freight-rates-changes-tracker/715709/), DAT ubicó la tarifa spot nacional de caja seca en $2.24 por milla para la semana del 17 de octubre, 2 centavos menos, y la de refrigerado en $2.73, 3 centavos menos. Dean Croke, analista principal de DAT iQ, dijo que la capacidad \"continúa apretándose\" mientras la demanda de carga por contrato sigue débil. También señaló principios de noviembre como un periodo a vigilar, cuando la carga podría enfriarse más rápido de lo que regresa la capacidad.\n\nSon cifras de semanas distintas, así que la comparación entre segmentos es solo una guía aproximada.\n\n## Qué significa para los transportistas\n\n- Una relación tan alta da poder de negociación a los transportistas de flatbed en cargas spot. Las tarifas ya están altas frente al historial, así que la duda es si los cargadores se resisten o siguen pagando.\n- Menos publicaciones de camiones pueden significar que los camiones ya están contratados o que menos buscan carga. Los datos de DAT no lo aclaran, así que no se debe dar por hecho que la presión durará.\n- Los transportistas de caja seca y refrigerado no deben esperar que la fuerza del flatbed se les contagie. La diferencia entre las relaciones es grande.\n\n## Qué vigilar entre cargadores y corredores de carga\n\n- Las cotizaciones spot de flatbed están muy por encima de lo normal para la temporada. Los corredores que cubren carga de plataforma abierta con poco aviso probablemente pagarán más, y los cargadores con tarifas por contrato muy por debajo del spot podrían ver más rechazos de tenders.\n- Los próximos informes semanales de DAT mostrarán si la caída de 10% en camiones publicados se revierte o se profundiza. Una segunda semana a la baja sería una señal más firme que una sola.\n- Los compradores de caja seca todavía tienen un mercado más blando, según los datos de DAT de fines de octubre.\n"
+      }
+    },
     {
       "id": "2026-11-03-1200-qeshm-strike-oil-swing-diesel",
       "publishedAt": "2026-11-03T17:54:25Z",
