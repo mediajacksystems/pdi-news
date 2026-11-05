@@ -1,7 +1,45 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04T20:52:03Z",
+  "updatedAt": "2026-11-05T14:52:49Z",
   "stories": [
+    {
+      "id": "2026-11-05-0900-distillate-stocks-lowest-since-2003",
+      "publishedAt": "2026-11-05T14:52:49Z",
+      "title": "Diesel stocks hit a 23-year low, yet futures plunge 7% after the midterms",
+      "dek": "EIA says distillate inventories fell to 99.3 million barrels, the lowest since 2003. Futures still dropped sharply Wednesday, but retail diesel was $6.292 on Nov. 2.",
+      "body": "U.S. distillate inventories, the stock that supplies most of the nation's diesel, fell to their lowest level in more than 20 years last week, even as crude and diesel futures dropped sharply on Wednesday. The two signals point in opposite directions for truckers, and retail pump prices tend to follow the physical shortage more slowly than they follow futures.\n\n## What the data shows\n\nThe U.S. Energy Information Administration reported on Nov. 4 that distillate stocks fell 3.6 million barrels to 99.3 million barrels in the week ended Oct. 30, according to DTN. That is the lowest since the week ended May 2, 2003. Oil & Gas Journal, also citing EIA data, put distillate inventories 13% below the five-year average.\n\nRefiners were not sitting idle. Oil & Gas Journal reported that refineries ran at 94.5% of capacity and that distillate output eased to 5.2 million barrels a day. Demand was strong: four-week average distillate product supplied rose 8.7% from a year earlier to 4.2 million barrels a day, per the same report.\n\n## Why prices fell anyway\n\nMarkets looked past the inventory draw. DTN reported that December WTI settled at $88.12 a barrel on Nov. 4, down 8.29% and the sharpest one-day loss since April 17. December ultra-low sulfur diesel futures dropped 7.18% to $4.2055 a gallon, with an intraday low of $4.1710, a 12-week low. DTN tied the selloff to Democratic gains in the Nov. 3 midterm elections and to expectations that Congress will challenge the Iran war policy, plus continuing talks on the Strait of Hormuz.\n\nRetail diesel has not caught up with that move. EIA's weekly survey put the U.S. on-highway average at $6.292 a gallon on Nov. 2, down $0.060 from the prior week. The next EIA reading is due Nov. 10.\n\n## What it means for carriers\n\nFutures can fall quickly, but pump prices usually follow with a lag, and that lag can shrink if the sell-off reverses. Low stocks leave the distillate market with little cushion. A cold snap, a refinery outage or a new disruption in the Gulf could lift prices again without much warning.\n\nFuel surcharge schedules that reset weekly off the EIA average will not show the futures drop until the Nov. 10 reading at the earliest. Carriers should keep fuel purchasing disciplined this week rather than assume relief is here.\n\n## What shippers and brokers should watch\n\nShippers and brokers should expect surcharge tables to stay high near term and to be volatile if the Iran talks falter. Winter heating demand competes with trucking for the same distillate barrels, so low inventories matter more as temperatures fall. Watch the weekly EIA petroleum report each Wednesday for stock changes and the Monday diesel survey for the retail response.\n\nTrack the national average on PDI's diesel prices page at /diesel.",
+      "tags": [
+        "diesel",
+        "fuel",
+        "economy"
+      ],
+      "featured": true,
+      "sources": [
+        {
+          "title": "Oil sinks 8% after US election; stockpile drop ignored",
+          "publisher": "DTN",
+          "url": "https://www.dtnpf.com/agriculture/web/ag/news/world-policy/article/2026/11/04/oil-sinks-8-us-election-stockpile",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "EIA: US crude oil inventories down 900,000 bbl",
+          "publisher": "Oil & Gas Journal",
+          "url": "https://ogj.com/general-interest/economics-markets/news/55416690/eia-us-crude-oil-inventories-down-900000-bbl",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "Gasoline and Diesel Fuel Update",
+          "publisher": "U.S. Energy Information Administration",
+          "url": "https://www.eia.gov/petroleum/gasdiesel/",
+          "date": "2026-11-03"
+        }
+      ],
+      "es": {
+        "title": "Inventarios de diésel en mínimo de 23 años, pero los futuros caen 7% tras las elecciones",
+        "dek": "La EIA reporta destilados en 99.3 millones de barriles, el nivel más bajo desde 2003. Los futuros cayeron fuerte el miércoles, pero el diésel al detalle estaba en $6.292 el 2 de noviembre.",
+        "body": "Los inventarios de destilados en Estados Unidos, la reserva de la que sale la mayor parte del diésel del país, cayeron la semana pasada a su nivel más bajo en más de 20 años, mientras el crudo y los futuros del diésel se desplomaban el miércoles. Las dos señales apuntan en direcciones opuestas para los transportistas, y el precio en la bomba suele seguir la escasez física con más demora que la que muestra frente a los futuros.\n\n## Lo que muestran los datos\n\nLa Administración de Información de Energía (EIA) informó el 4 de noviembre que las existencias de destilados bajaron 3.6 millones de barriles, a 99.3 millones, en la semana que terminó el 30 de octubre, según DTN. Es el nivel más bajo desde la semana que terminó el 2 de mayo de 2003. Oil & Gas Journal, con datos de la EIA, ubicó los inventarios de destilados 13% por debajo del promedio de cinco años.\n\nLas refinerías no estuvieron paradas. Oil & Gas Journal indicó que operaron al 94.5% de su capacidad y que la producción de destilados bajó a 5.2 millones de barriles diarios. La demanda fue fuerte: el promedio de cuatro semanas del suministro de destilados subió 8.7% frente al año anterior, a 4.2 millones de barriles diarios, según el mismo informe.\n\n## Por qué cayeron los precios de todos modos\n\nEl mercado ignoró la baja de inventarios. DTN reportó que el WTI de diciembre cerró el 4 de noviembre en $88.12 por barril, con una caída de 8.29%, la mayor en un día desde el 17 de abril. Los futuros de diésel de ultra bajo azufre para diciembre bajaron 7.18%, a $4.2055 por galón, con un mínimo del día de $4.1710, el más bajo en 12 semanas. DTN vinculó la caída con el avance demócrata en las elecciones legislativas del 3 de noviembre, con la expectativa de que el Congreso cuestione la política de guerra con Irán y con las conversaciones sobre el estrecho de Ormuz.\n\nEl diésel al detalle todavía no refleja ese movimiento. La encuesta semanal de la EIA ubicó el promedio nacional en $6.292 por galón el 2 de noviembre, $0.060 menos que la semana anterior. La próxima lectura de la EIA saldrá el 10 de noviembre.\n\n## Qué significa para los transportistas\n\nLos futuros pueden caer rápido, pero el precio en la bomba suele ir detrás, y esa demora puede acortarse si la baja se revierte. Con inventarios tan bajos, el mercado de destilados casi no tiene margen. Una ola de frío, una falla en una refinería o una nueva interrupción en el Golfo podrían subir los precios otra vez sin mucho aviso.\n\nLos recargos por combustible que se ajustan cada semana con el promedio de la EIA no reflejarán la baja de los futuros antes de la lectura del 10 de noviembre. Los transportistas deben comprar combustible con disciplina esta semana y no dar el alivio por hecho.\n\n## Qué deben vigilar cargadores y corredores de carga\n\nCargadores y corredores deben esperar tablas de recargo altas a corto plazo y volátiles si las conversaciones con Irán se estancan. La demanda de calefacción en invierno compite con el transporte por los mismos barriles de destilado, así que los inventarios bajos pesan más a medida que baja la temperatura. Conviene seguir el informe petrolero semanal de la EIA cada miércoles y la encuesta de diésel de los lunes para ver la respuesta al detalle.\n\nConsulte el promedio nacional en la página de precios del diésel de PDI, en /diesel."
+      }
+    },
     {
       "id": "2026-11-04-1500-highway-shield-arkansas-wave-three",
       "publishedAt": "2026-11-04T20:52:03Z",
