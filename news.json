@@ -1,7 +1,45 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T20:52:21Z",
+  "updatedAt": "2026-11-06T14:52:22Z",
   "stories": [
+    {
+      "id": "2026-11-06-0900-jobs-report-trucking-flat",
+      "publishedAt": "2026-11-06T14:52:22Z",
+      "title": "October jobs report: U.S. adds 165,000 jobs, but trucking payrolls stay flat at 1.47 million",
+      "dek": "BLS says truck transportation employment was unchanged in October while couriers drove the sector's gain. DAT shows load posts rising and truck posts falling.",
+      "body": "The U.S. economy added 165,000 jobs in October, well above the 12-month average gain of 48,000, according to the Bureau of Labor Statistics report released November 6. The unemployment rate was 4.1 percent. Truck drivers and fleets did not share in the gain.\n\nBLS table B-1 shows truck transportation employment at 1,471.3 thousand in October on a seasonally adjusted basis, unchanged from September. That is about 1,300 jobs below the 1,472.6 thousand BLS reported for October 2025. BLS also counted 1,839.2 thousand in warehousing and storage, down 300 jobs from September.\n\nThe broader transportation and warehousing sector did add 25,000 jobs, but BLS said couriers and messengers supplied 17,000 of them, with air transportation adding 4,000. The sector is up 104,000 since its February low, and couriers account for 71,000 of that rise. In other words, the sector's recovery is parcel delivery, not long-haul trucking.\n\n## What it means for carriers\n\nFlat payrolls fit what DAT is seeing on the spot market. In its dry van report published November 2, DAT said the spot linehaul rate paid to carriers, excluding fuel, averaged $2.23 a mile for the week ending October 31. That was up 3 cents from the prior week and up 32.6 percent from a year earlier.\n\nDAT also reported dry van load posts up 8.4 percent on the week and truck posts down 5.7 percent. Its dry van load-to-truck ratio was 10.93, against 6.37 a year earlier. Fewer trucks chasing more freight is a capacity story, and the jobs data is consistent with it: the fleet workforce is not growing to meet demand.\n\n## What shippers and brokers should watch\n\nA stronger economy with no added trucking headcount points to tighter capacity if freight demand keeps building. BLS reported manufacturing up 19,000 jobs in October and 101,000 since its December 2025 low. Factory hiring tends to precede more outbound loads.\n\nShippers with spot-heavy programs may want to check how their contract rates compare with the DAT spot figure. Brokers should expect carriers to hold out for more on lanes where truck posts keep falling.\n\nOne caution: BLS marks the September and October figures as preliminary, and monthly trucking counts are often revised. The next report, covering November, is due December 4, according to BLS.",
+      "tags": [
+        "economy",
+        "labor",
+        "capacity"
+      ],
+      "featured": true,
+      "sources": [
+        {
+          "title": "The Employment Situation: October 2026",
+          "publisher": "U.S. Bureau of Labor Statistics",
+          "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "Table B-1. Employees on nonfarm payrolls by industry sector",
+          "publisher": "U.S. Bureau of Labor Statistics",
+          "url": "https://www.bls.gov/news.release/empsit.t17.htm",
+          "date": "2026-11-06"
+        },
+        {
+          "title": "Dry Van Report: Spot rates climb as month-end freight meets shrinking capacity",
+          "publisher": "DAT Freight & Analytics",
+          "url": "https://www.dat.com/blog/dry-van-report-spot-rates-climb-as-month-end-freight-meets-shrinking-capacity",
+          "date": "2026-11-02"
+        }
+      ],
+      "es": {
+        "title": "Informe de empleo de octubre: EE. UU. suma 165,000 empleos, pero el transporte de carga se queda plano en 1.47 millones",
+        "dek": "BLS indica que el empleo en transporte de carga no cambió en octubre y que la mensajería impulsó el sector. DAT muestra más cargas publicadas y menos camiones.",
+        "body": "La economía de Estados Unidos sumó 165,000 empleos en octubre, muy por encima del promedio de 48,000 de los últimos 12 meses, según el informe de la Oficina de Estadísticas Laborales (BLS) publicado el 6 de noviembre. La tasa de desempleo fue de 4.1 por ciento. Los transportistas no compartieron esa mejora.\n\nLa tabla B-1 de BLS ubica el empleo en transporte de carga por carretera en 1,471.3 miles en octubre, con ajuste estacional, sin cambios frente a septiembre. Eso es unos 1,300 empleos menos que los 1,472.6 miles que BLS reportó en octubre de 2025. En almacenamiento, BLS contó 1,839.2 miles, 300 menos que en septiembre.\n\nEl sector más amplio de transporte y almacenamiento sí sumó 25,000 empleos, pero BLS indicó que 17,000 vinieron de mensajería y paquetería, y 4,000 del transporte aéreo. El sector está 104,000 empleos por encima de su mínimo de febrero, y 71,000 de ese aumento son de mensajería. Es decir, la recuperación es de reparto de paquetes, no de carga de larga distancia.\n\n## Qué significa para los transportistas\n\nLos empleos planos coinciden con lo que DAT ve en el mercado spot. En su reporte de furgón seco del 2 de noviembre, DAT informó que la tarifa spot promedio pagada al transportista, sin combustible, fue de $2.23 por milla en la semana que terminó el 31 de octubre. Eso es 3 centavos más que la semana anterior y 32.6 por ciento más que un año antes.\n\nDAT también reportó que las publicaciones de carga de furgón seco subieron 8.4 por ciento en la semana y las de camiones bajaron 5.7 por ciento. Su relación de cargas por camión fue de 10.93, frente a 6.37 un año antes. Menos camiones para más carga indica capacidad ajustada, y los datos de empleo son consistentes: la fuerza laboral de las flotas no crece para atender la demanda.\n\n## Qué deben vigilar cargadores y corredores de carga\n\nUna economía más fuerte sin más empleados en el transporte apunta a menos capacidad si la demanda de carga sigue creciendo. BLS reportó que la manufactura sumó 19,000 empleos en octubre y 101,000 desde su mínimo de diciembre de 2025. La contratación en las fábricas suele anticipar más cargas de salida.\n\nLos cargadores que dependen del mercado spot deberían comparar sus tarifas por contrato con la cifra spot de DAT. Los corredores de carga pueden esperar que los transportistas pidan más en los carriles donde siguen bajando las publicaciones de camiones.\n\nUna advertencia: BLS marca como preliminares las cifras de septiembre y octubre, y los conteos mensuales de transporte suelen revisarse. El próximo informe, de noviembre, sale el 4 de diciembre, según BLS."
+      }
+    },
     {
       "id": "2026-11-05-1500-port-watchmen-deadline-friday",
       "publishedAt": "2026-11-05T20:52:21Z",
