@@ -1,7 +1,45 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T20:52:19Z",
+  "updatedAt": "2026-11-07T14:51:54Z",
   "stories": [
+    {
+      "id": "2026-11-07-0900-spot-rates-41-percent-trackers-split",
+      "publishedAt": "2026-11-07T14:51:54Z",
+      "title": "Spot truckload rates run 41% above last year, but FTR and DAT split on the latest week",
+      "dek": "Flock Freight's Chris Pickett sees spot rates peaking 45% to 50% above year-ago levels. FTR showed a drop across all three equipment types this week while DAT showed small gains.",
+      "body": "Truckload spot rates are running about 41% above last year, but the week-to-week picture turned murkier this week, and the two main rate trackers disagree on direction.\n\nChris Pickett, chief commercial officer at Flock Freight, told FreightWaves on Nov. 3 that spot truckload rates were up 41% year over year through October. He said contract rates have reset 10% to 12% higher, depending on the index. His forecast: spot rates have another 10% to 15% to run, peaking around 45% to 50% above year-ago levels this quarter or next. Flock sells shared truckload capacity, so treat the call as one view, not a consensus.\n\n## Trackers split on the latest week\n\nFleetOwner reported on Nov. 5 that FTR showed spot rates falling across dry van, reefer and flatbed, the first drop across all three since August. FTR put dry van down 3 cents, reefer down 4 cents and flatbed down almost 2 cents, with year-over-year gains of almost 48% for dry van, over 41% for reefer and 42% for flatbed.\n\nDAT's weekly linehaul numbers, as cited in the same article, moved the other way: dry van up 3 cents to $2.23 a mile, reefer up 3 cents to $2.71 and flatbed up 1 cent to $2.61. The article did not explain the gap, which likely comes from differences in how each firm samples loads and weights lanes. FleetOwner called the declines mostly normal for this time of year, except for flatbed.\n\n## What it means for carriers\n\nThe year-over-year gap is large, but one soft week is not a trend. Carriers holding capacity for spot freight should watch whether the FTR decline shows up in DAT's next report before repricing lanes. Pickett expects contract rates to reach 15% to 20% above year-ago levels by mid-2027 and does not expect sequential declines until early 2028, which, if right, favors carriers who have not locked in low contract rates.\n\nFuel is part of the squeeze. The Energy Information Administration put the U.S. on-highway diesel average at $6.292 a gallon on Nov. 2, down 6 cents from the prior week but $2.539 above a year earlier. Pickett said diesel has risen faster than all-in spot rates for roughly the past six months.\n\n## What shippers and brokers should watch\n\nPickett's advice to shippers was to revisit mode strategies left on autopilot during the freight recession, consider intermodal rail, and look at shared truckload for partly filled trailers, which he said runs 5% to 30% below full truckload.\n\nHe also flagged fuel surcharge assumptions in current bids. If the Iran or Ukraine conflicts resolved and WTI crude dropped to $70 to $80 a barrel, in his scenario, surcharge schedules built on today's diesel could fall out of line and force another round of contract repricing.\n\nBrokers should expect continued pressure on margins if spot costs rise faster than contract revenue. The next EIA diesel reading is due Nov. 10.\n",
+      "tags": [
+        "rates",
+        "capacity",
+        "fuel"
+      ],
+      "featured": false,
+      "sources": [
+        {
+          "title": "Truckload Rates Explode: How Shippers Adapt to Rising Costs",
+          "publisher": "FreightWaves",
+          "url": "https://www.freightwaves.com/news/truckload-rates-explode-how-shippers-adapt-to-rising-costs",
+          "date": "2026-11-03"
+        },
+        {
+          "title": "Truckload spot rates fall across dry van, refrigerated, and flatbed markets after months of gains",
+          "publisher": "FleetOwner",
+          "url": "https://www.fleetowner.com/news/rates/news/55416598/truckload-spot-rates-fall-across-dry-van-refrigerated-and-flatbed-markets-after-months-of-gains",
+          "date": "2026-11-05"
+        },
+        {
+          "title": "Gasoline and Diesel Fuel Update",
+          "publisher": "U.S. Energy Information Administration",
+          "url": "https://www.eia.gov/petroleum/gasdiesel/",
+          "date": "2026-11-03"
+        }
+      ],
+      "es": {
+        "title": "Las tarifas spot suben 41% interanual, pero FTR y DAT no coinciden en la última semana",
+        "dek": "Chris Pickett, de Flock Freight, prevé un pico de 45% a 50% sobre el año anterior. FTR mostró bajas en los tres tipos de equipo esta semana y DAT, pequeñas alzas.",
+        "body": "Las tarifas spot de carga completa están cerca de un 41% por encima de las del año pasado, pero la semana trajo señales mixtas: los dos principales rastreadores de tarifas no coinciden en la dirección.\n\nChris Pickett, director comercial de Flock Freight, dijo a FreightWaves el 3 de noviembre que las tarifas spot subieron 41% interanual hasta octubre. Según él, las tarifas por contrato se ajustaron entre 10% y 12% al alza, según el índice. Su pronóstico: a las tarifas spot todavía les quedan entre 10% y 15% de alza, con un pico de entre 45% y 50% sobre el año anterior en este trimestre o el próximo. Flock vende capacidad compartida de carga completa, así que es una opinión y no un consenso.\n\n## Los rastreadores se separan en la última semana\n\nFleetOwner informó el 5 de noviembre que FTR mostró caídas en las tarifas spot de van seca, refrigerado y plataforma, la primera baja en los tres segmentos desde agosto. FTR registró la van seca 3 centavos abajo, el refrigerado 4 centavos abajo y la plataforma casi 2 centavos abajo, con alzas interanuales de casi 48% en van seca, más de 41% en refrigerado y 42% en plataforma.\n\nLas cifras semanales de DAT, citadas en el mismo artículo, se movieron al revés: van seca arriba 3 centavos a $2.23 por milla, refrigerado arriba 3 centavos a $2.71 y plataforma arriba 1 centavo a $2.61. El artículo no explicó la diferencia, que probablemente viene de cómo cada firma toma su muestra de cargas y pondera los corredores. FleetOwner calificó las bajas como normales para esta época del año, salvo en plataforma.\n\n## Qué significa para los transportistas\n\nLa brecha interanual es grande, pero una semana débil no es una tendencia. Los transportistas que guardan capacidad para carga spot deberían revisar si la baja de FTR aparece en el próximo reporte de DAT antes de reajustar sus corredores. Pickett espera que las tarifas por contrato lleguen a 15%-20% sobre el año anterior a mediados de 2027 y no prevé bajas secuenciales hasta principios de 2028, lo cual, de cumplirse, favorece a quienes no han fijado contratos baratos.\n\nEl combustible pesa en la ecuación. La Administración de Información de Energía (EIA) situó el promedio nacional del diésel en carretera en $6.292 por galón el 2 de noviembre, 6 centavos menos que la semana previa pero $2.539 más que un año antes. Pickett dijo que el diésel ha subido más rápido que las tarifas spot totales durante unos seis meses.\n\n## Qué deben vigilar cargadores y corredores de carga\n\nPickett recomendó a los cargadores revisar las estrategias de modo que quedaron en piloto automático durante la recesión del transporte, considerar el ferrocarril intermodal y explorar la carga compartida para remolques parcialmente llenos, que según él cuesta entre 5% y 30% menos que la carga completa.\n\nTambién advirtió sobre los supuestos de recargo por combustible en las licitaciones actuales. Si los conflictos con Irán o Ucrania se resolvieran y el crudo WTI bajara a $70-$80 por barril, en su escenario, las tablas de recargo basadas en el diésel de hoy podrían desalinearse y forzar otra ronda de reajuste de contratos.\n\nLos corredores de carga deben esperar presión sobre los márgenes si los costos spot suben más rápido que los ingresos por contrato. La próxima lectura del diésel de la EIA se publica el 10 de noviembre.\n"
+      }
+    },
     {
       "id": "2026-11-06-1500-mexico-record-trade-laredo",
       "publishedAt": "2026-11-06T20:52:19Z",
