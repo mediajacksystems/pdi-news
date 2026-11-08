@@ -1,7 +1,46 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T20:51:58Z",
+  "updatedAt": "2026-11-08T14:51:39Z",
   "stories": [
+    {
+      "id": "2026-11-08-0900-intermodal-rates-fuel-driven",
+      "publishedAt": "2026-11-08T14:51:39Z",
+      "title": "Intermodal contract rates up 12% on the transcon, but fuel drives most of it",
+      "dek": "FreightWaves says transcontinental intermodal rates rose more than 12% year over year, with fuel behind roughly two-thirds of the gain. Intermodal still prices about 30% below truckload.",
+      "body": "Intermodal contract rates are climbing into year-end, and most of the increase is fuel. FreightWaves market analyst Zach Strickland reported on November 7 that transcontinental intermodal contract rates, fuel included, are up more than 12% from a year ago. Shorter Eastern lanes are up close to 9%.\n\n## Fuel explains most of the jump\n\nStrickland estimates fuel accounts for roughly two-thirds of the transcontinental increase and three-quarters of the Eastern one. Without fuel, he puts transcontinental rates up about 5% and Eastern rates up about 2%.\n\nThe timing follows diesel. Strickland notes that diesel climbed roughly 36% from July to September, and the transcontinental index rose 10% from August to October. He points out that invoice data lags actual freight by a few weeks, so fuel swings reach the indexes late.\n\nThe Energy Information Administration put the national on-highway diesel average at $6.292 a gallon on November 2, down 6 cents from the prior week and $2.539 above a year earlier.\n\nStrickland says J.B. Hunt, which has a large intermodal book, reportedly landed only low-single-digit rate increases in the bid season that closed in September. He reads that as a sign that many large shippers negotiated fuel tables less aggressive than the commonly published schedules.\n\n## What it means for carriers\n\nIntermodal still looks cheap next to trucking. Strickland's Intermodal Contract Savings Index shows intermodal about 30% below comparable truckload lanes, down slightly from a peak of 33% in June. He expects it to stay a strong savings option.\n\nVolume is moving that way. The Association of American Railroads reported that U.S. intermodal traffic for the week ending October 31 was 280,264 containers and trailers, up 3.9% from the same week in 2025. Through the first 43 weeks of 2026, U.S. railroads handled 12,271,905 intermodal units, up 4.7%.\n\nFor truckload carriers, that is a competitor with a price edge while spot truckload rates run well above last year. Drayage and regional carriers tied to rail ramps see the other side of the same trend.\n\n## What shippers and brokers should watch\n\nMost intermodal rates reset near year-end, so contract language matters now. Strickland describes the tradeoff: a larger fuel share adds price volatility but lets total rates fall further if diesel drops after a contract is signed at a high price. A smaller share steadies cost but gives shippers less benefit when fuel falls.\n\nStrickland also cited a recent weather-related BNSF washout in New Mexico and a CSX technical outage as reminders that rail service can be disrupted, so brokers moving freight to rail should keep truck backup options.\n\nThe next EIA diesel reading is due November 10. See current prices on PDI's [diesel page](/diesel).\n",
+      "tags": [
+        "rail",
+        "rates",
+        "fuel",
+        "diesel"
+      ],
+      "featured": false,
+      "sources": [
+        {
+          "title": "Intermodal rates coming in hot this fall; mostly fuel driven",
+          "publisher": "FreightWaves",
+          "url": "https://www.freightwaves.com/news/intermodal-rates-coming-in-hot-this-fall-mostly-fuel-driven",
+          "date": "2026-11-07"
+        },
+        {
+          "title": "AAR reports rail traffic for the week ending October 31, 2026",
+          "publisher": "AJOT (Association of American Railroads data)",
+          "url": "https://www.ajot.com/news/aar-reports-rail-traffic-for-the-week-ending-october-31-2026",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "Gasoline and Diesel Fuel Update",
+          "publisher": "U.S. Energy Information Administration",
+          "url": "https://www.eia.gov/petroleum/gasdiesel/",
+          "date": "2026-11-02"
+        }
+      ],
+      "es": {
+        "title": "Tarifas intermodales de contrato suben 12% en la ruta transcontinental, pero el combustible explica la mayor parte",
+        "dek": "FreightWaves informa que las tarifas intermodales transcontinentales subieron más de 12% anual, con el combustible detrás de cerca de dos tercios. El intermodal aún cuesta cerca de 30% menos que el camión.",
+        "body": "Las tarifas de contrato intermodal siguen subiendo hacia fin de año, y la mayor parte del aumento es combustible. Zach Strickland, analista de mercado de FreightWaves, informó el 7 de noviembre que las tarifas de contrato intermodal transcontinentales, con combustible incluido, subieron más de 12% frente a un año atrás. Los corredores más cortos del Este subieron cerca de 9%.\n\n## El combustible explica la mayor parte\n\nStrickland calcula que el combustible explica aproximadamente dos tercios del aumento transcontinental y tres cuartas partes del del Este. Sin combustible, estima que las tarifas transcontinentales suben cerca de 5% y las del Este cerca de 2%.\n\nEl calendario sigue al diésel. Strickland señala que el diésel subió alrededor de 36% de julio a septiembre, y el índice transcontinental subió 10% de agosto a octubre. Explica que los datos de facturas van unas semanas detrás de la carga real, por lo que los vaivenes del combustible llegan tarde a los índices.\n\nLa Administración de Información de Energía (EIA) ubicó el promedio nacional del diésel en carretera en $6.292 por galón el 2 de noviembre, 6 centavos menos que la semana anterior y $2.539 más que un año antes.\n\nSegún Strickland, J.B. Hunt, con una gran cartera intermodal, logró según se informa solo aumentos de un dígito bajo en la temporada de licitaciones que cerró en septiembre. Lo interpreta como señal de que muchos grandes cargadores negociaron tablas de combustible menos agresivas que los programas publicados.\n\n## Qué significa para los transportistas\n\nEl intermodal todavía sale barato frente al camión. El Índice de Ahorro de Contratos Intermodales de Strickland muestra al intermodal cerca de 30% por debajo de corredores comparables de carga completa, algo menos que el máximo de 33% de junio. Él espera que siga siendo una opción de ahorro sólida.\n\nEl volumen va en esa dirección. La Asociación de Ferrocarriles de Estados Unidos (AAR) informó que el tráfico intermodal en EE. UU. de la semana terminada el 31 de octubre fue de 280,264 contenedores y remolques, 3.9% más que la misma semana de 2025. En las primeras 43 semanas de 2026, los ferrocarriles estadounidenses movieron 12,271,905 unidades intermodales, 4.7% más.\n\nPara los transportistas de carga completa, es un competidor con ventaja de precio mientras las tarifas spot están muy por encima del año pasado. Los transportistas de acarreo y regionales ligados a las rampas ferroviarias ven el otro lado de la misma tendencia.\n\n## Qué deben vigilar cargadores y corredores de carga\n\nLa mayoría de las tarifas intermodales se renuevan cerca de fin de año, así que el lenguaje del contrato importa ahora. Strickland describe el intercambio: una mayor parte de combustible agrega volatilidad de precio, pero deja que la tarifa total baje más si el diésel cae después de firmar a un precio alto. Una parte menor da un costo más estable, pero menos beneficio al cargador cuando el combustible baja.\n\nStrickland también citó un deslave por clima en BNSF en Nuevo México y una falla técnica en CSX como recordatorios de que el servicio ferroviario puede interrumpirse, por lo que los corredores que mueven carga a tren deben tener respaldo en camión.\n\nLa próxima lectura del diésel de la EIA sale el 10 de noviembre. Consulte los precios actuales en la [página de diésel de PDI](/diesel).\n"
+      }
+    },
     {
       "id": "2026-11-07-1500-brake-safety-week-results",
       "publishedAt": "2026-11-07T20:51:58Z",
