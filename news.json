@@ -1,7 +1,45 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08T17:52:40Z",
+  "updatedAt": "2026-11-08T20:52:11Z",
   "stories": [
+    {
+      "id": "2026-11-08-1500-brent-weekly-drop-diesel-lag",
+      "publishedAt": "2026-11-08T20:52:11Z",
+      "title": "Brent posts its worst week since 2020 on Iran deal hopes, but diesel is still $6.29",
+      "dek": "Crude fell about 16% last week on bets for a U.S.-Iran deal, yet Hormuz attacks continue and the EIA's latest diesel average, $6.292, predates most of the drop.",
+      "body": "Crude oil had its worst week since the pandemic shock of 2020, but the drop has not reached the diesel pump yet, and nothing in the latest data says it will stay down.\n\nAccording to [Startup Fortune](https://startupfortune.com/brent-crude-drops-16-in-a-week-to-98-as-traders-bet-on-a-us-iran-deal/), Brent crude settled at $98.32 a barrel on Friday, November 6, up 3 cents on the day. The outlet calculates that the benchmark fell about 16% over the week from $117.64, the prior Friday's close for the January contract. It reports WTI closed the week at $90.83, down nearly 13%.\n\nThe reason is expectation, not an agreement. Startup Fortune says no U.S.-Iran deal exists, though Iran reportedly sent a nuclear proposal through Qatar that asks for an end to the U.S. naval blockade, sanctions relief and unfrozen assets. Traders also read the midterm results as clearing room for a settlement. Phil Flynn of Price Futures Group described it as \"a bit of unwinding of the war premium.\"\n\n## The risk is still on the water\n\nThe same report says drone and missile attacks in the Strait of Hormuz are continuing, and that a missile strike on an oil products vessel on November 5 killed one seafarer, as reported by Global Banking & Finance. It adds that Washington expanded sanctions on Indian and Turkish firms. Those are not the moves of a market near peace, which is why a week of selling could reverse quickly.\n\n## What it means for carriers\n\nRetail diesel moves slower than crude. The EIA's weekly survey put the U.S. on-highway average at $6.292 a gallon on November 2, down 6 cents from $6.352 the week before, according to the [EIA](https://www.eia.gov/petroleum/gasdiesel/). [FleetOwner](https://www.fleetowner.com/emissions-efficiency/news/55416288/us-diesel-and-gas-prices-decline-but-trucking-fuel-costs-remain-elevated-year-over-year) reported on November 4 that this is still $2.539 above a year earlier, and that the West Coast was at $7.272 while the Gulf Coast was at $5.912.\n\nThat survey was taken before most of last week's crude slide. If crude holds near $98, pump prices should drift lower in coming weeks, but carriers should not bank on it. Fuel surcharge tables that key off the EIA average will reflect the change with a lag of a week or more.\n\n## What shippers and brokers should watch\n\n- The EIA's next weekly diesel number, due Tuesday, November 10, is the first to capture part of the crude drop.\n- Any contract where the surcharge schedule resets monthly may lock in a price that is already out of date in either direction.\n- Quotes built on current diesel should state the index and the week used, so a swing in crude does not become a dispute.\n\nFleetOwner notes that some experts expect military pressure on Iran could resume now that the midterms are over, which would keep fuel prices uncertain. Plan for both outcomes.\n\nTrack the weekly average on PDI's [diesel prices page](/diesel).\n",
+      "tags": [
+        "diesel",
+        "fuel",
+        "economy"
+      ],
+      "featured": true,
+      "sources": [
+        {
+          "title": "Brent crude drops 16% in a week to $98 as traders bet on a US-Iran deal",
+          "publisher": "Startup Fortune",
+          "url": "https://startupfortune.com/brent-crude-drops-16-in-a-week-to-98-as-traders-bet-on-a-us-iran-deal/",
+          "date": "2026-11-08"
+        },
+        {
+          "title": "U.S. diesel and gas prices decline, but trucking fuel costs remain elevated year over year",
+          "publisher": "FleetOwner",
+          "url": "https://www.fleetowner.com/emissions-efficiency/news/55416288/us-diesel-and-gas-prices-decline-but-trucking-fuel-costs-remain-elevated-year-over-year",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "Gasoline and Diesel Fuel Update",
+          "publisher": "U.S. Energy Information Administration",
+          "url": "https://www.eia.gov/petroleum/gasdiesel/",
+          "date": "2026-11-03"
+        }
+      ],
+      "es": {
+        "title": "El Brent tiene su peor semana desde 2020 por esperanzas de acuerdo con Irán, pero el diésel sigue en $6.29",
+        "dek": "El crudo cayó cerca de 16% la semana pasada por apuestas a un pacto entre EE. UU. e Irán, pero los ataques en Ormuz siguen y el promedio de diésel de la EIA, $6.292, es anterior a casi toda la baja.",
+        "body": "El petróleo tuvo su peor semana desde el golpe de la pandemia en 2020, pero la baja todavía no llega a las bombas de diésel, y nada en los datos más recientes indica que vaya a mantenerse.\n\nSegún [Startup Fortune](https://startupfortune.com/brent-crude-drops-16-in-a-week-to-98-as-traders-bet-on-a-us-iran-deal/), el crudo Brent cerró en $98.32 por barril el viernes 6 de noviembre, 3 centavos más que el día anterior. El medio calcula que el referente cayó cerca de 16% en la semana desde $117.64, el cierre del viernes previo para el contrato de enero. Informa que el WTI cerró la semana en $90.83, casi 13% menos.\n\nEl motivo son las expectativas, no un acuerdo. Startup Fortune señala que no existe ningún pacto entre Estados Unidos e Irán, aunque Irán habría enviado una propuesta nuclear por medio de Qatar que pide el fin del bloqueo naval estadounidense, alivio de sanciones y activos descongelados. Los operadores también leyeron el resultado de las elecciones intermedias como una puerta abierta a un arreglo. Phil Flynn, de Price Futures Group, lo describió como \"a bit of unwinding of the war premium\", es decir, una reducción de la prima de guerra.\n\n## El riesgo sigue en el agua\n\nEl mismo reporte dice que los ataques con drones y misiles en el estrecho de Ormuz continúan, y que un misil contra un buque de productos petroleros el 5 de noviembre mató a un marino, según Global Banking & Finance. Añade que Washington amplió las sanciones a empresas de India y Turquía. No son señales de un mercado cerca de la paz, y por eso una semana de ventas podría revertirse rápido.\n\n## Qué significa para los transportistas\n\nEl diésel al detalle se mueve más lento que el crudo. La encuesta semanal de la EIA ubicó el promedio nacional en carretera en $6.292 por galón el 2 de noviembre, 6 centavos menos que los $6.352 de la semana anterior, según la [EIA](https://www.eia.gov/petroleum/gasdiesel/). [FleetOwner](https://www.fleetowner.com/emissions-efficiency/news/55416288/us-diesel-and-gas-prices-decline-but-trucking-fuel-costs-remain-elevated-year-over-year) informó el 4 de noviembre que esa cifra aún está $2.539 por encima de hace un año, con la Costa Oeste en $7.272 y la Costa del Golfo en $5.912.\n\nEsa encuesta se tomó antes de la mayor parte de la caída del crudo. Si el crudo se mantiene cerca de $98, los precios en bomba deberían bajar en las próximas semanas, pero los transportistas no deben darlo por hecho. Las tablas de recargo por combustible que usan el promedio de la EIA reflejarán el cambio con un rezago de una semana o más.\n\n## Qué deben vigilar cargadores y corredores de carga\n\n- El próximo dato semanal de diésel de la EIA, previsto para el martes 10 de noviembre, será el primero en captar parte de la baja del crudo.\n- En contratos donde el recargo se reajusta cada mes, el precio fijado puede quedar desfasado en cualquier dirección.\n- Las cotizaciones basadas en el diésel actual deben indicar el índice y la semana usados, para que un vaivén del crudo no termine en disputa.\n\nFleetOwner señala que algunos expertos esperan que la presión militar sobre Irán pueda reanudarse tras las elecciones, lo que mantendría los precios del combustible inciertos. Conviene planear para ambos escenarios.\n\nSiga el promedio semanal en la [página de precios del diésel de PDI](/diesel).\n"
+      }
+    },
     {
       "id": "2026-11-08-1200-enforcement-here-to-stay-fuller",
       "publishedAt": "2026-11-08T17:52:40Z",
