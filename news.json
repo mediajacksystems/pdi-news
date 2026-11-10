@@ -1,7 +1,51 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T15:09:13Z",
+  "updatedAt": "2026-11-10T18:00:00Z",
   "stories": [
+    {
+      "id": "2026-11-10-1200-eia-diesel-drops-northeast-lags",
+      "publishedAt": "2026-11-10T18:00:00Z",
+      "title": "EIA's diesel average falls 16.5 cents to $6.127 as crude's slide reaches the pump, but the Northeast lags",
+      "dek": "EIA's national diesel average fell 16.5 cents to $6.127 a gallon on Nov. 9, in data released Nov. 10. The same EIA survey had the Rockies and Midwest down 20 cents or more, but New England down just 6.7 cents.",
+      "body": "The federal benchmark behind most fuel surcharge tables has started to follow crude down. The U.S. Energy Information Administration's national average for on-highway diesel was $6.127 a gallon on Nov. 9, down 16.5 cents from $6.292 a week earlier, according to [EIA's weekly fuel update](https://www.eia.gov/petroleum/gasdiesel/) released Nov. 10.\n\nWhat changed: the decline sped up. EIA's average had eased only to $6.292 on Nov. 2 from $6.352 on Oct. 26, the agency's table shows. [TheTrucker.com](https://www.thetrucker.com/trucking-news/business/diesel-prices-begin-to-downshift) called the Nov. 9 move the largest weekly drop since the Iran war began. On Nov. 9, diesel still cost $2.29 a gallon more than a year earlier, by EIA's count.\n\nThe pump is catching up with the oil market. TheTrucker, citing the Associated Press, reported Nov. 10 that Brent had fallen 2.2% to $90.55 a barrel, its lowest level in three months, after President Trump said the war with Iran was all but over militarily.\n\n## The drop was not even\n\nIn EIA's Nov. 9 survey, the Rocky Mountain average fell 23.9 cents to $6.206 and the Midwest fell 20.1 cents to $6.201. EIA's Nov. 9 numbers also had the Gulf Coast down 17.1 cents to $5.741 and California down 17.9 cents to $7.897.\n\nThe Northeast barely moved. New England slipped 6.7 cents to $6.349 and the Central Atlantic 7.4 cents to $6.412, EIA reported for Nov. 9, leaving them the two priciest regions outside the West Coast. The Lower Atlantic, at $5.694, is the cheapest region in EIA's Nov. 9 survey.\n\n## What it means for carriers, shippers and brokers\n\nFor surcharge tables keyed to EIA's national average, the Nov. 9 reading cuts the price they are figured from by 16.5 cents. Carriers fueling in the Rockies or Midwest saved more than that at the pump. Carriers running the Northeast saved less than half as much, so a surcharge tied to the national number can shrink faster than their fuel bill. Fleets with Northeast-heavy freight may want tables tied to the regional averages EIA publishes each week.\n\nCheaper fuel has not freed up trucks. [FreightWaves reported Nov. 10](https://www.freightwaves.com/news/where-trucking-capacity-sits-right-now-and-what-the-fleet-size-split-might-be-signaling) that its SONAR tender rejection index, which tracks how often carriers turn down contracted loads, stood at 12.95%, against a 12-month average of 8.18%. Truckstop and FTR said broker-posted spot rates for the week ended Nov. 6 ran close to 35% above a year earlier even with fuel surcharges stripped out, [TheTrucker reported Nov. 9](https://www.thetrucker.com/trucking-news/business/truckstop-ftr-spot-rate-moves-are-mostly-seasonal-in-the-latest-week). For shippers and brokers, that points to relief on the fuel line of the invoice, not on linehaul.\n\nWhat to watch:\n\n- EIA's next weekly diesel average, due Nov. 17, according to the agency's release schedule.\n- Whether Northeast prices close the gap with the rest of the country.\n- Any signed U.S.-Iran agreement, or new attacks on tankers that would reverse crude's slide.\n\nTrack the weekly average on PDI's [diesel prices page](/diesel).",
+      "tags": [
+        "diesel",
+        "fuel",
+        "rates"
+      ],
+      "featured": true,
+      "sources": [
+        {
+          "title": "Gasoline and Diesel Fuel Update",
+          "publisher": "U.S. Energy Information Administration",
+          "url": "https://www.eia.gov/petroleum/gasdiesel/",
+          "date": "2026-11-10"
+        },
+        {
+          "title": "Diesel prices begin to downshift",
+          "publisher": "TheTrucker.com",
+          "url": "https://www.thetrucker.com/trucking-news/business/diesel-prices-begin-to-downshift",
+          "date": "2026-11-10"
+        },
+        {
+          "title": "Where Trucking Capacity Sits Right Now, And What The Fleet-Size Split Might Be Signaling",
+          "publisher": "FreightWaves",
+          "url": "https://www.freightwaves.com/news/where-trucking-capacity-sits-right-now-and-what-the-fleet-size-split-might-be-signaling",
+          "date": "2026-11-10"
+        },
+        {
+          "title": "Truckstop, FTR: Spot rate moves are mostly seasonal in the latest week",
+          "publisher": "TheTrucker.com",
+          "url": "https://www.thetrucker.com/trucking-news/business/truckstop-ftr-spot-rate-moves-are-mostly-seasonal-in-the-latest-week",
+          "date": "2026-11-09"
+        }
+      ],
+      "es": {
+        "title": "El diésel de la EIA baja 16.5 centavos a $6.127 con la caída del crudo, pero el Noreste se queda atrás",
+        "dek": "El promedio nacional del diésel de la EIA bajó 16.5 centavos a $6.127 por galón el 9 de noviembre, según datos publicados el 10 de noviembre. En esa encuesta, las Rocosas y el Medio Oeste bajaron 20 centavos o más; Nueva Inglaterra, solo 6.7.",
+        "body": "El indicador federal que usan la mayoría de las tablas de recargo por combustible ya empezó a seguir al crudo a la baja. El promedio nacional del diésel de carretera de la Administración de Información Energética (EIA) fue de $6.127 por galón el 9 de noviembre, 16.5 centavos menos que los $6.292 de una semana antes, según la [actualización semanal de la EIA](https://www.eia.gov/petroleum/gasdiesel/) publicada el 10 de noviembre.\n\nLo que cambió: la baja se aceleró. Según la tabla de la EIA, la semana anterior el promedio apenas había pasado de $6.352 el 26 de octubre a $6.292 el 2 de noviembre. [TheTrucker.com](https://www.thetrucker.com/trucking-news/business/diesel-prices-begin-to-downshift) calificó el movimiento del 9 de noviembre como la mayor caída semanal desde que empezó la guerra con Irán. Aun así, al 9 de noviembre el diésel costaba $2.29 más por galón que un año antes, de acuerdo con la EIA.\n\nLa bomba empieza a alcanzar al mercado petrolero. TheTrucker, con información de Associated Press, reportó el 10 de noviembre que el Brent cayó 2.2% a $90.55 por barril, su nivel más bajo en tres meses, después de que el presidente Trump dijera que la guerra con Irán prácticamente terminó en lo militar.\n\n## La baja no fue pareja\n\nEn la encuesta de la EIA del 9 de noviembre, el promedio de las Montañas Rocosas bajó 23.9 centavos a $6.206 y el del Medio Oeste bajó 20.1 centavos a $6.201. Las cifras de la EIA del 9 de noviembre también muestran a la Costa del Golfo con una baja de 17.1 centavos a $5.741 y a California con una de 17.9 centavos a $7.897.\n\nEn el Noreste casi no hubo alivio. Nueva Inglaterra bajó 6.7 centavos a $6.349 y el Atlántico Central bajó 7.4 centavos a $6.412, según la EIA para el 9 de noviembre, y quedaron como las dos regiones más caras fuera de la Costa Oeste. El Atlántico Sur, con $5.694, es la región más barata en la encuesta de la EIA del 9 de noviembre.\n\n## Qué significa para transportistas, cargadores y corredores de carga\n\nEn las tablas de recargo ligadas al promedio nacional de la EIA, el precio de referencia bajó 16.5 centavos con la lectura del 9 de noviembre. Los transportistas que cargan combustible en las Rocosas o el Medio Oeste ahorraron más que eso en la bomba. Los que trabajan en el Noreste ahorraron menos de la mitad, así que un recargo atado al promedio nacional puede bajar más rápido que su gasto en diésel. A las flotas con mucha carga en el Noreste les puede convenir usar tablas basadas en los promedios regionales que la EIA publica cada semana.\n\nEl diésel más barato no ha liberado camiones. [FreightWaves reportó el 10 de noviembre](https://www.freightwaves.com/news/where-trucking-capacity-sits-right-now-and-what-the-fleet-size-split-might-be-signaling) que su índice SONAR de rechazo de cargas, que mide qué tan seguido los transportistas rechazan cargas bajo contrato, estaba en 12.95%, frente a un promedio de 12 meses de 8.18%. Truckstop y FTR indicaron que las tarifas spot publicadas por corredores en la semana que terminó el 6 de noviembre estaban cerca de 35% arriba de un año antes, aun sin contar los recargos por combustible, [reportó TheTrucker el 9 de noviembre](https://www.thetrucker.com/trucking-news/business/truckstop-ftr-spot-rate-moves-are-mostly-seasonal-in-the-latest-week). Para cargadores y corredores de carga, el alivio viene por el renglón de combustible de la factura, no por la tarifa base del flete.\n\nQué vigilar:\n\n- El próximo promedio semanal del diésel de la EIA, previsto para el 17 de noviembre según el calendario de la agencia.\n- Si los precios del Noreste se acercan a los del resto del país.\n- Cualquier acuerdo firmado entre Estados Unidos e Irán, o nuevos ataques a buques petroleros que reviertan la caída del crudo.\n\nConsulte el promedio semanal en la [página de precios del diésel](/diesel) de PDI."
+      }
+    },
     {
       "id": "2026-11-10-0900-brent-below-90-diesel-futures-fall",
       "publishedAt": "2026-11-10T15:09:13Z",
