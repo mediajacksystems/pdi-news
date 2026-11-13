@@ -1,7 +1,45 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T18:06:47Z",
+  "updatedAt": "2026-11-13T21:06:38Z",
   "stories": [
+    {
+      "id": "2026-11-13-1500-truck-freight-prices-ppi-october",
+      "publishedAt": "2026-11-13T21:06:38Z",
+      "title": "Truck freight prices jump 3.9% in October even as diesel falls, government data show",
+      "dek": "Truck freight prices posted their biggest monthly gain since April and are up nearly 25% from a year earlier, Bloomberg News reported Nov. 13 from new government data. Trucking drove most of October's rise in service prices, Reuters reported the same day.",
+      "body": "Freight trucking drove most of the rise in service prices in October, the government's producer price report showed Nov. 13.\n\nPrices for truck transportation of freight rose 3.9% in October, according to Bureau of Labor Statistics data released Nov. 13, [Reuters reported](https://kelo.com/2026/11/13/us-producer-prices-rise-further-in-october/). It was the index's biggest monthly gain since April, and it now stands nearly 25% above its level a year earlier, [Bloomberg News reported Nov. 13](https://www.ttnews.com/articles/ppi-october-2026).\n\nIn services, freight did most of the lifting. Prices for final demand services rose 0.2% in October, their fifth monthly increase in a row, and transportation and warehousing services, up 2.0%, made up three quarters of that gain, Reuters reported Nov. 13. Most of the transportation increase came from freight hauled by road, according to Reuters.\n\nThe index as a whole rose 0.3% in October, slightly below the 0.4% forecast in a Reuters poll of economists, Reuters reported Nov. 13. Over the 12 months through October it climbed 6.5%, the largest annual gain since November 2022, according to Reuters' Nov. 13 report.\n\nThe trucking jump came in a month when fuel got cheaper. Producer prices for diesel fell 7.9% in October, [AJOT reported Nov. 13](https://www.ajot.com/news/us-producer-prices-rise-0.3-in-october-as-freight-trucking-costs-climb), citing the BLS report. Compared with a year earlier, though, diesel was still up 115.2%, Reuters reported Nov. 13.\n\nCarl Weinberg, chief economist at High Frequency Economics, wrote in a note that transportation costs are \"the channel through which energy prices bleed through into core goods prices,\" Bloomberg News reported Nov. 13.\n\n## What it means for carriers, shippers and brokers\n\nFor carriers, the government's own gauge now shows freight prices rising far faster than prices overall. The report may also push borrowing costs higher. Bloomberg News reported Nov. 13 that a quarter-point Federal Reserve rate increase is widely expected at the meeting that ends Dec. 9. Reuters reported the same day that traders are split between a quarter-point and a half-point move, and that the producer price data support the view that more increases could follow. Higher rates make it more expensive to finance trucks, trailers and working capital.\n\nShippers and carriers with contracts that adjust on government price indexes should check which index and which month their escalators use, because the truck freight index is moving much faster than the overall number. Brokers holding fixed contract rates get squeezed when what they pay carriers rises faster than what shippers pay them.\n\n## What to watch\n\n- The Bureau of Economic Analysis' October PCE price data, which Bloomberg News reported Nov. 13 are due Nov. 25.\n- The November producer price report, for signs of whether truck freight prices keep climbing.\n- Whether lower diesel prices start to show up in fuel surcharges.",
+      "tags": [
+        "rates",
+        "economy",
+        "fuel"
+      ],
+      "featured": false,
+      "sources": [
+        {
+          "title": "US producer prices rise moderately in October, but inflation broadens out",
+          "publisher": "KELO-AM (Reuters)",
+          "url": "https://kelo.com/2026/11/13/us-producer-prices-rise-further-in-october/",
+          "date": "2026-11-13"
+        },
+        {
+          "title": "Wholesale inflation picks up to fastest pace since 2022",
+          "publisher": "Transport Topics (Bloomberg News)",
+          "url": "https://www.ttnews.com/articles/ppi-october-2026",
+          "date": "2026-11-13"
+        },
+        {
+          "title": "US producer prices rise 0.3% in October as freight trucking costs climb",
+          "publisher": "American Journal of Transportation (AJOT)",
+          "url": "https://www.ajot.com/news/us-producer-prices-rise-0.3-in-october-as-freight-trucking-costs-climb",
+          "date": "2026-11-13"
+        }
+      ],
+      "es": {
+        "title": "Los precios del flete por camión suben 3.9% en octubre aunque baja el diésel, según datos del gobierno",
+        "dek": "Los precios del flete por camión tuvieron su mayor alza mensual desde abril y están casi 25% arriba de hace un año, informó Bloomberg News el 13 de noviembre. Según Reuters, el autotransporte impulsó la mayor parte del alza en los precios de servicios en octubre.",
+        "body": "El autotransporte de carga fue el principal motor del alza en los precios de los servicios en octubre, según el informe de precios al productor que publicó el gobierno el 13 de noviembre.\n\nLos precios del transporte de carga por camión subieron 3.9% en octubre, según datos de la Oficina de Estadísticas Laborales (BLS) publicados el 13 de noviembre, [informó Reuters](https://kelo.com/2026/11/13/us-producer-prices-rise-further-in-october/). Fue la mayor alza mensual del índice desde abril, y ya está casi 25% por encima de su nivel de hace un año, [informó Bloomberg News el 13 de noviembre](https://www.ttnews.com/articles/ppi-october-2026).\n\nEn los servicios, la carga fue la que más pesó. Los precios de los servicios de demanda final subieron 0.2% en octubre, su quinto aumento mensual seguido, y los servicios de transporte y almacenamiento, que subieron 2.0%, explicaron tres cuartas partes de ese avance, informó Reuters el 13 de noviembre. Según Reuters, la mayor parte del aumento en transporte vino de la carga por carretera.\n\nEl índice general subió 0.3% en octubre, un poco menos que el 0.4% que pronosticaban los economistas encuestados por Reuters, informó la agencia el 13 de noviembre. En los 12 meses hasta octubre subió 6.5%, la mayor alza anual desde noviembre de 2022, según el informe de Reuters del 13 de noviembre.\n\nEl salto del flete llegó en un mes en que el combustible bajó. Los precios al productor del diésel cayeron 7.9% en octubre, [informó AJOT el 13 de noviembre](https://www.ajot.com/news/us-producer-prices-rise-0.3-in-october-as-freight-trucking-costs-climb) con base en el informe del BLS. Aun así, el diésel seguía 115.2% más caro que un año antes, informó Reuters el 13 de noviembre.\n\nCarl Weinberg, economista jefe de High Frequency Economics, escribió en una nota que los costos de transporte son la vía por la que los precios de la energía pasan a los precios de los bienes, sin contar alimentos ni energía, informó Bloomberg News el 13 de noviembre.\n\n## Qué significa para transportistas, cargadores y corredores de carga\n\nPara los transportistas, el propio indicador del gobierno muestra que los precios del flete suben mucho más rápido que los precios en general. El informe también podría encarecer el crédito. Bloomberg News informó el 13 de noviembre que se espera ampliamente un alza de un cuarto de punto en la tasa de la Reserva Federal en la reunión que termina el 9 de diciembre. Reuters informó ese mismo día que los operadores del mercado están divididos entre un alza de un cuarto de punto y una de medio punto, y que los datos de precios al productor respaldan la idea de que podrían venir más alzas. Con tasas más altas, cuesta más financiar camiones, remolques y capital de trabajo.\n\nLos cargadores y transportistas con contratos que se ajustan con índices de precios del gobierno deben revisar qué índice y qué mes usan sus cláusulas de ajuste, porque el índice del flete por camión avanza mucho más rápido que el índice general. Los corredores de carga con tarifas de contrato fijas ven reducidos sus márgenes cuando lo que pagan a los transportistas sube más rápido que lo que les pagan los cargadores.\n\n## Qué vigilar\n\n- Los datos de precios PCE de octubre de la Oficina de Análisis Económico (BEA), que según informó Bloomberg News el 13 de noviembre se publican el 25 de noviembre.\n- El informe de precios al productor de noviembre, para ver si el flete por camión sigue subiendo.\n- Si los precios más bajos del diésel empiezan a reflejarse en los recargos por combustible."
+      }
+    },
     {
       "id": "2026-11-13-1200-iea-oil-surplus-diesel-tight",
       "publishedAt": "2026-11-13T18:06:47Z",
