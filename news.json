@@ -1,7 +1,51 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T15:07:55Z",
+  "updatedAt": "2026-11-17T18:06:32Z",
   "stories": [
+    {
+      "id": "2026-11-17-1200-october-retail-sales-big-ticket",
+      "publishedAt": "2026-11-17T18:06:32Z",
+      "title": "Retail sales rose 0.2% in October as shoppers pulled back on cars and furniture",
+      "dek": "Sales at U.S. retailers and restaurants reached $748.2 billion in October, up 0.2% from September, the Census Bureau said Nov. 17. RXO said the same day that thin truck capacity, not demand, is keeping truckload spot rates high.",
+      "body": "U.S. shoppers eased off in October. Sales at retailers and restaurants totaled $748.2 billion, up 0.2% from September and 6.8% from October 2025, the [Census Bureau reported Nov. 17](https://www.census.gov/retail/sales.html). In the same Nov. 17 report, the bureau left September's 0.8% gain unrevised. The figures are adjusted for seasonal swings but not for price changes, so higher prices account for part of any gain.\n\nThe 0.2% rise matched the forecast of economists polled by Reuters, [Reuters reported Nov. 17](https://whbl.com/2026/11/17/us-retail-sales-increase-moderately-in-october/). Core retail sales, which strip out autos, gasoline, building materials and food services, rose 0.6% against a 0.4% forecast, and September's core figure was revised up to 0.5% from 0.1%, Reuters said Nov. 17.\n\nThe soft spots were big-ticket goods. Sales at furniture and home furnishings stores fell 2.3% in October and sales at clothing stores slipped 0.7%, while online retailers gained 1.2% and gas stations rose 1.5%, [the Associated Press reported Nov. 17](https://www.ksat.com/business/2026/11/17/shoppers-slowed-spending-in-october-with-high-prices-leading-to-caution/). Reuters said households cut back on motor vehicles and other costly items as prices rose.\n\nReuters tied the caution to the U.S.-Israeli war with Iran, which it said is pushing up inflation and eroding buying power. Real disposable income fell 0.3% in September, and the saving rate dropped to near a four-year low, Reuters reported Nov. 17. Brian LeBlanc, head of economic analysis at PNC Financial, told Reuters that older and wealthier households are better able to absorb higher prices.\n\n## What it means for carriers\n\nIn RXO's reading, thin capacity, not freight demand, is holding truckload rates up. The broker said Nov. 17 that the Curve, its index of truckload spot rates excluding fuel, ended the third quarter at 37.9%, its highest level since 2021, up from 32.4% in the second quarter. RXO's [Nov. 17 release](https://www.stocktitan.net/news/RXO/rxo-s-latest-curve-freight-market-forecast-marks-the-tenth-g852qo2sn93j.html) said the index has now shown spot rate inflation for 10 straight quarters. The company said carriers leaving the market because of federal enforcement and rising costs have left capacity short of demand, even with overall freight demand still muted.\n\nThrough Nov. 13, the Curve had eased from its third-quarter level but was still well above 2025 heading into peak season, RXO said Nov. 17. Jared Weisfeld, RXO's chief strategy officer, said, \"The market remains highly susceptible to increases in demand.\"\n\n## What shippers and brokers should watch\n\n- The holiday rush. Thanksgiving is Nov. 26 and Black Friday is Nov. 27. RXO's Corey Klujsza, vice president of pricing and procurement, said a stronger season than expected could set off new swings in rates and capacity.\n- Where the freight goes. October's spending shifted toward online orders, which move through fulfillment centers and parcel networks, and away from furniture stores, whose bulky goods ride in truckload and LTL trailers.\n- Dollars versus volume. Census sales figures are not adjusted for inflation, so when prices rise they can overstate how much merchandise is actually moving.",
+      "tags": [
+        "economy",
+        "rates",
+        "capacity"
+      ],
+      "featured": false,
+      "sources": [
+        {
+          "title": "Advance Monthly Sales for Retail and Food Services, October 2026",
+          "publisher": "U.S. Census Bureau",
+          "url": "https://www.census.gov/retail/sales.html",
+          "date": "2026-11-17"
+        },
+        {
+          "title": "US retail sales increase moderately in October",
+          "publisher": "WHBL (Reuters)",
+          "url": "https://whbl.com/2026/11/17/us-retail-sales-increase-moderately-in-october/",
+          "date": "2026-11-17"
+        },
+        {
+          "title": "Shoppers slowed spending in October with high prices leading to caution",
+          "publisher": "KSAT (Associated Press)",
+          "url": "https://www.ksat.com/business/2026/11/17/shoppers-slowed-spending-in-october-with-high-prices-leading-to-caution/",
+          "date": "2026-11-17"
+        },
+        {
+          "title": "RXO's Latest Curve Freight Market Forecast Marks the Tenth Consecutive Quarter of Spot Rate Inflation",
+          "publisher": "RXO (via StockTitan)",
+          "url": "https://www.stocktitan.net/news/RXO/rxo-s-latest-curve-freight-market-forecast-marks-the-tenth-g852qo2sn93j.html",
+          "date": "2026-11-17"
+        }
+      ],
+      "es": {
+        "title": "Las ventas minoristas subieron 0.2% en octubre y los consumidores frenaron sus compras de autos y muebles",
+        "dek": "Las ventas de minoristas y restaurantes de EE. UU. sumaron $748,200 millones en octubre, 0.2% más que en septiembre, informó la Oficina del Censo el 17 de noviembre. RXO dijo ese día que la falta de capacidad, no la demanda, mantiene altas las tarifas spot de carga completa.",
+        "body": "Los consumidores de EE. UU. moderaron su gasto en octubre. Las ventas de minoristas y restaurantes sumaron $748,200 millones, 0.2% más que en septiembre y 6.8% más que en octubre de 2025, [informó la Oficina del Censo el 17 de noviembre](https://www.census.gov/retail/sales.html). En ese mismo informe del 17 de noviembre, la oficina dejó sin revisar el alza de 0.8% de septiembre. Las cifras están ajustadas por temporada, pero no por cambios de precios, así que los precios más altos explican parte de cualquier aumento.\n\nEl alza de 0.2% coincidió con el pronóstico de los economistas encuestados por Reuters, [informó Reuters el 17 de noviembre](https://whbl.com/2026/11/17/us-retail-sales-increase-moderately-in-october/). Las ventas minoristas subyacentes, que excluyen autos, gasolina, materiales de construcción y servicios de comida, subieron 0.6% frente a un pronóstico de 0.4%, y la cifra subyacente de septiembre se revisó al alza a 0.5% desde 0.1%, dijo Reuters el 17 de noviembre.\n\nLos puntos débiles fueron los artículos caros. Las ventas de las tiendas de muebles y artículos para el hogar cayeron 2.3% en octubre y las de las tiendas de ropa bajaron 0.7%, mientras que las de los minoristas en línea subieron 1.2% y las de las gasolineras, 1.5%, [informó Associated Press el 17 de noviembre](https://www.ksat.com/business/2026/11/17/shoppers-slowed-spending-in-october-with-high-prices-leading-to-caution/). Reuters dijo que los hogares recortaron sus compras de vehículos y otros artículos costosos ante el alza de precios.\n\nReuters atribuyó esa cautela a la guerra de EE. UU. e Israel contra Irán, que según la agencia está elevando la inflación y reduciendo el poder de compra. El ingreso disponible real cayó 0.3% en septiembre y la tasa de ahorro bajó a cerca de su nivel más bajo en cuatro años, informó Reuters el 17 de noviembre. Brian LeBlanc, jefe de análisis económico de PNC Financial, dijo a Reuters que los hogares de mayor edad y con más ingresos están en mejor posición para absorber precios más altos.\n\n## Qué significa para los transportistas\n\nPara RXO, lo que sostiene las tarifas de carga completa es la poca capacidad, no la demanda de carga. El corredor de carga dijo el 17 de noviembre que Curve, su índice de tarifas spot de carga completa sin el efecto del combustible, cerró el tercer trimestre en 37.9%, su nivel más alto desde 2021, frente a 32.4% en el segundo trimestre. Según el [comunicado de RXO del 17 de noviembre](https://www.stocktitan.net/news/RXO/rxo-s-latest-curve-freight-market-forecast-marks-the-tenth-g852qo2sn93j.html), el índice ya suma 10 trimestres seguidos de inflación en las tarifas spot. La empresa dijo que la salida de transportistas del mercado, por la aplicación de normas federales y el alza de costos, dejó la capacidad por debajo de la demanda, aunque la demanda general de carga sigue floja.\n\nHasta el 13 de noviembre, el índice había bajado respecto del tercer trimestre, pero seguía muy por encima de 2025 de cara a la temporada alta, dijo RXO el 17 de noviembre. Jared Weisfeld, director de estrategia de RXO, dijo: \"El mercado sigue siendo muy susceptible a los aumentos de la demanda\".\n\n## Qué deben vigilar cargadores y corredores de carga\n\n- La temporada de fiestas. El Día de Acción de Gracias es el 26 de noviembre y el Black Friday, el 27. Corey Klujsza, vicepresidente de precios y compras de RXO, dijo que una temporada más fuerte de lo previsto podría desatar nuevos vaivenes en tarifas y capacidad.\n- Hacia dónde va la carga. En octubre, el gasto se movió hacia los pedidos en línea, que pasan por centros de distribución y redes de paquetería, y se alejó de las mueblerías, cuyos productos voluminosos viajan en remolques de carga completa y de carga consolidada (LTL).\n- Dólares contra volumen. Las cifras de ventas del Censo no se ajustan por inflación, así que, cuando los precios suben, pueden exagerar cuánta mercancía se mueve en realidad."
+      }
+    },
     {
       "id": "2026-11-17-0900-oil-falls-despite-hormuz-strikes",
       "publishedAt": "2026-11-17T15:07:55Z",
